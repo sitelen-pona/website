@@ -61,6 +61,13 @@ Some matters were resolved by alternative processes. One complexity that arose w
 
 {% sp %}
 {% endsp %}
+{% sl %}
+kepeken nasin seme la kulupu pali li kama sona e sitelen pona kulupu li lipu e ona? suli la anpa sewi li pali e nasin. jan ante pi kulupu pali li pali poka li pana e pali lili e ante lili. pini la jan mute pi kulupu pali li wile e ni: kulupu li kepeken nasin. lipu ni li toki suli e nasin.
+
+pali ni la mi kulupu li wile e sona ante mute. pali pi mute nanpa wan li tawa alasa ni: nimi ale la, ona li suli seme lon kepeken kulupu? mi lukin e ni: jan li toki seme e kepeken ona; mi ken lukin e kepeken seme lon toki kulupu; lipu pi sitelen pona li kepeken seme. nanpa tu la, nimi ale la mi pana e sitelen pona wan, li alasa e ni pona kepeken nasin pi sama mute. pali tu ni li tawa jan ante pi kulupu pali.
+
+
+{% endsl %}
 {% endsplit %}
 
 <br>
@@ -68,13 +75,12 @@ Some matters were resolved by alternative processes. One complexity that arose w
 {% splith %}
 {% en %}Tiers of Teachability{% enden %}
 {% sp %}{% endsp %}
-{% sl %}{% endsl %}
+{% sl %}suli kepeken{% endsl %}
 {% endsplith %}
 
 {% split %}
 {% en %}
 The following table describes the Tiers of Teachability into which Common Sitelen Pona assigns words and glyphs. The purpose of these categories is to capture the way the Toki Pona community engages with Toki Pona and Sitelen Pona. In this, we understood that there is a wide array of ways in which any given member of the community may use Sitelen Pona, but community-wide, there are clear trends that emerge in what words and glyphs any given speaker elects to use.
-exists
 {% enden %}
 
 {% sp %}
@@ -82,7 +88,7 @@ o pana e sitelen pona lon ni
 {% endsp %}
 
 {% sl %}
-o pana e sitelen pona lon ni
+o pana e sitelen lon ni
 {% endsl %}
 {% endsplit %}
 
@@ -97,7 +103,7 @@ o pana e sitelen pona lon ni
         <tbody>
             <tr>
                 <td>Tier 1</td>
-                <td>Almost universal, reflecting conservative interpretations of the writing system as first described in <em>Toki Pona: The Language of Good<em> (2014)</td>
+                <td>Almost universal, reflecting conservative interpretations of the writing system as first described in <em>Toki Pona: The Language of Good</em> (2014)</td>
             </tr>
             <tr>
                 <td>Tier 2</td>
@@ -116,16 +122,46 @@ o pana e sitelen pona lon ni
 </table>
 </span>
 
+<span>
+<table class="tiers">
+    <caption>nanpa pi suli kepeken li seme?<caption>
+    <thead>
+        <tr>
+            <th>nanpa suli</th>
+            <th>suli ni li seme</th>
+        </tr>
+        <tbody>
+            <tr>
+                <td>suli #1</td>
+                <td>ale li kepeken ni. ale li pilin e ni: ni li lon nasin ni: lipu pu li toki open e sitelen pona.</td>
+            </tr>
+            <tr>
+                <td>suli #2</td>
+                <td>jan mute a li kepeken ni.</td>
+            </tr>
+            <tr>
+                <td>suli #3</td>
+                <td>jan pi mute lili li kepeken ni. ni li lon ala nasin suli, taso jan kepeken li lili ala. pana sona la ni li lili nanpa wan.</td>
+            </tr>
+            <tr>
+                <td>suli #4</td>
+                <td>sitelen pona kulupu la ni li weka.</td>
+            </tr>
+        </tbody>
+    </thead>
+</table>
+</span>
+
 {% splith %}
 {% en %}Which words are commonly used in Sitelen Pona?{% enden %}
-{% sp %}nimi seme li wawa lon sitelen pona{% endsp %}
-{% sl %}nimi seme li wawa lon sitelen pona?{% endsl %}
+{% sp %}nimi seme li suli kepeken lon sitelen pona{% endsp %}
+{% sl %}nimi seme li suli kepeken lon sitelen pona?{% endsl %}
 {% endsplith %}
 
 {% splith 3%}
 {% en %}Process{% enden %}
-{% sp %}nasin pi kama sona{% endsp %}
-{% sl %}nasin pi kama sona{% endsl %}
+{% sp %}nasin alasa{% endsp %}
+{% sl %}nasin alasa{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -149,8 +185,8 @@ sona ante la jan tu wan ni li pali e nasin ante.
 
 {% splith 4 %}
 {% en %}Mrs. Lang (anpa sewi){% enden %}
-{% sp %}o ante toki e nimi suli ni{% endsp %}
-{% sl %}{% endsl %}
+{% sp %}anpa sewi{% endsp %}
+{% sl %}anpa sewi{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -171,7 +207,7 @@ Mrs. Lang (author of _Official Toki Pona_ series) held one vote within this algo
 {% splith 4 %}
 {% en %}lipu Linku and kala Asi{% enden %}
 {% sp %}o ante toki e nimi suli ni{% endsp %}
-{% sl %}{% endsl %}
+{% sl %}lipu Linku en kala Asi{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -190,13 +226,22 @@ As reported by kala Asi, the Linku project held one vote within this algorithm.
 {% sp %}
 {% endsp %}
 {% sl %}
+pali Linku li lipu e sona mute lon nimi pi toki pona. kulupu pali Linku li alasa e sona ni tan kulupu lon tenpo sike ale: jan kulupu li kepeken nimi seme, li sona e nimi seme. lipu nimi Linku li poki e nimi tan suli ona, kepeken poki tu tu. nimi wan la, jan luka luka la: jan luka tu tu li kepeken la nimi li suli a. jan luka wan li kepeken la suli. jan tu wan la suli lili. ante la suli ala.
+
+kala Asi li jan pali pi kulupu Linku lon pali ni. ona li ante e sona Linku pi suli nimi tawa suli nimi pi sitelen pona kulupu la, ona li ante lili e nanpa:
+
+- suli #1: jan LL la jan LTW li kepeken. nimi ale pi poki 'suli a' en nimi lili pi poki 'suli' li lon ni.
+- suli #2: jan LL la jan LW li kepeken. nimi mute pi poki 'suli' li lon ni.
+- suli #3: jan LL la jan TW li kepeken. nimi ale pi poki 'suli lili' li lon ni.
+
+
 {% endsl %}
 {% endsplit %}
 
 {% splith 4 %}
 {% en %}ilo Muni and Gregory Danielson III (mun Kekan San){% enden %}
-{% sp %}o ante toki e nimi suli ni{% endsp %}
-{% sl %}{% endsl %}
+{% sp %}ilo Muni en jan Kekan San{% endsp %}
+{% sl %}ilo Muni en jan Kekan San{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -219,8 +264,8 @@ As reported by mun Kekan San, ilo Muni held the tiebreaking vote within this alg
 
 {% splith 3 %}
 {% en %}Results{% enden %}
-{% sp %}sona sin{% endsp %}
-{% sl %}sona sin{% endsl %}
+{% sp %}sona kama{% endsp %}
+{% sl %}sona kama{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -235,19 +280,19 @@ Or download the raw results:
 {% enden %}
 
 {% sp %}
-o lukin e [nimi pi wawa nanpa wan]()  
-o lukin e [nimi pi wawa nanpa tu]()  
-o lukin e [nimi pi wawa nanpa tu wan]()
+o lukin e [nimi pi suli #1]()  
+o lukin e [nimi pi suli #2]()  
+o lukin e [nimi pi suli #3]()
 
-o lanpan e sona ale:
+o lukin e sona ale:
 [words-tiers.txt](/content/common/words-tiers.txt)
 
 {% endsp %}
 
 {% sl %}
-o lukin e [nimi pi wawa nanpa wan]()  
-o lukin e [nimi pi wawa nanpa tu]()  
-o lukin e [nimi pi wawa nanpa tu wan]()
+o lukin e [nimi pi suli #1]()  
+o lukin e [nimi pi suli #2]()  
+o lukin e [nimi pi suli #3]()
 
 o lanpan e sona ale:
 [nimi](/content/common/words-tiers.txt)
@@ -258,8 +303,8 @@ o lanpan e sona ale:
 
 {% splith %}
 {% en %}Which versions of glyphs are representative of those commonly used in Sitelen Pona? {% enden %}
-{% sp %}sitelen mute pi nimi wan la<br>zz sitelen seme li suli lon sitelen pona {% endsp %}
-{% sl %}sitelen mute pi nimi wan la sitelen seme li suli lon sitelen pona? {% endsl %}
+{% sp %}sitelen mute li tawa nimi wan la<br>zz sitelen ni seme li suli kepeken lon sitelen pona?{% endsp %}
+{% sl %}sitelen mute li tawa nimi wan la sitelen ni seme li suli kepeken lon sitelen pona?{% endsl %}
 {% endsplith %}
 
 {% splith 3 %}
@@ -281,8 +326,8 @@ o pali
 
 {% splith 3 %}
 {% en %}Process{% enden %}
-{% sp %}{% endsp %}
-{% sl %}{% endsl %}
+{% sp %}nasin alasa{% endsp %}
+{% sl %}nasin alasa{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -300,7 +345,7 @@ o pali
 {% splith 4%}
 {% en %} Ethan Corgatelli (jan Itan){% enden %}
 {% sp %}{% endsp %}
-{% sl %}{% endsl %}
+{% sl %}jan Itan{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -317,6 +362,11 @@ jan Itan held the tiebreaker vote within this algorithmn.
 {% sp %}
 o pali
 {% endsp %}
+{% sl %}
+jan Itan li pali e nasin sitelen ilo "_nasin nanpa_" lon sike #2022.
+
+sike #2026 la nasin nanpa li awen 
+{% endsl %}
 {% endsplit %}
 
 {% splith 4%}
@@ -342,8 +392,9 @@ o pali
 {% endsplit %}
 
 {% splith 4 %}
-{% en %} Rebecca Bettencourt (jan Lepeka){% enden %}
+{% en %}Rebecca Bettencourt (jan Lepeka){% enden %}
 {% sp %}jan Lepeka{% endsp %}
+{% sl %}jan Lepeka{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -363,9 +414,9 @@ o pana e sitelen pona lon ni
 {% endsplit %}
 
 {% splith 4%}
-{% en %} waso Keli and SP Font Maker {% enden %}
-{% sp %}{% endsp %}
-{% sl %}{% endsl %}
+{% en %}waso Keli and SP Font Maker{% enden %}
+{% sp %}waso Keli en ilo pali ona pi nasin sitelen{% endsp %}
+{% sl %}waso Keli en ilo pali ona pi nasin sitelen{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -386,7 +437,8 @@ waso Keli tabled two votes within this algorithm. The majority preference of SP 
 
 {% splith 4 %}
 {% en %}Handwriting Corpus{% enden %}
-{% sp %}o ante toki e nimi suli ni{% endsp %}
+{% sp %}jan mute li sitelen kepeken luka{% endsp %}
+{% sl %}jan mute li sitelen kepeken luka{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -403,7 +455,8 @@ o pana e sitelen pona lon ni
 
 {% splith 3 %}
 {% en %}Results{% enden %}
-{% sp %}o ante toki e nimi suli ni{% endsp %}
+{% sp %}sona kama{% endsp %}
+{% sl %}sona kama{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -477,14 +530,14 @@ Download the [raw results for semantic variance](/content/common/semanticity.txt
 
 {% splith %}
 {% en %}Which non-word glyphs are commonly used in Sitelen Pona?{% enden %}
-{% sp %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsp %}
-{% sl %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsl %}
+{% sp %}sitelen seme pi nimi ala li suli kepeken lon sitelen pona{% endsp %}
+{% sl %}sitelen seme pi nimi ala li suli kepeken lon sitelen pona?{% endsl %}
 {% endsplith %}
 
 {% splith 3%}
 {% en %}Process{% enden %}
-{% sp %}{% endsp %}
-{% sl %}{% endsl %}
+{% sp %}nasin alasa{% endsp %}
+{% sl %}nasin alasa{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -515,8 +568,8 @@ o pali
 
 {% splith 3%}
 {% en %}Results{% enden %}
-{% sp %}{% endsp %}
-{% sl %}{% endsl %}
+{% sp %}sona kama{% endsp %}
+{% sl %}sona kama{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -526,19 +579,20 @@ Jump to [Common Sitelen Pona's non-word glyphs]().
 {% sp %}
 o pali
 {% endsp %}
+{% sl %}
+o lukin e [sitelen pi nimi ala lon sitelen pona kulupu]().
+{% endsl %}
 {% endsplit %}
 
 {% splith %}
 {% en %}Which non-word glyphs should be combined with existing Unicode equivalents? {% enden %}
-{% sp %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona{% endsp %}
-{% sl %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona? {% endsl %}
+{% sp %}{% endsp %}
+{% sl %}sitelen seme pi nimi ala li sama sitelen lon pi nasin Juniko?{% endsl %}
 {% endsplith %}
 
 {% split %}
 {% en %}
-For most of the punctuation glyphs in Common Sitelen Pona, the answer to this is self-evident.
-
-Novel glyphs that have no existing Unicode equivalent are recommended to have new codepoint. Glyphs that have an equivalent are recommended to rely on existing codepoints.
+For most of the punctuation glyphs in Common Sitelen Pona, the answer to this is self-evident. Novel glyphs that have no existing Unicode equivalent are recommended to have new codepoints. Glyphs that have an equivalent are recommended to rely on existing codepoints.
 
 Reccommended to be mapped to existing codepoints:
 
@@ -559,10 +613,34 @@ Recommended to be assigned new codepoints:
 - <span class="tech">SITELEN PONA MIDDLE DOT</span>
 - <span class="tech">SITELEN PONA COLON</span>
 
-<span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> form an exceptional case. These two glyphs are [routinely rendered in cartouches](https://sona.pona.la/wiki/nasin_sitelen_kalama). As this behaviour deviates significantly from that expected of Unicode's <span class="tech">MIDDLE DOT</span> and <span class="tech">COLON</span>, we recommend that <span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> be assigned new codepoints and not be combined with Unicode equivalents..
+<span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> form an exceptional case. These two glyphs are [routinely rendered in cartouches](https://sona.pona.la/wiki/nasin_sitelen_kalama). As this behaviour deviates significantly from that expected of Unicode's <span class="tech">MIDDLE DOT</span> and <span class="tech">COLON</span>, we recommend that <span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> be assigned new codepoints and not be combined with Unicode equivalents.
 {% enden %}
 
 {% sp %}
 o pali
 {% endsp %}
+{% sl %}
+sitelen mute pi nimi ala la, mi sona e ni kepeken nasa ala. sitelen li sin li sama ala sitelen lon pi nasin Juniko la nanpa sin o lon tawa ona. sitelen sama li lon nasin Juniko la o kepeken nanpa pi sitelen lon.
+
+sitelen ni li sama sitelen lon pi nasin Juniko, ona o kepeken nanpa sama:
+
+- <span class="tech">ZERO WIDTH SPACE</span>
+- <span class="tech">ZERO WIDTH JOINER</span>
+- <span class="tech">IDEOGRAPHIC SPACE</span>
+- <span class="tech">LEFT CORNER BRACKET</span>
+- <span class="tech">RIGHT CORNER BRACKET</span>
+
+sitelen ni li ante, ona o jo e nanpa sin:
+
+- <span class="tech">SITELEN PONA START OF CARTOUCHE</span>, <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
+- <span class="tech">SITELEN PONA STACKING JOINER</span>
+- <span class="tech">SITELEN PONA NESTING JOINER</span>
+- <span class="tech">SITELEN PONA START OF LONG GLYPH</span>
+- <span class="tech">SITELEN PONA END OF LONG GLYPH</span>
+- <span class="tech">SITELEN PONA COMBINING TALLY MARK</span>
+- <span class="tech">SITELEN PONA MIDDLE DOT</span>
+- <span class="tech">SITELEN PONA COLON</span>
+
+sitelen <span class="tech">SITELEN PONA MIDDLE DOT</span> en sitelen <span class="tech">SITELEN PONA COLON</span> li nasa. tenpo mute la [sitelen ni li kama lon poki nimi](https://sona.pona.la/wiki/nasin_sitelen_kalama). sitelen <span class="tech">MIDDLE DOT</span> en sitelen <span class="tech">COLON</span> li lon nasin Juniko, taso ona li ken lon poki nimi la ni li nasa mute. ni la mi pilin e ni: nanpa sin o lon tawa ona.
+{% endsl %}
 {% endsplit %}
