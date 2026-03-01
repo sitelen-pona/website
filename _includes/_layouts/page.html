@@ -144,11 +144,14 @@
             }
             select {
                 margin-bottom: 8px;
-                border: 0.02em solid var(--jelo-3);
+                border: 2px solid var(--jelo-3);
                 background-color: white;
                 font-size: 1rem;
                 width: 8.5rem;
+                border-radius: .5rem;
             }
+            select:is(:hover, :focus-within) {
+                border-color: var(--jelo-7);
 
             footer {
                 color: var(--jelo-8);
