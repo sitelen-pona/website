@@ -7,6 +7,8 @@ permalink: contact.html
 {% splith %}
     {% en %}Email{% enden %}
     {% sp %}kepeken nasin ilo pi pana lipu{% endsp %}
+    {% sl %}kepeken nasin ilo pi pana lipu{% endsl %}
+
 {% endsplith %}
 
 {% split %}
@@ -118,18 +120,23 @@ zz li ma [kasi . nasin . taso .]
 
 {% split %}
 {% en %}
-We currently hold our meetings in a set of private channels on the public Discord server, [*ma pi nasin sitelen*](https://discord.gg/h2pNXP5Eh2). Many of us also interact in the public channels available on this server; feel free to use those public channels to ping us with any general inquiries. 
+We currently hold our meetings in a set of private channels on the public Discord server, [*ma pi nasin sitelen*](https://discord.gg/h2pNXP5Eh2). 
+
+Many of us also interact in the public channels available on this server; feel free to use those public channels to ping us with any general inquiries. 
 {% enden %}
 
 {% sp %}
-[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]  lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len  
+[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]  lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len 
+
 taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala  
 jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin    
 sina wile sona e ijo pi kulupu pali la sina ken toki tawa kulupu lon tomo pi len ala
 {% endsp %}
 
 {% sl %}
-[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]. lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len. taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala. jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin. sina wile sona e ijo pi kulupu pali la sina ken toki tawa kulupu lon tomo pi len ala. 
+[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo Siko. lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len. 
+
+taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala. jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin. sina wile sona e ijo pi kulupu pali la sina ken toki tawa kulupu lon tomo pi len ala. 
 {% endsl %}
 
 {% endsplit %}
