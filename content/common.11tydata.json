@@ -521,7 +521,7 @@
       "]"
     ], 
     "explain": "Paired with each other, these glyphs can be used to write a container for proper names",
-        "example-before": "jan 'cartouche start' anpa mama awen 'cartouch end'",
+        "example-before": "jan 'cartouche start' anpa mama awen 'cartouche end'",
     "example-after": "jan [anpa mama awen]",
     "pair": "true"
 
