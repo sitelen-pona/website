@@ -8,7 +8,6 @@ permalink: common.html
     
 
 .long {
-    border-top: 0.1rem solid var(--jelo-5);
     margin: 0 auto;
     padding: 0 2em;
     display: grid;
@@ -127,7 +126,7 @@ h1{
 }
 
  h2{
-        border-bottom: none;
+    border-bottom:   0.1rem solid var(--jelo-5);
         margin: auto;
         text-align: left;
         width: unset;
@@ -135,8 +134,14 @@ h1{
 
     }
 
-.forward {
+.foreword {
+    margin: 1em 2em;
+    max-width: 40rem;
 
+}
+.asterisk {
+    text-align: right;
+    margin-right: 2em;
 }
 
 
@@ -165,7 +170,7 @@ h1{
             "glyph glyph"
             "name name";
         justify-items: center;
-        align-items: flex-end;
+        align-items: stretch;
 
     }
 
@@ -236,11 +241,34 @@ lon tenpo mun nanpa wan pi sike ni la kulupu li pana e lipu pi pini ala tawa luk
 
 {% assign tier = tier_1 %}
 
+
+## Description
+
 <div class="foreword">
+
+
+Common Sitelen Pona is a standard that outlines universal basic features and characteristics of Sitelen Pona. 
+
+It is derived from described features and characteristcs of Sitelen Pona that have seen stable adoption and use within the Toki Pona community. 
+
+
+Common Sitelen Pona was prepared algorithmically, with separate processes used to answer the following four questions:
+
+- Which **words** are commonly used in Sitelen Pona?
+- Which **non-word characters** are commonly used in Sitelen Pona?
+-  Which **non-word glyphs** commonly rely on uniquely Sitelen Pona codepoints? 
+- Which **versions of glyphs are representative** of those commonly used in Sitelen Pona? 
+
+[Learn more about how Common Sitelen Pona was prepared.](/common-method.html)
+
+
+
+
+
 
 </div>
 
-## Glyphs
+## A View of Common Sitelen Pona
 <div class="long">
 
 <div class="word-grid-container">
@@ -295,4 +323,28 @@ lon tenpo mun nanpa wan pi sike ni la kulupu li pana e lipu pi pini ala tawa luk
 
 </div>
 
+<p class="asterisk">* These glyphs already represented by public-use Unicode codepoints and do not require new assignments.<p>
+</div>
+
+
+## Accompanying Instruments
+<div class="foreword">
+
+
+### UCSUR
+
+As Common Sitelen Pona has not yet been accepted into Unicode, codepoints for Common Sitelen Pona are currently restricted to the Private Use Area. These assignments are coordinated within the [Under-ConScript Unicode Registry](https://www.kreativekorp.com/ucsur/). 
+
+See [Sitelen Pona: U+F1900 - U+F19FF](https://www.kreativekorp.com/ucsur/charts/sitelen.html).
+
+
+### ASCII Input Standard
+
+Forthcoming
+
+</div>
+
+
+## Download Raw Files
+<div class="foreword">
 </div>
