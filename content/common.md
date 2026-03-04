@@ -38,21 +38,22 @@ permalink: common.html
 }
 
 .punctuation {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    width: fit-content;
 }
 
 .punctuation li {
     display: grid;
-
     grid-template-columns: 5em 1fr;
     grid-template-areas:
         "glyph name"
         ". name";
+    margin-bottom: .5rem
 }
 
-.punctuation li * {
-    margin: 0.2em;
+.punctuation>li>* {
+    margin: 0.25rem;
 }
 
 .punctuation .word-glyph {
@@ -83,14 +84,16 @@ permalink: common.html
 .punctuation .word-name {
     padding: 0.5em;
     grid-area: name;
+    padding: .5rem .75rem .75rem;
 }
 
 .punctuation :is(.word-name, .word-glyph){
-    border: 0.2rem solid black;
+    border: 2px solid black;
+    border-radius: .5rem;
 }
 
 .punctuation .no-codepoint :is(.word-name, .word-glyph){
-    border: 0.2rem dashed black;
+    border: 2px dashed black;
 }
 
 
@@ -182,7 +185,7 @@ h2{
         grid-template-areas:
             "glyph glyph"
             "name name";
-        justify-items: center;
+        justify-items: left;
         align-items: stretch;
 
     }
@@ -229,7 +232,7 @@ h2{
     }
 
     .punctuation li .word-name {
-        width: 100%;
+        max-width: 30rem;
     }
 
     .example {
