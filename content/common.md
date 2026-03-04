@@ -140,7 +140,8 @@ h2{
     grid-template-columns: 1fr 1fr;
 }
 .foreword div {
-    margin: 1em;
+    margin: 1em 0;
+    padding: 0 2em;
     max-width: 30rem
 }
 
