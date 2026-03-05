@@ -70,7 +70,7 @@ SP Content
         <tbody>
             <tr>
                 <td>Tier 1</td>
-                <td>Almost universal, reflecting conservative interpretations of the language as originating from TP:LOG (2014)</td>
+                <td>Almost universal, reflecting conservative interpretations of the language as originating from <abbr title="Toki Pona: The Language of Good">TP:LOG</abbr> (2014)</td>
             </tr>
             <tr>
                 <td>Tier 2</td>
