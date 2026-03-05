@@ -88,14 +88,14 @@ ona pi kulupu ni, li ken pali e ilo nanpa wawa, li pana e sona pi nasin pona taw
 
 {% split %}
 {% en %}
-Through horizontal consensus decision-making, we prepare living drafts for technical standards. Presently, these standards make it easier for Toki Pona speakers to enjoy Sitelen Pona on their devices. In the future, these standards will enable everyone to read and write Sitelen Pona on their preferred devices and platforms.
+Through horizontal consensus decision-making, we prepare <a href="common.html">living drafts for technical standards</a>. Presently, these standards make it easier for Toki Pona speakers to enjoy Sitelen Pona on their devices. In the future, these standards will enable everyone to read and write Sitelen Pona on their preferred devices and platforms.
 
 We operate as a <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">not-for-profit corporation</a> registered in Canada. Membership in the Association is subject to the approval of existing <a href="members.html">members</a>. There are no membership fees. Prospective members are welcome to fill out <a href="">our application form</a>.
 {% enden %}
 
 {% sp %}
 pali ilo pi sitelen pona li wile e sona ni>  
-zz ilo li wile sitelen e nimi seme  
+zz <a href="common.html">ilo li wile sitelen e nimi seme</a>  
 zz nanpa ilo seme li tawa sitelen seme  
 zz nasin namako seme o lon kepeken nasin seme  
 kulupu pali pi sitelen pona li alasa e pilin mute pi sona ni^  
