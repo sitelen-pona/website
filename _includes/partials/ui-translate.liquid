@@ -1,0 +1,11 @@
+{% if item %}
+    {% assign enName = item.enName%}
+    {% assign spName = item.spName%}
+    {% assign sLName = item.sLName%}
+
+{% endif %}
+<span lang="en" class="ui-en">{{enName}}</span>
+    <span lang="tok" class="ui-tok">
+    <span class="ui-sp">{{spName}}</span>
+    <span class="ui-sl">{{sLName}}</span>
+</span>

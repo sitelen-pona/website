@@ -150,16 +150,25 @@ main img {
 [data-selected-language="tok"] .split:not(h1, footer) [lang="en"]{
     display: none;
 }
-
 [data-selected-script="sp"] :is(.split, .splith, .condensed) .sl {
     display: none;
-
 }
 [data-selected-script="sl"] :is(.split, .splith, .condensed) .sp {
     display: none;
-
 }
 
+[data-selected-language="tok"] .ui-en, :is([data-selected-language="en"], [data-selected-language="bilingual"]) .ui-tok {
+    display: none;
+}
+[data-selected-script="sl"] .ui-sp, [data-selected-script="sp"] .ui-sl {
+    display: none;
+}
+
+
+.ui-sp {
+    font-family: nasin-nanpa;
+    text-transform: initial !important;
+}
 
 
 :is(a.sp, .sp a){

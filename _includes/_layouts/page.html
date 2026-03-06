@@ -260,26 +260,23 @@
 <div id="menu">
     <details>
         <summary><img alt="Menu" src="/assets/sitelen/menu.svg"></summary>
-        <nav>
-            <a href="/index.html">about us</a>
-            <a href="/sitelen-pona.html">about sitelen pona</a>
-            <a href="/members.html">our members</a>
-            <a href="/contact.html">contact</a>
-            <details><summary>common sitelen pona</summary>
-                <a href="/common.html">draft</a>
-                <a href="/method.html">methodology</a>
-                <a href="/history.html">history</a>
-
-            </details>
-        </nav>
-        <label for="smalllang" style="margin-top: 2rem">Language
+       {% include "partials/navigation.liquid" %}
+        <label for="smalllang" style="margin-top: 2rem">
+            {% include "partials/ui-translate.liquid", 
+            enName: "Language", 
+            spName: "toki", 
+            sLName: "toki" %}
         <select id="smalllang" name="language">
             <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
             <option data-language="en" value="en" lang="en">English only</option>
             <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
         </select>
         </label>
-        <label for="smallscript">Script
+        <label for="smallscript">
+            {% include "partials/ui-translate.liquid", 
+            enName: "Script", 
+            spName: "nasin sitelen", 
+            sLName: "nasin sitelen" %}
 
         <select id="smallscript" lang="tok" name="script">
             <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
@@ -291,19 +288,13 @@
 </div>
 
 <div id="sidebar">
-    <nav>
-        <a href="/index.html">about us</a>
-        <a href="/sitelen-pona.html">about sitelen pona</a>
-        <a href="/members.html">our members</a>
-        <a href="contact.html">contact</a>
-        <details><summary>common sitelen pona</summary>
-                <a href="/common.html">draft</a>
-                <a href="/method.html">methodology</a>
-                <a href="/history.html">history</a>
+    {% include "partials/navigation.liquid" %}
 
-            </details>
-    </nav>
-    <label for="biglang" style="margin-top: 2rem">Language
+    <label for="biglang" style="margin-top: 2rem">
+        {% include "partials/ui-translate.liquid", 
+            enName: "Language", 
+            spName: "toki", 
+            sLName: "toki" %}
 
     <select id="biglang" name="language">
         <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
@@ -311,7 +302,10 @@
         <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
     </select>
     </label>
-    <label for="bigscript">Script
+    <label for="bigscript">  {% include "partials/ui-translate.liquid", 
+            enName: "Script", 
+            spName: "nasin sitelen", 
+            sLName: "nasin sitelen" %}
 
     <select id="bigscript" lang="tok" name="script">
         <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
@@ -331,10 +325,30 @@
 
 </main>
 <footer class="split">
-    <p lang="en" id="links"><a>Legal info (WIP)</a><a href="https://muteante.github.io/sitelenpona/contact">Contact us</a><a>Join us! (WIP)</a></p>
-    <p lang="en" style="grid-column: 4">This website uses <a href="https://github.com/googlefonts/NunitoSans">Nunito Sans</a>, <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a> (both
-        licensed under the OFL) and <a href="https://github.com/ETBCOR/nasin-nanpa">nasin-nanpa</a> (licensed under the
-        MIT License.)</p>
+    <p lang="en" id="links">
+        <a>Legal info (WIP)</a>
+        <a href="/contact">
+        {% include "partials/ui-translate.liquid", 
+            enName: "Contact", 
+            spName: "o toki tawa mi", 
+            sLName: "o toki tawa mi" %}
+        </a>
+        <a>Join us! (WIP)</a></p>
+    <p lang="en" style="grid-column: 4">
+        <span class="ui-en">
+            This website uses <a href="https://github.com/googlefonts/NunitoSans">Nunito Sans</a>, <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a> (both
+            licensed under the OFL) and <a href="https://github.com/ETBCOR/nasin-nanpa">nasin-nanpa</a> (licensed under the
+            MIT License.)
+        </span>
+        <span class="ui-tok">
+            <span class="ui-sp">
+                lipu ken <a href="https://openfontlicense.org/">te nasin sitelen open to</a> pi <a href="https://global.sil.org/">kulupu [SIL]</a> li lawa nasin e ken mi pi <a href="https://github.com/googlefonts/NunitoSans">nasin [nena uta nena ilo tomo o zz sama a nena]</a> e ken mi pi <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a>.kin la <a href="https://github.com/ETBCOR/nasin-nanpa">nasin nanpa</a> la lipu ona pi ken mi li tan <a href="https://en.wikipedia.org/wiki/MIT_License">tomo sona pi ma [ma.sama.suno.seli.]</a>.
+            </span>
+            <span class="ui-sl">
+                 lipu ken <a href="https://openfontlicense.org/">'nasin sitelen open'</a> pi <a href="https://global.sil.org/">kulupu SIL</a> li lawa nasin e ken mi pi <a href="https://github.com/googlefonts/NunitoSans">nasin "Nunito Sans"</a> e ken mi pi <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a>. kin la <a href="https://github.com/ETBCOR/nasin-nanpa">nasin nanpa</a> la lipu ona pi ken mi li tan <a href="https://en.wikipedia.org/wiki/MIT_License">tomo sona pi ma Masasuse</a>. 
+            </span>
+        </span>
+    </p>
     </section>
 </footer>
 
