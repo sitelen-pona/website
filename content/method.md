@@ -4,6 +4,7 @@ toktitle: sitelen pona kulupu (li pini ala)
 permalink: method.html
 ---
 
+<link href="/assets/green.css" rel="stylesheet" type="text/css" media="all">
 <style>
 span:has(.tiers){
     margin: auto;

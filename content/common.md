@@ -3,7 +3,7 @@ title: "Draft: Common Sitelen Pona"
 toktitle: sitelen pona kulupu (li pini ala)
 permalink: common.html
 ---
-
+<link href="/assets/green.css" rel="stylesheet" type="text/css" media="all">
 <style>
     
 

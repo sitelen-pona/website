@@ -8,5 +8,5 @@ body {
 }
 
 h2 {
-    border-bottom: solid var(--kule-5) 2px;
+    border-bottom: solid var(--kule-5) 1px;
 }
