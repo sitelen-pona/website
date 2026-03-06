@@ -42,12 +42,14 @@ h3{
 
 {% splith %}
     {% en %}Which words are commonly used in Sitelen Pona?{% enden %}
-    {% sp %}SP H2{% endsp %}
+    {% sp %}nimi seme li wawa lon sitelen pona{% endsp %}
+    {% sl %}nimi seme li wawa lon sitelen pona?{% endsl %}
 {% endsplith %}
 
 {% splith 3%}
     {% en %}Process{% enden %}
-    {% sp %}SP H2{% endsp %}
+    {% sp %}nasin pi kama sona{% endsp %}
+    {% sl %}nasin pi kama sona{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -56,8 +58,11 @@ Algorithm: Three appointed members describe words to one of four Tiers of Teacha
 {% enden %}
 
 {% sp %}
-SP Content
+poki tu tu pi wawa sona la<br>zz jan tu wan li poki e nimi kepeken sona ante
 {% endsp %}
+{% sl %}
+poki tu tu pi wawa sona la jan tu wan li poki e nimi kepeken sona ante.
+{% endsl %}
 {% endsplit %}
 
 <span>
@@ -97,8 +102,11 @@ The three representatives were free to design their own algorithms based on thei
 {% enden %}
 
 {% sp %}
-SP Content
+sona ante la<br>zz jan tu wan ni^ li pali e nasin ante
 {% endsp %}
+{% sl %}
+sona ante la jan tu wan ni li pali e nasin ante.
+{% endsl %}
 {% endsplit %}
 
 <span>
@@ -142,7 +150,8 @@ Tier 3: [30%; 60%]
 
 {% splith 3 %}
     {% en %}Results{% enden %}
-    {% sp %}SP H2{% endsp %}
+    {% sp %}sona sin{% endsp %}
+    {% sl %}sona sin{% endsl %}
 {% endsplith %}
 
 
@@ -158,14 +167,32 @@ Or download the raw results:
 {% enden %}
 
 {% sp %}
-SP Content
-{% endsp %}
+o lukin e [nimi pi wawa nanpa wan]()  
+o lukin e [nimi pi wawa nanpa tu]()  
+o lukin e [nimi pi wawa nanpa tu wan]()  
+
+o lanpan e sona ale:
+[words-tiers.txt](/content/common/words-tiers.txt)  
+
+{% endsl %}
+
+{% sp %}
+o lukin e [nimi pi wawa nanpa wan]()  
+o lukin e [nimi pi wawa nanpa tu]()  
+o lukin e [nimi pi wawa nanpa tu wan]()  
+
+o lanpan e sona ale:
+[words-tiers.txt](/content/common/words-tiers.txt)  
+
+{% endsl %}
+
 {% endsplit %}
 
 
 {% splith %}
     {% en %}Which non-word characters are commonly used in Sitelen Pona?{% enden %}
-    {% sp %}SP H2{% endsp %}
+    {% sp %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsp %}
+    {% sl %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -180,7 +207,8 @@ SP Content
 
 {% splith %}
     {% en %}Which non-word glyphs commonly rely on uniquely Sitelen Pona codepoints? {% enden %}
-    {% sp %}SP H2{% endsp %}
+    {% sp %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona{% endsp %}
+    {% sl %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona? {% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -195,7 +223,8 @@ SP Content
 
 {% splith %}
     {% en %}Which versions of glyphs are representative of those commonly used in Sitelen Pona? {% enden %}
-    {% sp %}SP H2{% endsp %}
+    {% sp %}sitelen mute pi nimi wan la<br>zz sitelen seme li suli lon sitelen pona {% endsp %}
+    {% sl %}sitelen mute pi nimi wan la sitelen seme li suli lon sitelen pona? {% endsl %}
 {% endsplith %}
 
 {% split %}
