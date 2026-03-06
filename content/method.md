@@ -4,6 +4,7 @@ toktitle: sitelen pona kulupu (li pini ala)
 permalink: method.html
 ---
 
+<link rel="icon" type="image/x-icon" href="/assets/sitelen/favicon.png">
 <style>
 
 body {

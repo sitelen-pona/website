@@ -3,6 +3,8 @@ title: "Draft: Common Sitelen Pona"
 toktitle: sitelen pona kulupu (li pini ala)
 permalink: common.html
 ---
+
+<link rel="icon" type="image/x-icon" href="/assets/sitelen/favicon.png">
 <style>
     
 body {

@@ -3,6 +3,7 @@ title: The Road to Unicode
 toktitle: 
 permalink: /history.html
 ---
+<link rel="icon" type="image/x-icon" href="/assets/sitelen/favicon.png">
 <style>
 
 body {
