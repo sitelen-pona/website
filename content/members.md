@@ -71,19 +71,31 @@ permalink: members.html
         outline: none;
     }
     .tiny-toggle{
-        display: flex;
+        display: none;
         flex-wrap: wrap;
         max-width: 100%;
         justify-content:center;
     }
-    :has(.tiny-toggle #sp-tog:checked) .show-tok, 
-    :has(.tiny-toggle #en-tog:checked) .show-en{
+    [data-selected-language="bilingual"] :has(.tiny-toggle #sp-tog:checked) .show-tok, 
+    [data-selected-language="bilingual"] :has(.tiny-toggle #en-tog:checked) .show-en{
         display: block;
     }
-    :has(.tiny-toggle #en-tog:checked) .show-tok, 
-    :has(.tiny-toggle #sp-tog:checked) .show-en{
+    [data-selected-language="bilingual"] :has(.tiny-toggle #en-tog:checked) .show-tok, 
+    [data-selected-language="bilingual"] :has(.tiny-toggle #sp-tog:checked) .show-en{
         display: none;
     }
+
+    [data-selected-language="bilingual"] .tiny-toggle{
+        display: flex;
+    }
+    [data-selected-language="en"] .show-tok{
+        display: none;
+    }
+    [data-selected-language="tok"] .show-en{
+        display: none;
+    }
+
+
 
 
  
@@ -124,6 +136,15 @@ permalink: members.html
 {% endsl %}
 
 {% endsplit %}
+
+<br>
+
+ <div class="tiny-toggle">
+     <input type="radio" id="en-tog" name="toki" checked >
+     <label lang="tok" for="en-tog" style="margin-right: 1rem">English</label><br>
+     <input type="radio" id="sp-tog" name="toki">
+     <label lang="tok" class="sp" for="sp-tog">toki pona</label><br>
+ </div>
 
 <ul class="condensed shuffle">
 {% for item in current %}
