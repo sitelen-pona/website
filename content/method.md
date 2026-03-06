@@ -162,7 +162,7 @@ Jump to [Tier 2 Word Glyphs]()
 Jump to [Tier 3 Word Glyphs]()  
 
 Or download the raw results: 
-[words-tiers.txt](/content/common/words-tiers.txt)  
+[WORDS](/content/common/words-tiers.txt)  
 
 {% enden %}
 
