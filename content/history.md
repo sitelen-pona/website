@@ -6,18 +6,6 @@ permalink: /history.html
 
 <style>
 
-body {
-    --kule-8: #007429;
-    --kule-7: #008d33;
-    --kule-5: #00bd46;
-    --kule-3: #84d997;
-    --kule-1: #d5f1d9;
-}
-
-h2 {
-    border-bottom: solid var(--kule-5) 1px;
-}
-
     .year-marker{
         font-size: 1rem;
         background-color: var(--kule-1);
