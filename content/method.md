@@ -1,7 +1,7 @@
 ---
 title: "Methodology behind Common Sitelen Pona"
 toktitle: sitelen pona kulupu (li pini ala)
-permalink: common-method.html
+permalink: method.html
 ---
 
 <style>
