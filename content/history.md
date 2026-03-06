@@ -1,12 +1,30 @@
 ---
 title: The Road to Unicode
 toktitle: 
-permalink: history.html
+permalink: /history.html
 ---
+
+<style>
+    .year-marker{
+        font-size: 1rem;
+        background-color: var(--jelo-1);
+        position: absolute;
+        right: 2rem;
+        left: 2rem;
+        top: 0rem;
+        text-align: center;
+        
+        
+    }
+    h2:has(.year-marker){
+        position: relative;
+        padding-top: 4rem;
+    }
+</style>
 
 
 {% splith %}
-    {% en %}UCSUR: <br>A Proof-of-Concept
+    {% en %}<span class="year-marker">Pre-2024:</span> Hunger
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -25,7 +43,7 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}Early 2024: Early Work <br>
+    {% en %}<span class="year-marker">Early 2024:</span>   Working Group Forms
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -54,7 +72,7 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}Late 2024: Gathering Data <br> 
+    {% en %}<span class="year-marker">Late 2024:</span>  Gathering Data 
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -79,7 +97,7 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}2025: Creation of the Association
+    {% en %}<span class="year-marker">2025:</span>  Creation of the Association
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -104,7 +122,7 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}2026: The Year of Sitelen Pona
+    {% en %}<span class="year-marker">2026: </span> The Year of Sitelen Pona
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
