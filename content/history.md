@@ -19,6 +19,15 @@ permalink: /history.html
         border-radius: 2rem;
         
     }
+    [data-selected-language="bilingual"] .year-marker [lang="en"]::after{
+        content: " / "
+
+    }
+    .split .year-marker :is(.sp, [lang="en"], .sl){
+        max-width: unset;
+        width: unset;
+        min-width: unset;
+    }
     h2:has(.year-marker){
         position: relative;
         padding-top: 4rem;
@@ -27,7 +36,8 @@ permalink: /history.html
 
 
 {% splith %}
-    {% en %}<span class="year-marker">Pre-2024:</span> Growing Demand
+<span class="year-marker"><span lang="en">Pre-2024</span><span class="sp">tenpo sike pini nanpa luka wan</span><span class="sl">tenpo pi jaki Kowi #LLLTT</span></span> 
+    {% en %}Growing Demand
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -36,7 +46,7 @@ permalink: /history.html
 {% en %}
 Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic lockdowns, and resources for Sitelen Pona grew exponentially. Prior to 2020, there were only a few Sitelen Pona fonts in use; in the period since, a large amount of Sitelen Pona fonts have been released. As early as 2021, the need for community-wide coordination of encoding was apparent.
 
-Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in Unicode began to perculate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry. A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, UCSUR came to see unanimous adoption by major Toki Pona fonts. 
+Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in Unicode began to percolate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry. A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, UCSUR came to see unanimous adoption by major Toki Pona fonts. 
 
 With UCSUR, tech-savvy members of the Toki Pona community are able to modify their messaging clients and fully chat in online spaces using Sitelen Pona. However, for members who are not so technically-oriented, the provisational and hacky measures required to use UCSUR in various platforms are rather inaccessible. The more normalized Sitelen Pona usage came to be in such spaces, the more obvious it was that a robust solution needed to be pursued. 
 {% enden %}
@@ -48,7 +58,8 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}<span class="year-marker">Early 2024:</span>   Working Group Forms
+<span class="year-marker"><span lang="en">Early 2024</span><span class="sp">open pi tenpo sike pini nanpa tu</span><span class="sl">open pi sike #MAMTT</span></span> 
+    {% en %}  Working Group Forms
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -76,7 +87,8 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}<span class="year-marker">Late 2024:</span>  Gathering Data 
+<span class="year-marker"><span lang="en">Late 2024</span><span class="sp">pini pi tenpo sike pini nanpa tu</span><span class="sl">pini pi sike #MAMTT</span></span> 
+    {% en %} Gathering Data 
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -101,7 +113,8 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}<span class="year-marker">2025:</span>  Creation of the Association
+<span class="year-marker"><span lang="en">2025</span><span class="sp">tenpo sike pini</span><span class="sl">sike #MAML</span></span> 
+    {% en %} Creation of the Association
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -126,7 +139,8 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}<span class="year-marker">2026: </span> The Year of Sitelen Pona
+    {% en %}<span class="year-marker"><span lang="en">2026</span><span class="sp">tenpo sike ni</span><span class="sl">sike #MAMLW</span></span> 
+     The Year of Sitelen Pona
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
