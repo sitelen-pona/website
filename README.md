@@ -19,6 +19,7 @@ Use this template when adding new bilingual content two-column content:
 {% splith %}
     {% en %}English H2{% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
+    {% sl %}{% endsl %}
 {% endsplith %}
 
 {% split %}
