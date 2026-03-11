@@ -73,7 +73,7 @@ In January, several interested community members formed an ad-hoc working group.
 
 This draft edition of the proposal demonstrated widespread usage of Sitelen Pona as a writing system, but refrained from outlining a stable set of glyphs to be encoded. The working group had determined that, before they could provide such a set, advancements in Toki Pona data analysis needed to be made.
 
-Prior to 2024, usage of Toki Pona vocabulary was primarily assessed by the [Linku project’s annual write-in surveys](https://linku.la/about?q=). But the working group felt that this data was not enough for the Unicode Proposal. Linku does not directly observe usage; rather, it reflects what people report their own usage to be. The bar for Unicode would need to be higher.
+Prior to 2024, usage of Toki Pona vocabulary was primarily assessed by the [Linku project’s annual write-in surveys](https://linku.la/about?q=). But the working group felt that this data was not enough for the Unicode Proposal. Linku's annual survey does not directly observe usage; rather, it reflects what people report their own usage to be. The bar for Unicode would need to be higher.
 
 After running a write-in survey for Sitelen Pona usage, the working group came to a similar conclusion for assessing the stability of Sitelen Pona glyphs. Write-in surveys would not be enough. Organic usage needed to be gathered into a corpus and analyzed, to be considered together with self-reported usage.
 
@@ -103,7 +103,7 @@ Usage data for Sitelen Pona glyphs and variations was pursued in three ways. At 
 
 In addition to data collection, seeing that many glyphs for neologisms were not explicitly released into the public domain, the working group contacted the authors of these glyphs to confirm [CC0 licensing](https://creativecommons.org/public-domain/cc0/).
 
-After much groundwork had been laid, the group was ready to draft Common Sitelen Pona. In October, Mrs. Lang developed and proposed a [formal methodology for defining Common Sitelen Pona](/method.html). It would assigned Sitelen Pona glyphs and features to three tiers of teachworthiness by examining existing and new data sources, uniting the work that had been done up to this point and defining a clear deliverable.
+After much groundwork had been laid, the group was ready to draft Common Sitelen Pona. In October, Mrs. Lang developed and proposed a [formal methodology for defining Common Sitelen Pona](/method.html). It would assign Sitelen Pona glyphs and features to three tiers of teachworthiness by examining existing and new data sources, uniting the work that had been done up to this point and defining a clear deliverable.
 {% enden %}
 
 {% sp %}
@@ -125,9 +125,9 @@ In 2025, armed with more usage data and a united vision, things progressed until
 
 Anticipating the eventual publication of Common Sitelen Pona, the working group agreed it would register itself as [a not-for-profit corporation in Canada](https://laws.justice.gc.ca/eng/acts/c-7.75/). The association was legally incorporated on July 28, 2025. 
 
-Using Mrs. Lang’s methodology, tiers of teachability for the main words were finalized by April, and representative glyphs were finalized by [INSERT MONTH HERE].
+Using Mrs. Lang’s methodology, tiers of teachability for the main words were finalized by April, and representative glyphs were finalized by May.
 
-Some matters were resolved by alternative processes. Regarding the issue of whether certain alternate glyphs were semantically distinct enough to require separate codepoints, the organization studied the issue by community-wide outreach and then utilized that data to make a determination by vote. Regarding the teachability of specific punctuation marks and other features of Sitelen Pona, the organization settled this through further community-wide outreach.
+Some matters were resolved by alternative processes. Regarding the issue of whether certain alternate glyphs were semantically distinct enough to require separate codepoints, the organization studied the issue by community-wide outreach and then utilized that data to make a determination by vote. Regarding the teachability of specific punctuation marks and other features of Sitelen Pona, the organization settled this through further community-wide outreach, again followed by a vote.
 
 In addition to working on Common Sitelen Pona, the font-makers of the association worked to coordinate an ASCII input standard, which would unify the use of ASCII text for writing Sitelen Pona across all implementing fonts.
 
