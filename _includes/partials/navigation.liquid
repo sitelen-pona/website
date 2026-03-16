@@ -1,12 +1,12 @@
  <nav>
         {%- for item in navigation  -%}
             {%- if item.category -%}
-            <details>
-                <summary>{% include "partials/ui-translate.liquid", item: item %}</summary>
+                <span class="nav-category">{% include "partials/ui-translate.liquid", item: item %}</span>
+                <ul>
                 {%- for child in item.children  -%}
-                <a href="{{child.link}}">{% include "partials/ui-translate.liquid", item: child %}</a>
+                <li><a href="{{child.link}}">{% include "partials/ui-translate.liquid", item: child %}</a></li>
                 {%- endfor -%}
-            </details>
+                </ul>
             {%- else -%}
             <a href="{{item.link}}">{% include "partials/ui-translate.liquid", item: item %}</a>
             {%- endif -%}
