@@ -30,6 +30,10 @@ English Content
 {% sp %}
 o pana e sitelen pona lon ni
 {% endsp %}
+
+{% sl %}
+o pana e sitelen pona lon ni
+{% endsl %}
 {% endsplit %}
 
 ```
