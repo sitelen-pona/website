@@ -17,7 +17,7 @@ permalink: /history.html
         text-align: center;
         padding: .5rem;
         border-radius: 2rem;
-        
+        line-height: initial
     }
     [data-selected-language="bilingual"] .year-marker [lang="en"]::after{
         content: " / "
