@@ -33,7 +33,7 @@ caption {
     text-align: left;
     padding-left: .5rem;
 }
-h3{
+h3, h4{
     margin: 2rem auto 0;
 }
 
@@ -259,7 +259,7 @@ o lukin e [nimi pi wawa nanpa tu]()
 o lukin e [nimi pi wawa nanpa tu wan]()  
 
 o lanpan e sona ale:
-[words-tiers.txt](/content/common/words-tiers.txt)  
+[nimi](/content/common/words-tiers.txt)  
 
 {% endsl %}
 
