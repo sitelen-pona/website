@@ -49,12 +49,21 @@ export default async function (eleventyConfig) {
         return nanpanimi;
     });
 
+    eleventyConfig.addCollection("sorted_method", function (collectionsApi) {
+		let unsorted =  collectionsApi.getFilteredByTag("method");
+        let sorted = unsorted.sort((a, b) => {
+            if (a.data.index < b.data.index) return -1; else return 1;
+        })
+        console.log(sorted);
+        return sorted; 
+	});
+
+
     eleventyConfig.addPairedShortcode("en", (insa) => insa.startsWith('\n') ? `::: attr {lang=en}\n${insa}\n:::` : `<span lang="en">${insa}</span>`);
     eleventyConfig.addPairedShortcode("sp", (insa) => insa.startsWith('\n') ? `::: attr {.sp lang=tok}\n${insa}\n:::` : `<span class="sp" lang="tok">${insa}</span>`);
     eleventyConfig.addPairedShortcode("sl", (insa) => insa.startsWith('\n') ? `::: attr {.sl lang=tok}\n${insa}\n:::` : `<span class="sl" lang="tok">${insa}</span>`);
-
-
     eleventyConfig.addPairedShortcode("split", (insa) => `<span class="split">\n${insa}\n</span>`);
     eleventyConfig.addPairedShortcode("splith", (insa, suli = 2) => `<h${suli} class="split">${insa}</h${suli}>`);
+
 	eleventyConfig.addDataExtension("yaml", (contents) => YAML.parse(contents));
 };
