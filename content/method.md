@@ -128,9 +128,7 @@ o pana e sitelen pona lon ni
 {% en %}
 Algorithm: Three appointed members describe words to one of four Tiers of Teachability, drawing on different sources of data. 
 
-The three representatives were free to design their own algorithms based on their data source. 
-
-Here are the three sources:
+The three representatives were free to design their own algorithms based on their data source. Here are the three sources:
 {% enden %}
 
 {% sp %}
@@ -179,7 +177,7 @@ Mrs. Lang (author of *Official Toki Pona* series) held one vote within this algo
 
 {% split %}
 {% en %}
-The Linku project provides open datasets for Toki Pona. The Linku maintainers anually survey the community regarding what words they use and understand. The dataset gives the words usage categories: core (90%- 100%), common (60%-90%), uncommon (30%-60%), and obscure (0%-30%). 
+The Linku project provides open datasets for Toki Pona. The Linku maintainers anually survey the community regarding what words they use and understand. The word dataset lists words under one of four usage categories: core (90%- 100%), common (60%-90%), uncommon (30%-60%), and obscure (0%-30%). 
 
 In reworking this data for Tiers of Teachibility in Common Sitelen Pona, kala Asi, the initiator of Linku, slightly modified the threshold: 
 
@@ -290,7 +288,7 @@ Common Sitelen Pona does not prescribe that a glyph be written in a certain way.
 In presenting Common Sitelen Pona, the Association wanted to use versions of the glyphs that were commonly used, so these representative glyphs were determined algorithmically.
 {% enden %}
 {% sp %}
-SP Content
+o pali 
 {% endsp %}
 {% endsplit %}
 
@@ -309,7 +307,7 @@ The input sources are listed below:
 {% enden %}
 
 {% sp %}
-SP Content
+o pali 
 {% endsp %}
 {% endsplit %}
 
@@ -332,7 +330,7 @@ jan Itan held the tiebreaker vote within this algorithmn.
 {% enden %}
 
 {% sp %}
-SP Content
+o pali 
 {% endsp %}
 {% endsplit %}
 
@@ -358,7 +356,7 @@ lipamanka held one vote within this algorithm.
 
 
 {% sp %}
-SP Content
+o pali 
 {% endsp %}
 {% endsplit %}
 
@@ -478,11 +476,15 @@ o pana e sitelen pona lon ni
 
 {% split %}
 {% en %}
-We invited survey respondents to describe whether they used certain variant glyph pairs, and if they used both, we asked whether both glyphs had the same meaning.
+We invited survey respondents to describe whether they used certain variant glyph pairs, and if they used both, we asked whether the the meaning of the glyphs were never, sometimes, or always different.
 
-[insert rationale for determining cut-off thresholds here]
+We received X responses. Tiers of teachability thresholds were set at what % of respondants indicated that they used both glyphs, and the meanings of the glyphs were either sometimes or always different.
 
-These results indicated that a prominent minority used the 'secular' and 'pu-style' glyphs for *sewi* with distinct meanings, and that versions of directional *ni* were commonly used with distinctive meanings.
+- Tier 1: 90% or higher
+- Tier 2: 60% or higher
+- Tier 3: 30% or higher
+
+These results indicated that usage of the 'secular' and 'pu-style' glyphs for *sewi* with distinct meanings met the Tier [INSERT HERE] threshold, and that usage of versions of directional *ni* for distinctive meanings met the Tier [INSERT HERE].
 
 The data also showed that the 'four hands' glyph for *mute* had a distinctive meaning from the three-line glyph for *mute.* However, a vote by the association settled that the four-hands variant would be present in Common Sitelen Pona as four stacked *luka* (hands), instead of being a distinct glyph. 
 
@@ -530,14 +532,12 @@ We then linearly scaled these base percentages to bring pu-style Sitelen Pona ca
 
 These results were then compiled and shared internally. 
 
-In second phase, we provided the results of the community survey to our members and asked them to complete a new survey:
-
-As multidisciplinary collective of Sitelen Pona experts, what tier of teachability did they think suitable for these surveyed Sitelen Pona features? Members were invited to consider the results of the community survey in their responses, but were under no strict obligation to do so. 
+In second phase, we provided the results of the community survey to our members and asked them to complete a new survey: As multidisciplinary collective of Sitelen Pona experts, what tier of teachability did they think suitable for these surveyed Sitelen Pona features? Members were invited to consider the results of the community survey in their responses, but were under no strict obligation to do so. 
 
 Twenty-one of our members responded to the survey. The median response of members was used to determine the final tier assignments, with one exception. The Latin-style period was initially assigned to the third tier and later excluded through an unanimous informal poll, due to redundancy with the middot. 
 {% enden %}
 {% sp %}
-SP Content
+o pali 
 {% endsp %}
 {% endsplit %}
 
@@ -550,10 +550,10 @@ SP Content
 
 {% split %}
 {% en %}
-Jump to the Common Sitelen Pona's non-word glyphs.
+Jump to [Common Sitelen Pona's non-word glyphs]().
 {% enden %}
 {% sp %}
-SP Content
+o pali 
 {% endsp %}
 {% endsplit %}
 
@@ -595,6 +595,6 @@ Recommended to be assigned new codepoints:
 {% enden %}
 
 {% sp %}
-SP Content
+o pali 
 {% endsp %}
 {% endsplit %}
