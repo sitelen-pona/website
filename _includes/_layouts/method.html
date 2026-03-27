@@ -15,13 +15,16 @@ breadcrumb:
     .chapters{
         list-style:none;
         padding: 0;
+        background-color: var(--kule-1);
     }
     .chapters li{
-        padding-left: 1em;
+        padding-left: 0.25em;
         padding-bottom: 0.5em;
+        padding: 0.5em 1em;
+        min-height: 3rem;
     }
     .chapters a{
-        color: var(--kule-8);
+        color: var(--pimeja);
         text-decoration: none;
     }
     .chapters a:is(:hover, :focus-visible){
@@ -30,12 +33,49 @@ breadcrumb:
     }
     
     .chapters [aria-current="page"]{
-        list-style-type: '→';
+        background-color: var(--kule-3);
     }
 
     main{
         position: relative;
     }
+
+    span:has(.tiers){
+    margin: auto;
+    width: fit-content;
+    display: block;
+}
+.tiers :is(td, th){
+    padding: .5rem 2rem .5rem .5rem;
+    max-width: 30rem;
+    vertical-align: top;
+}
+thead {
+    border-bottom: solid 2px var(--pimeja);
+}
+.tiers{
+    max-width: 50rem;
+    margin: 2em;
+    text-align: left;
+    border-collapse: collapse
+}
+tbody tr:nth-child(2n-1) {
+    background-color: var(--kule-1);
+}
+caption {
+    text-align: left;
+    padding-left: .5rem;
+}
+h3, h4{
+    margin: 2rem auto 0;
+}
+
+.tech{
+    background-color: var(--kule-1);
+    margin-block: 0.2rem;
+    font-family: monospace;
+}
+
 </style>
 
 
@@ -53,7 +93,23 @@ breadcrumb:
 {% endfor %}
 </ul>{% enden %}
 
-{% sp %}<p>content</p>{% endsp %}
+{% sp %}<ul class="chapters">
+{% for item in collections.sorted_method %}
+{% if item.url != page.url %}
+<li><span><a href="{{item.url}}">{{ item.data.spTitle }}</a></span></li>
+{% else %}
+<li aria-current="page">{{ item.data.spTitle }}</li>
+{% endif %}
+{% endfor %}
+</ul>{% endsp %}
 
-{% sl %}<p>content</p>{% endsl %}
+{% sl %}<ul class="chapters">
+{% for item in collections.sorted_method %}
+{% if item.url != page.url %}
+<li><span><a href="{{item.url}}">{{ item.data.sLTitle }}</a></span></li>
+{% else %}
+<li aria-current="page">{{ item.data.sLTitle }}</li>
+{% endif %}
+{% endfor %}
+</ul>{% endsl %}
 {% endsplit %}
