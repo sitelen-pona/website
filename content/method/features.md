@@ -1,7 +1,7 @@
 ---
 title: "Which non-word glyphs are commonly used in Sitelen Pona?"
-sLTitle: sitelen seme pi nimi ala li suli kepeken 
-spTitle: sitelen seme pi nimi ala li suli kepeken lon sitelen pona
+sLTitle: sitelen nasin seme li suli kepeken 
+spTitle: sitelen+nasin seme li suli kepeken lon sitelen pona
 tags: method
 layout: '_layouts/method.html'
 index: 5
@@ -9,8 +9,8 @@ index: 5
 
 {% splith %}
 {% en %}Definition{% enden %}
-{% sp %}ni li seme{% endsp %}
-{% sl %}ni li seme{% endsl %}
+{% sp %} sitelen+nasin li seme{% endsp %}
+{% sl %}sitelen nasin li seme{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -20,12 +20,20 @@ In Sitelen Pona, 'non-word' glyphs refer to punctuation features.
 This includes sentence-ending punctuation. Some people elect to start a new line at the beginning of every sentence, some use a middle-dot, some use a Latin period. To transcribe loan words, there are at least three systems in use: the 2014 style, nasin sitelen kalama, and the tally system. Quote punctuations are also examples of these 'non-word glyphs.' 
 {% enden %}
 {% sp %}
-o pali
+sitelen+pona kulupu la  te sitelen&nasin to li sitelen pi nimi ala  li pana e sona namako
+
+sitelen+pona la linja toki li pini la jan ante li toki e ni kepeken nasin ante  
+weka sitelen en linja sin en sike lili insa en sike lili pi sitelen [la:sina:]   
+zz li ken pini e toki zz zz zz ni^ ale li sitelen&nasin  
+sitelen [la:sina:] la mi sitelen e [SITELEN zz LASINA] la   
+zz nasin seme pi sitelen+pona li ken pana e sona sama  zz jan ante li kepeken nasin ante  
+sitelen [la:sina:] en sitelen [laso ala sina insa nasin ale] en sitelen [la,sina,,,]  
+zz ona ante li lon kinzz zz zz  ni^ ale li sitelen+nasin  zz te to li sitelen+nasin a
 {% endsp %}
 {% sl %}
 sitelen nasin pi sitelen pona li sitelen pi nimi ala. sitelen nasin li pana e sona namako.  
 
-sitelen pona la linja toki li pini la jan ante li toki e ni kepeken nasin ante: weka sitelen en linja sin en sike lili insa en sike lili pi sitelen Lasina toki. ni ale li sitelen nasin. sitelen Lasina la mi ken sitelen e 'sitelen Lasina' la nasin seme pi sitelen pona li ken pana e sona sama? jan ante li kepeken nasin ante: nasin sitelen kalama en nasin sitelen pi lipu en nasin ante mute li lon kin. sitelen te en sitelen to li sitelen nasin. 
+sitelen pona la linja toki li pini la jan ante li toki e ni kepeken nasin ante: weka sitelen en linja sin en sike lili insa en sike lili pi sitelen Lasina li ken pini e toki. ni ale li sitelen nasin. sitelen Lasina la mi ken sitelen e 'sitelen Lasina' la nasin seme pi sitelen pona li ken pana e sona sama? jan ante li kepeken nasin ante: nasin sitelen kalama en nasin sitelen pi lipu en nasin ante mute li lon kin. sitelen te en sitelen to li sitelen nasin. 
 {% endsl %}
 {% endsplit %}
 
