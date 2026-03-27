@@ -145,9 +145,9 @@ jan Lepeka held one vote within this algorithm.
 {% sl %}
 jan Lepeka li pali e nasin sitelen ilo tu. ona li pali e sitelen 'Fairfax HD', li kama pali e 'sitelen seli kiwen' lon sike #MAMT.
 
-jan Lepeka li mama pi nasin Jusisa, li pali e nasin sitelen tawa ilo lon tenpo sike mute a. ona li kama pana e sitelen pona nasin sitelen ona 'Fairfax HD', li kama pali e 'sitelen seli kiwen' kin. ni li nasin sitelen ilo sin pi sitelen pona, li sama sitelen luka jan. nasin sitelen tu ni la, ona ale la nasin ilo tu tu li lon: #1) ; #2) ; #3) sitelen ale li suli poka sama; #4) sitelen li suli poka sama ala.
+jan Lepeka li mama pi nasin Jusisa, li pali e nasin sitelen tawa ilo lon tenpo sike mute a. ona li kama pana e sitelen pona nasin sitelen ona 'Fairfax HD', li kama pali e 'sitelen seli kiwen' kin. ni li nasin sitelen ilo sin pi sitelen pona, li sama sitelen luka jan. nasin sitelen tu ni la, ona ale la nasin ilo tu tu li lon: #1) jan li sitelen Lasina la nasin ilo li pana e sitelen pona; #2) jan li kepeken nasin Jusisa; #3) sitelen ale li suli poka sama; #4) sitelen li suli poka sama ala.
 
-gonzague
+jan mute li pilin e ni: nasin sitelen tu ona li wawa a. nasin sitelen ni li wile jo e sitelen ale a pi sitelen pona, li awen e sitelen nimi mute ni: jan wan anu jan ala li kepeken. sitelen ale a li lon ona la, lipu nimi mute li kepeken ona, sama lipu [nimi.li](https://nimi.li/).
 
 alasa ni la jan Lepeka li sona wan pi sona tu tu tu.
 {% endsl %}
