@@ -86,7 +86,7 @@ awen la, jan mute li kepeken nasin nanpa a. ona li suli kepeken. ona li suli tan
 
 nasin nanpa li sona pona e nasin kepeken kulupu. tenpo wan taso ala la nasin nanpa li ante lili e selo sitelen la kulupu li kama kepeken selo sitelen sin ni. (mi sona ala e ni: ni seme li tan ni seme.)
 
-alasa ni la jan Itan li sona wan pi sona luka wan. taso sona tu li wawa sama, la sona pi jan Itan li anpa e sona ante.
+alasa ni la jan Itan li sona wan pi sona tu tu tu. taso sona tu li wawa sama, la sona pi jan Itan li anpa e sona ante.
 {% endsl %}
 {% endsplit %}
 
@@ -118,7 +118,7 @@ tenpo pi lipu ku ala la 'linja pona' pi jan Same li nasin sitelen pi suli kepeke
 
 tenpo pini la, linja lipamanka en linja sike li suli kepeken tan ni: lipamanka li pana e sitelen sin mute e sitelen namako pi nimi jan e nasin sin tawa pali ona. lipamanka a li suli kepeken e selo ante pi sitelen mute.
 
-alasa ni la lipamanka li sona wan pi sona luka wan.
+alasa ni la lipamanka li sona wan pi sona tu tu tu.
 {% endsl %}
 
 {% endsplit %}
@@ -141,16 +141,15 @@ jan Lepeka held one vote within this algorithm.
 {% enden %}
 
 {% sp %}
-jan Lepeka li pali e nasin sitelen ilo tu. ona li pali e sitelen 'Fairfax HD', li kama pali e 'sitelen seli kiwen' lon sike #MAMT.
-
-jan Lepeka li mama pi nasin Jusisa, li pali e nasin sitelen tawa ilo lon tenpo sike mute a. ona li kama pana e sitelen pona nasin sitelen ona 'Fairfax HD', li kama pali e 'sitelen seli kiwen' kin. ni li nasin sitelen ilo sin pi sitelen pona, li sama sitelen luka jan. nasin sitelen tu ni la, ona ale la nasin ilo tu tu li lon: 
-
-
-
-alasa ni la jan Lepeka li sona wan pi sona luka wan.
 {% endsp %}
 {% sl %}
+jan Lepeka li pali e nasin sitelen ilo tu. ona li pali e sitelen 'Fairfax HD', li kama pali e 'sitelen seli kiwen' lon sike #MAMT.
 
+jan Lepeka li mama pi nasin Jusisa, li pali e nasin sitelen tawa ilo lon tenpo sike mute a. ona li kama pana e sitelen pona nasin sitelen ona 'Fairfax HD', li kama pali e 'sitelen seli kiwen' kin. ni li nasin sitelen ilo sin pi sitelen pona, li sama sitelen luka jan. nasin sitelen tu ni la, ona ale la nasin ilo tu tu li lon: #1) ; #2) ; #3) sitelen ale li suli poka sama; #4) sitelen li suli poka sama ala.
+
+gonzague
+
+alasa ni la jan Lepeka li sona wan pi sona tu tu tu.
 {% endsl %}
 {% endsplit %}
 
@@ -174,6 +173,16 @@ waso Keli tabled two votes within this algorithm. The majority preference of SP 
 {% sp %}
 
 {% endsp %}
+{% sl %}
+waso Keli li pali e nasin sitelen ilo 'leko majuna' lon sike #MAMT, li pali e ilo pali pi nasin sitelen ilo lon sike #MAMTT.
+
+ilo pali ona pi nasin sitelen li seme? waso Keli li pali e ilo tawa ni: ona li ken kama lukin e nasin sitelen pi jan mute, e ni: sitelen nimi li kama ante lili seme lon sitelen luka jan. ilo la, jan li sitelen e nimi ale pi sitelen pona lon poki lili mute lon lipu, la ilo pi waso Keli li kama e sitelen nimi ale tan lipu li pali e nasin sitelen ilo tan sitelen luka jan. tenpo kama la waso Keli li lukin e lipu ni ale li nanpa e ni: jan li selo seme e sitelen.
+
+sitelen 'leko majuna' la, sitelen ale li tan leko lili mute pi suli sama, sama nasin pi ilo majuna. waso Keli li pali e ona tawa ni: ona li toki pona e musi ilo majuna. ona li nasin sitelen ilo ni nanpa wan: nimi 'ni' li ken tawa poka taso ala, tawa sewi taso ala, li ken tawa insa pi ni tu.
+
+waso Keli li pana e sona tu pi sona tu tu tu. jan li kepeken ilo pali pi nasin sitelen la nasin ona li sona wan. waso Keli a li sona wan ante.
+{% endsl %}
+
 {% endsplit %}
 
 {% splith 3 %}
@@ -192,6 +201,11 @@ The majority preference of submissions from the handwriting corpus held one vote
 {% sp %}
 o pana e sitelen pona lon ni
 {% endsp %}
+{% sl %}
+jan mute li sitelen pona kepeken luka li pana e sitelen ni lon ilo. jan Majeka li lukin e sitelen ni 698, li lipu e ni ale: jan li kepeken nasin seme pi sitelen pona, li kepeken sitelen ante seme tawa nimi sama. ale la ona li lukin e sitelen nimi mute a la mute li suli tawa tu ale ale.
+
+sitelen luka jan ale li sona wan pi sona tu tu tu. kulupu pi sitelen luka ale li jo ala e nasin wan wawa lon ijo wan, tawa pilin pi jan Majeka, la sitelen luka jan li pana ala e sona tawa wan pi sona tu tu tu.
+{% endsl %}
 {% endsplit %}
 
 {% splith %}
@@ -211,5 +225,10 @@ Or download the [raw results for representative glyphs](/content/common/represen
 {% sp %}
 
 {% endsp %}
+{% sl %}
+o lukin e [sitelen nimi]()
+
+anu o lukin e sona nanpa taso: [nimi la sitelen seme li suli](/content/common/representative-glyphs.txt).
+{% endsl %}
 {% endsplit %}
 
