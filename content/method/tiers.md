@@ -13,6 +13,13 @@ index: 1
     display: none;
 }
 
+[data-selected-script="sp"] .tiers.sl {
+    display: none
+}
+[data-selected-script="sl"] .tiers.sp {
+    display: none;
+}
+
 
 
 </style>
@@ -23,7 +30,13 @@ The following table describes the Tiers of Teachability into which Common Sitele
 {% enden %}
 
 {% sp %}
-o pana e sitelen pona lon ni
+sitelen pona kulupu li toki e ni> zz jan li wile kama sona pona e sitelen pona la  
+zz ona o sona e nasin ni> kulupu li kepeken  
+lon la ijo mute li lon kulupu li kepeken pi nasin mute zz  taso mi wile sona e ni  
+zz ale la nimi seme en sitelen seme en nasin seme  li suli lon kepeken  
+sitelen pona kulupu la  tesuli kepeken nanpa wanto en te suli kepeken nanpa tu to   
+zz zz zz zz en te suli kepeken nanpa tu wanto li toki e sona nasin  
+o kama lukin a
 {% endsp %}
 
 {% sl %}
@@ -62,7 +75,7 @@ sitelen pona kulupu li toki e ni: jan li wile kama sona pona e sitelen pona la o
 </span>
 
 <span>
-<table class="tiers" lang="tok" class="sl">
+<table class="tiers sl" lang="tok">
     <caption>nanpa pi suli kepeken li seme?<caption>
     <thead>
         <tr>
@@ -86,6 +99,37 @@ sitelen pona kulupu li toki e ni: jan li wile kama sona pona e sitelen pona la o
             <tr>
                 <td>lili</td>
                 <td>sitelen pona kulupu la ni li weka.</td>
+            </tr>
+        </tbody>
+</table>
+</span>
+
+
+<span>
+<table class="tiers sp" lang="tok" >
+    <caption>nanpa pi suli kepeken li seme<caption>
+    <thead>
+        <tr>
+            <th>nanpa suli</th>
+            <th>suli ni< li seme</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>suli nanpa wan</td>
+                <td>ale li kepeken ni< zz ale li pilin e ni> zz  ni< li lon nasin ni> zz lipu pu li toki open e sitelen+pona</td>
+            </tr>
+            <tr>
+                <td>suli nanpa tu</td>
+                <td>jan mute a li kepeken ni<</td>
+            </tr>
+            <tr>
+                <td>suli nanpa tu wan</td>
+                <td>jan pi mute lili li kepeken ni< zz ni< li lon ala nasin suli zz taso jan kepeken li lili ala<br>pana sona la ni< li lili nanpa wan</td>
+            </tr>
+            <tr>
+                <td>lili</td>
+                <td>sitelen+pona kulupu la ni< li weka</td>
             </tr>
         </tbody>
 </table>
