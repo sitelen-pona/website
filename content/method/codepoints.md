@@ -42,9 +42,12 @@ Recommended to be assigned new codepoints:
 {% enden %}
 
 {% sp %}
-sitelen mute pi nimi ala la mi sona e ni kepeken nasa ala. sitelen li sin li sama ala sitelen lon pi nasin Juniko la nanpa sin o lon tawa ona. sitelen sama li lon nasin Juniko la o kepeken nanpa pi sitelen lon.
+sitelen mute pi nimi ala la mi sona e nasin kepeken nasa ala  
+sitelen li sin li sama ala sitelen lon pi nasin [jan uta ni: ko:] la   
+zz nanpa sin o lon tawa ona  
+sitelen sama li lon nasin [jan uta ni: ko:] la  zz o kepeken nanpa pi sitelen lon
 
-sitelen ni li sama sitelen lon pi nasin Juniko, ona o kepeken nanpa sama:
+sitelen ni li sama sitelen lon pi nasin [jan]  la ona o kepeken nanpa sama
 
 - <span class="tech">ZERO WIDTH SPACE</span>
 - <span class="tech">ZERO WIDTH JOINER</span>
@@ -52,7 +55,7 @@ sitelen ni li sama sitelen lon pi nasin Juniko, ona o kepeken nanpa sama:
 - <span class="tech">LEFT CORNER BRACKET</span>
 - <span class="tech">RIGHT CORNER BRACKET</span>
 
-sitelen ni li ante, ona o jo e nanpa sin:
+sitelen ni li ante  la ona o jo e nanpa sin
 
 - <span class="tech">SITELEN PONA START OF CARTOUCHE</span>, <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
 - <span class="tech">SITELEN PONA STACKING JOINER</span>
@@ -63,7 +66,12 @@ sitelen ni li ante, ona o jo e nanpa sin:
 - <span class="tech">SITELEN PONA MIDDLE DOT</span>
 - <span class="tech">SITELEN PONA COLON</span>
 
-sitelen <span class="tech">SITELEN PONA MIDDLE DOT</span> en sitelen <span class="tech">SITELEN PONA COLON</span> li nasa. tenpo mute la [sitelen ni li kama lon poki nimi](https://sona.pona.la/wiki/nasin_sitelen_kalama). sitelen <span class="tech">MIDDLE DOT</span> en sitelen <span class="tech">COLON</span> li lon nasin Juniko, taso ona li ken lon poki nimi la ni li nasa mute. ni la mi pilin e ni: nanpa sin o lon tawa ona.{% endsp %}
+zz sitelen te<span class="tech">SITELEN PONA MIDDLE DOT</span>to   
+en sitelen te<span class="tech">SITELEN PONA COLON</span>to li nasa  
+tenpo mute la [sitelen ni li kama lon poki nimi](https://sona.pona.la/wiki/nasin_sitelen_kalama)  
+sitelen te<span class="tech">MIDDLE DOT</span>to en sitelen te<span class="tech">COLON</span> to li lon nasin [jan]  
+taso ona li ken lon poki nimi la ni< li nasa mute nasin  
+ni^ la kulupu pali li  pilin e ni> zz nanpa sin o lon tawa sitelen tu ni{% endsp %}
 {% sl %}
 sitelen mute pi nimi ala la, mi sona e ni kepeken nasa ala. sitelen li sin li sama ala sitelen lon pi nasin Juniko la nanpa sin o lon tawa ona. sitelen sama li lon nasin Juniko la o kepeken nanpa pi sitelen lon.
 
