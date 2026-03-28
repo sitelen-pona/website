@@ -972,19 +972,22 @@
     "name": "ni, leftwards",
     "input": "ni<",
     "technical_name": "SITELEN PONA IDEOGRAPH LEFTWARDS NI",
-    "codepoint": "F1989"
+    "codepoint": "F1989",
+    "placeholder": "ni<"
    },
    {
     "name": "ni, upwards",
     "input": "ni^",
     "technical_name": "SITELEN PONA IDEOGRAPH UPWARDS NI",
-    "codepoint": "F198A"
+    "codepoint": "F198A",
+    "placeholder": "ni^"
    },
    {
     "name": "ni, rightwards",
     "input": "ni>",
     "technical_name": "SITELEN PONA IDEOGRAPH RIGHTWARDS NI",
-    "codepoint": "F198B"
+    "codepoint": "F198B",
+    "placeholder": "ni>"
    },
    {
     "name": "oko",
@@ -996,7 +999,8 @@
     "name": "sewi, alternate",
     "input": "sewi&#65025;",
     "technical_name": "SITELEN PONA IDEOGRAPH ALTERNATE SEWI",
-    "codepoint": "F198C"
+    "codepoint": "F198C",
+    "placeholder": "sewi2"
    },
    {
     "name": "su",

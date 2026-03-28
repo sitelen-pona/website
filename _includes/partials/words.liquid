@@ -2,7 +2,13 @@
 <div class="word-grid">
     {%- for entry in words  -%}
                 <span class="cell">
-                <span class="word-glyph">&#x{{ entry.codepoint }};</span>
+                <span class="word-glyph">
+                {%- if entry.placeholder -%}
+                {{ entry.placeholder }}
+                {%- else -%}
+                &#x{{ entry.codepoint }};
+                {%- endif -%}
+                </span>
                 <div class="word-name">
                     {{ entry.name }}<br>
                 </div>
