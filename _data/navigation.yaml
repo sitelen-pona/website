@@ -24,7 +24,7 @@
   spName: "sitelen pona kulupu"
   sLName: "sitelen pona kulupu"
   children:
-  - enName: "draft"
+  - enName: "public draft"
     spName: "lipu pi pini ala"
     sLName: "lipu pi pini ala"
     link: "/common.html"

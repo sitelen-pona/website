@@ -1,5 +1,5 @@
 ---
-title: "Draft: Common Sitelen Pona"
+title: "Public Draft: Common Sitelen Pona"
 sLTitle: lipu pi sitelen pona kulupu (li pini ala)
 spTitle: lipu+ni pi sitelen pona kulupu li pini ala
 permalink: common.html

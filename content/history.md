@@ -1,7 +1,7 @@
 ---
 title: The Road to Unicode
 sLTitle: kulupu li wile pana e sitelen pona tawa nasin Juniko
-spTitle: kulupu li wile pana e sitelen pona tawa nasin [jan uta ni:ko:]
+spTitle: kulupu li wile pana e sitelen pona <br> zz tawa nasin [jan uta ni:ko:]
 permalink: /history.html
 
 breadcrumb:
