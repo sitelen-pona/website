@@ -330,6 +330,8 @@ Forthcoming
 
 <div class="word-grid-container">
 
+<a id="wordglyphs"></a>
+
 {% include "partials/words.liquid",  index: "1", words: tier_1["words"] %}
 
 

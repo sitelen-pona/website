@@ -198,9 +198,9 @@ pali nimi la ilo Muni en mun Kekan San li pilin wan pi pilin tu wan. ken tu li p
 
 {% split %}
 {% en %}
-Jump to [Tier 1 Word Glyphs]()  
-Jump to [Tier 2 Word Glyphs]()  
-Jump to [Tier 3 Word Glyphs]()
+Jump to [Tier 1 Word Glyphs](/common.html#tier1words)  
+Jump to [Tier 2 Word Glyphs](/common.html#tier2words)  
+Jump to [Tier 3 Word Glyphs](/common.html#tier3words)
 
 Or download the raw results:
 [WORDS](/content/common/words-tiers.txt)
@@ -208,9 +208,9 @@ Or download the raw results:
 {% enden %}
 
 {% sp %}
-o lukin e [nimi pi suli nanpa wan]()  
-o lukin e [nimi pi suli nanpa tu]()  
-o lukin e [nimi pi suli nanpa tu wan]()
+o lukin e [nimi pi suli nanpa wan](/common.html#tier1words)  
+o lukin e [nimi pi suli nanpa tu](/common.html#tier2words)  
+o lukin e [nimi pi suli nanpa tu wan](/common.html#tier3words)
 
 o lukin e sona ale ni> zz
 [nimi](/content/common/words-tiers.txt)
@@ -218,9 +218,9 @@ o lukin e sona ale ni> zz
 {% endsp %}
 
 {% sl %}
-o lukin e [nimi pi suli #W]()  
-o lukin e [nimi pi suli #T]()  
-o lukin e [nimi pi suli #TW]()
+o lukin e [nimi pi suli #W](/common.html#tier1words)  
+o lukin e [nimi pi suli #T](/common.html#tier2words)  
+o lukin e [nimi pi suli #TW](/common.html#tier3words)
 
 o lanpan e sona ale:
 [nimi](/content/common/words-tiers.txt)

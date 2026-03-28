@@ -311,20 +311,20 @@ sitelen luka jan ale li sona wan pi sona tu tu tu. kulupu pi sitelen luka ale li
 
 {% split %}
 {% en %}
-Jump to [Word Glyphs]()
+Jump to [Word Glyphs](/common.html#wordglyphs)
 
 Or download the [raw results for representative glyphs](/content/common/representative-glyphs.txt).
 
 {% enden %}
 
 {% sp %}
-o lukin e [sitelen nimi]()
+o lukin e [sitelen nimi](/common.html#wordglyphs)
 
 anu o lukin e sona nanpa taso lon ni>zz [nimi la sitelen seme li suli](/content/common/representative-glyphs.txt)
 
 {% endsp %}
 {% sl %}
-o lukin e [sitelen nimi]()
+o lukin e [sitelen nimi](/common.html#wordglyphs)
 
 anu o lukin e sona nanpa taso: [nimi la sitelen seme li suli](/content/common/representative-glyphs.txt).
 {% endsl %}

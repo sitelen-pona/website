@@ -1,4 +1,4 @@
-<h3>  Tier {{ number }} Punctuation Glyphs</h3>
+<h3 id="tier{{index}}punctuation">Tier {{ number }} Punctuation Glyphs</h3>
 <ul class="punctuation">
         {%- for entry in tier["punctuation"] -%}
         <li  class="{%- if entry.no-codepoint == 'true' -%} no-codepoint {%- endif -%}">
