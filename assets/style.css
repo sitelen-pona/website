@@ -32,9 +32,8 @@ body {
     --kule-8: #ffc5a0;
     --lupa: #7cdff5;
     --lupa-pimeja: #000099;
-    --pimeja: #101010;
-    background-color: var(--pimeja, black);
-    color: var(--walo, white);
+    --pimeja: white;
+    --walo: #101010;
     }
 
 
