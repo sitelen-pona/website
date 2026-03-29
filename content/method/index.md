@@ -6,7 +6,7 @@ permalink: method.html
 layout: '_layouts/method.html'
 tags: method
 index: 0.5
-
+alt: "oko 'eyeball' gazes upon toki 'communication' arranged to look like kulupu 'community' demonstrates investigation of the community's communication."
 description: 
     "This is how the SPPTA is uncovering universal and representative features of Sitelen Pona. " 
 ---

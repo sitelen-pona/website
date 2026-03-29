@@ -11,6 +11,8 @@ breadcrumb:
     link: /common/
 
 description:  "A history covering the effort to get the Sitelen Pona into Unicode, the formation of the SPPTA, and a timeline of our work. "
+
+alt: "rotated symbol for nasin 'path' emerges out of clock arm in symbol for tenpo 'time' suggesting a time path"
 ---
 
 <style>

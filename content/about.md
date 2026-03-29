@@ -5,6 +5,7 @@ spTitle: mi kulupu pali pi sitelen pona
 permalink: index.html
 description: 
     "The SPPTA is a multidisciplinary team of  Sitelen Pona experts who have registered in Canada as a not-for-profit corporation." 
+alt: "kulupu pali li seme? using the organization's logo; three 'pali' characters merged at the head give the impression of communally working towards something, joining hands in the middle."
 ---
 
 {% splith %}

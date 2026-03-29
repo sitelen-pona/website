@@ -6,6 +6,7 @@ tags: method
 layout: '_layouts/method.html'
 index: 4
 
+alt: "comparison of variant glyphs for sewi 'divine/upwards,' namako 'spicy/additional', and the arrow pointed many directions symbolizing ni 'that'" 
 description: 
     "View the process and conclusions from the SPPTA's exploration of differing semanticity between alt glyphs. " 
 ---
@@ -18,7 +19,7 @@ description:
 
 {% split %}
 {% en %}
-In the methodology developed by Mrs. Lang for Common Sitelen Pona, one word shall receive one codepoint, except in the case where a variant glyphs have distinct a teachable sub-meanings.
+In the methodology developed by Mrs. Lang for Common Sitelen Pona, one word shall receive one codepoint, except in the case where variant glyphs have distinct teachable sub-meanings.
 {% enden %}
 
 {% sp %}

@@ -199,6 +199,9 @@
                 text-decoration-color: transparent;
                 margin-bottom: .5rem;
             }
+            img {
+                max-width: 100%;
+            }
 
             footer a:hover,
             footer p#links a:hover,
@@ -379,6 +382,10 @@
             %}
         <div>
     </h1>
+    {%- if alt -%}
+
+        <img alt="{{ alt }}" src="/assets/sitelen/og/{{ page.filePathStem | replace: '/content/','' }}.png">     {%- endif -%}
+
 
      
     {{ content }}

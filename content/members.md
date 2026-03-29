@@ -2,7 +2,7 @@
 title: Our Members
 sLTitle: mi mute li seme
 spTitle: mi mute pi kulupu pali li seme
-
+alt: "symbols for 'jan pona' or 'good person' stylized in orange form two rows of smiling silhouettes "
 
 permalink: members.html
 description:  "Our members are software developers, community leaders, artists, publishers, typographers, and more."

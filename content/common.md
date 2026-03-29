@@ -4,6 +4,7 @@ sLTitle: lipu pi sitelen pona kulupu (li pini ala)
 spTitle: te sitelen pona kulupu to li lipu pi pini ala
 permalink: common.html
 description:  "A standard that outlines universal and representative features of Toki Pona's logographic writing system, Sitelen Pona." 
+alt: "sitelen pona kulupu, 'common sitelen pona'"
 ---
 <style>
 
@@ -113,10 +114,6 @@ description:  "A standard that outlines universal and representative features of
 
 }
 
-.explain {
-    padding-block-end: 1em;
-
-}
 
 .example {
     display: grid;
