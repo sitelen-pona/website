@@ -23,6 +23,14 @@
     <meta property="og:description" 
   content="{{description}} (lipu li ken toki pona kin.)" />
     <meta property="og:site_name" content="Sitelen Pona Publishers and Typographers Association" />
+    {% if alt %}
+    <meta property="og:image" content="{{baseUrl}}/assets/sitelen/og/{{ page.filePathStem | replace: '/content/','' }}.png" />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="{{ alt }}" />
+    {% endif %}
+
 </head>
 
 <body class="script-sp sp-and-en">
