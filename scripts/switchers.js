@@ -56,7 +56,9 @@ setInitialSettings();
 console.log("this is");
 assignListeners(selectors);
 console.log(selectors);
-document.querySelector('.theme-selector button').addEventListener('click', handleThemeSelection);
+for (let themeSelector of document.querySelectorAll('.theme-selector button')) {
+    themeSelector.addEventListener('click', handleThemeSelection);
+}
 
 /*
 selectElement.addEventListener("change", (event) => {

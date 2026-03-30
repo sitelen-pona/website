@@ -286,20 +286,20 @@
                 width: 2rem;
                 height: 2rem;
             }
-            .theme-selector .start-dark {
-                display: none;
-            }
-            :root[data-selected-theme="dark"] .theme-selector .start-light {
+            .theme-selector .start-light {
                 display: none;
             }
             :root[data-selected-theme="dark"] .theme-selector .start-dark {
+                display: none;
+            }
+            :root[data-selected-theme="dark"] .theme-selector .start-light {
                 display: inherit;
             }
             @media (prefers-color-scheme: dark) {
-                :root:not([data-selected-theme="light"]) .theme-selector .start-light {
+                :root:not([data-selected-theme="light"]) .theme-selector .start-dark {
                     display: none;
                 }
-                :root:not([data-selected-theme="light"]) .theme-selector .start-dark {
+                :root:not([data-selected-theme="light"]) .theme-selector .start-light {
                     display: inherit;
                 }
             }
