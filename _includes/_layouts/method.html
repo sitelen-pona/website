@@ -195,21 +195,23 @@ h3, h4{
 
 
 {% if nextPost %}
-    <div class="next" >
-            <p>
-                <span>
+    <div class="split">
+        <div class="next" >
+                <p>
+                    <span>
+                        {% include "partials/ui-translate.liquid",
+                            enName: "Next:",
+                            spName: "lipu kama li ni>zz",
+                            sLName: "lipu kama:" %}
+                    </span>
+                            <a href="{{ nextPost.url}}">
                     {% include "partials/ui-translate.liquid",
-                        enName: "Next:",
-                        spName: "lipu kama li ni>zz",
-                        sLName: "lipu kama:" %}
-                </span>
-                        <a href="{{ nextPost.url}}">
-                {% include "partials/ui-translate.liquid",
-                    enName: nextPost.data.title,
-                    spName: nextPost.data.spTitle,
-                    sLName: nextPost.data.sLTitle %}
-                        </a>
-            </p>
+                        enName: nextPost.data.title,
+                        spName: nextPost.data.spTitle,
+                        sLName: nextPost.data.sLTitle %}
+                            </a>
+                </p>
+        </div>
     </div>
 {% endif %}
 
