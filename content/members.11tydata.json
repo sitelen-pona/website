@@ -416,27 +416,34 @@
 
     },
     {
-        "listed": "false",
+        "listed": "true",
 
-        "enname": "",
-        "spname": "ijo Kesi",
+        "enname": "jan Kesi",
+        "spname": "jan [kili en suwi ijo]",
         "slname": "",
         "emoji": "",
         "ownwords": [
-            "",
-            ""
+            "Co-creator of the Toki Pona lessons video series",
+            "Font Designer: leko kili"
         ],
         "spbio": [
 
+
         ],
         "palisl": [
-            ""
+            "ona li pali e lipu sona ni:<br>[Toki Pona lessons](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) series",
+            "ona li pali e nasin sitelen sin ni: <br>[leko kili](https://wasokeli.github.io/sp-font-maker/leko-kili-tan-ijo-Kesi)"
         ],
         "pali": [
+            "li pali e lipu sona ni<br>[Toki Pona lessons](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) series",
+            "li pali e nasin sitelen sin ni<br>[leko kili](https://wasokeli.github.io/sp-font-maker/leko-kili-tan-ijo-Kesi)"
+
+
 
         ],
         "titles": [
-
+            "Educator:<br>[Toki Pona lessons](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX) series",
+            "Font Designer: <br>[leko kili](https://wasokeli.github.io/sp-font-maker/leko-kili-tan-ijo-Kesi)"
         ]
 
     },
