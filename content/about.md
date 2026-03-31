@@ -108,7 +108,7 @@ tenpo kama la lipu sona o ken e ni> zz ilo ale a li ken kepeken sitelen pona
 
 
 ma [kasi . nasin . taso .] la   
-zz <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/" hreflang="en">lipu li nasin e kulupu esun pi wile mani ala</a> li nasin e kulupu pali pi sitelen pona
+zz <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/" hreflang="en">lipu li nasin e kulupu esun pi wile mani ala</a> li nasin e kulupu pali pi sitelen pona  
 sina wile lon kulupu la nanpa wan la kulupu o wile e sina  
 zz sina wile ala pana e mani
 sina wile kama lon kulupu la <a href="">nasin toki pi wile kama</a> li lon 
