@@ -27,8 +27,8 @@ alt: "kulupu pali li seme? using the organization's logo; three 'pali' character
     kulupu pali pi sitelen pona li kulupu sona pi sitelen pona   
     ijo ale pi kulupu ni li sona wawa e sitelen pona li pali pi <a href="sitelen-pona.html">sitelen pona</a> kepeken nasin ante
 
-    ona pi kulupu ni   
-    zz li ken pali e ilo nanpa wawa li pana e sona pi nasin pona tawa kulupu   
+    mi pi kulupu ni   
+    zz li ken pali e ilo nanpa wawa li ken pana e sona pi nasin pona tawa kulupu   
     zz li ken pali musi li ken pana e lipu toki    
     zz li ken pali e nasin sitelen ilo sin li ijo ante kin
 
