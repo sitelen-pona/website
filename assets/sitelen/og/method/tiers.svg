@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="630"
+   viewBox="0 0 317.5 166.6875"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="tiers.svg"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="374.76659"
+     inkscape:cy="164.04877"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffffff">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="7.9375"
+       spacingy="7.9375"
+       empcolor="#000000"
+       empopacity="0.30196078"
+       color="#000000"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+    <inkscape:grid
+       id="grid3"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="3.96875"
+       spacingy="3.96875"
+       empcolor="#000000"
+       empopacity="0.30196078"
+       color="#000000"
+       opacity="0.10196078"
+       empspacing="8"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#511d00;fill-opacity:1;stroke-width:7.9375;stroke-miterlimit:10"
+       id="rect1"
+       width="79.375"
+       height="166.6875"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#cb5300;fill-opacity:1.0;stroke-width:7.9375;stroke-miterlimit:10"
+       id="rect1-7"
+       width="79.375"
+       height="166.6875"
+       x="79.375"
+       y="0" />
+    <rect
+       style="fill:#ff7800;fill-opacity:1;stroke-width:7.9375;stroke-miterlimit:10"
+       id="rect1-7-8"
+       width="79.375"
+       height="166.6875"
+       x="158.75"
+       y="0" />
+    <rect
+       style="fill:#ffccab;fill-opacity:1.0;stroke-width:7.9375;stroke-miterlimit:10"
+       id="rect1-7-8-1"
+       width="79.375"
+       height="166.6875"
+       x="238.125"
+       y="0" />
+    <path
+       d="m 36.919378,24.379483 h 5.602943 V 10.50553 h -5.602943 z m 10.60557,1.334034 4.869224,2.73477 6.803573,-12.139709 -4.869224,-2.73477 z m -15.608197,0 -6.803573,-12.139709 -4.869224,2.73477 6.803573,12.139709 z M 23.045425,31.31646 V 67.468781 H 56.396274 V 31.31646 Z m 5.536241,5.602943 H 50.860033 V 61.93254 H 28.581666 Z"
+       id="text1-3-1"
+       style="font-size:66.7017px;line-height:318.744px;font-family:'linja laso';-inkscape-font-specification:'linja laso';font-variant-ligatures:discretionary-ligatures;font-variant-numeric:lining-nums proportional-nums;letter-spacing:0px;word-spacing:0px;fill:#ffccab;stroke-width:7.93752;stroke-miterlimit:10"
+       aria-label="sona" />
+    <path
+       d="m 110.75813,31.31646 h 16.67543 v 16.675425 h -16.67543 z m -5.53624,-5.536241 V 53.594827 H 132.9698 V 25.780219 Z M 96.884179,17.442507 H 141.30751 V 61.93254 H 96.884179 Z M 91.281236,11.906266 V 67.468781 H 146.91045 V 11.906266 Z"
+       id="text1-3-1-0"
+       style="font-size:66.7017px;line-height:318.744px;font-family:'linja laso';-inkscape-font-specification:'linja laso';font-variant-ligatures:discretionary-ligatures;font-variant-numeric:lining-nums proportional-nums;letter-spacing:0px;word-spacing:0px;fill:#ffccab;stroke-width:7.93752;stroke-miterlimit:10"
+       aria-label="leko" />
+    <path
+       d="m 178.99395,52.194092 c 3.06828,0 5.60294,2.467962 5.60294,5.536241 0,3.068278 -2.53466,5.602942 -5.60294,5.602942 -3.06828,0 -5.53624,-2.534664 -5.53624,-5.602942 0,-3.068279 2.46796,-5.536241 5.53624,-5.536241 z m 38.95379,0 c 3.06828,0 5.53624,2.467962 5.53624,5.536241 0,3.068278 -2.46796,5.602942 -5.53624,5.602942 -3.06828,0 -5.60294,-2.534664 -5.60294,-5.602942 0,-3.068279 2.53466,-5.536241 5.60294,-5.536241 z m 0,-5.536241 c -0.73372,0 -1.46744,0.0667 -2.20116,0.200105 l -9.60504,-17.209038 c 2.13445,-2.001051 3.46849,-4.869224 3.46849,-8.070906 0,-6.136556 -5.00263,-11.072482 -11.13919,-11.072482 -6.13655,0 -11.13918,4.935926 -11.13918,11.072482 0,3.201682 1.33403,6.069855 3.46849,8.070906 l -9.60505,17.209038 c -0.73371,-0.133404 -1.46743,-0.200105 -2.20115,-0.200105 -6.13656,0 -11.07248,4.935925 -11.07248,11.072482 0,6.136556 4.93592,11.139183 11.07248,11.139183 5.20273,0 9.53834,-3.53519 10.80567,-8.337712 h 17.34245 c 1.26733,4.802522 5.60294,8.337712 10.80567,8.337712 6.13656,0 11.07248,-5.002627 11.07248,-11.139183 0,-6.136557 -4.93592,-11.072482 -11.07248,-11.072482 z m -19.4769,-30.61608 c 3.06828,0 5.53625,2.467963 5.53625,5.536241 0,3.068278 -2.46797,5.602943 -5.53625,5.602943 -3.06827,0 -5.53624,-2.534665 -5.53624,-5.602943 0,-3.068278 2.46797,-5.536241 5.53624,-5.536241 z m -8.67122,38.88709 c -0.60031,-2.267858 -1.86764,-4.202207 -3.60189,-5.669644 l 9.47164,-16.87553 c 0.86713,0.200105 1.86765,0.333509 2.80147,0.333509 0.93383,0 1.93435,-0.133404 2.80148,-0.333509 l 9.47164,16.87553 c -1.73425,1.467437 -3.00158,3.401786 -3.60189,5.669644 z"
+       id="text1-3-1-0-3"
+       style="font-size:66.7017px;line-height:318.744px;font-family:'linja laso';-inkscape-font-specification:'linja laso';font-variant-ligatures:discretionary-ligatures;font-variant-numeric:lining-nums proportional-nums;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:7.93752;stroke-miterlimit:10"
+       aria-label="linluwi" />
+    <path
+       d="m 255.63418,62.599557 5.46954,-2.668068 c 3.60189,5.402837 9.80515,8.938027 16.74212,8.938027 11.13919,0 20.14392,-9.004729 20.14392,-20.143913 0,-2.201156 -0.33351,-4.33561 -1.00053,-6.269959 l 5.53624,-2.668068 -2.46796,-5.669645 -5.80305,2.934875 c -3.66859,-5.136031 -9.67174,-8.471116 -16.40862,-8.471116 -11.13918,0 -20.14391,9.00473 -20.14391,20.143913 0,2.134455 0.33351,4.202207 0.93383,6.136557 l -5.53625,2.801471 z m 14.40757,-36.88604 -6.80358,-12.139709 -4.86922,2.73477 6.80357,12.139709 z m 15.60819,0 4.86923,2.73477 6.80357,-12.139709 -4.86922,-2.73477 z m -10.60557,-1.334034 h 5.60295 V 10.50553 h -5.60295 z m 2.80147,9.738448 c 4.60242,0 8.67123,2.134455 11.33929,5.46954 l -25.48005,12.740024 c -0.2668,-1.133929 -0.46691,-2.334559 -0.46691,-3.601892 0,-8.070905 6.53677,-14.607672 14.60767,-14.607672 z m 14.07406,10.805675 c 0.33351,1.200631 0.53362,2.467963 0.53362,3.801997 0,8.070906 -6.53677,14.607672 -14.60768,14.607672 -4.73582,0 -9.00473,-2.334559 -11.67279,-5.869749 z"
+       id="text1-3-1-0-3-5"
+       style="font-size:66.7017px;line-height:318.744px;font-family:'linja laso';-inkscape-font-specification:'linja laso';font-variant-ligatures:discretionary-ligatures;font-variant-numeric:lining-nums proportional-nums;letter-spacing:0px;word-spacing:0px;fill:#511d00;stroke-width:7.93752;stroke-miterlimit:10"
+       aria-label="kokosila" />
+  </g>
+</svg>
