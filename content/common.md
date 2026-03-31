@@ -8,6 +8,11 @@ alt: "sitelen pona kulupu, 'common sitelen pona'"
 cover_image: false
 ---
 <style>
+            
+ :not(h1, footer).split:first-of-type{
+    background-color: var(--kule-3); padding-bottom: 2rem; border-radius: 0 0 4rem 4rem;
+
+}
 
     
 .long {
