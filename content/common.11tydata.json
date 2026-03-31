@@ -779,14 +779,14 @@
    },
    {
     "name": "combined glyph,  non-standard combination <br>(zero-width joiner)",
-    "slname": "ni li wan pona e sitelen tu",
+    "slname": "ni li wan e sitelen tu kepeken nasin ken",
     "spname": "sitelen+ni li wan e sitelen tu kepeken nasin ken",
     "input": "luka&luka",
     "technical_name": "ZERO WIDTH JOINER",
     "codepoint": "200D",
     "explain": "This invisible glyph is used to combine two glyphs in a non-standard way or in a way the fontmaker specifies. Depending on the shape of the glyphs and preferences of the fontmaker, the combination may end up combined into a glyph taking features from each glyph, joined horizontally, stacked, nested, or combined some other way.",
-    "explainsl": "sitelen ni kon la jan pali pi nasin sitelen ilo li wan e sitelen tu kepeken nasin ken pona. ken la sitelen tu li ken wan anpa sewi li ken wan selo insa li ken wan pi nasin sin li ken wan ante kin.",
-    "explainsp": "sitelen+ni kon la jan pali pi(nasin sitelen ilo) li wan e sitelen tu kepeken nasin ken pona. ken la sitelen tu li ken wan anpa sewi li ken wan selo insa li ken wan pi(nasin sin) li ken wan ante kin.",
+    "explainsl": "sitelen ni kon la jan pali pi nasin sitelen ilo li wan e sitelen tu kepeken nasin ken pona. ken la sitelen tu li ken wan pi nasin sin li ken wan anpa sewi li ken wan selo insa.",
+    "explainsp": "sitelen+ni kon la jan pali pi(nasin sitelen ilo) li wan e sitelen tu kepeken nasin ken pona. ken la sitelen tu li ken wan pi nasin sin li ken wan anpa sewi li ken wan selo insa.",
 
     "example-before": "soweli 'zw-joiner' suwi li kalama 'zw-joiner' jaki",
     "example-beforetok": "soweli 'wan-ken' suwi li kalama 'wan-ken' jaki",
