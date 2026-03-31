@@ -128,11 +128,9 @@ h1{
     margin: 0;
     background-color: var(--kule-3);
     padding: 2rem 0 1rem;
-    color: var(--pimeja);
 }
 .startsplit{
     background-color: var(--kule-3);
-    color: var(--pimeja);
     border-radius: 0 0 4rem 4rem;
     display: grid;
     grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
