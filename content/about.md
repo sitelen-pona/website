@@ -6,7 +6,18 @@ permalink: index.html
 description: 
     "The SPPTA is a multidisciplinary team of  Sitelen Pona experts who have registered in Canada as a not-for-profit corporation." 
 ---
-
+<style>
+    h1{
+        margin: 0 0 2rem;
+        background: linear-gradient(to right, var(--kule-7), var(--kule-5));
+        padding: 2rem 0 1rem;
+        color: white;}
+    @media (width < 860px) {
+        h1 {
+            padding-inline: 6vw;
+        }
+}
+</style>
 {% splith %}
     {% en %}Who We Are{% enden %}
     {% sp %}kulupu ni li seme{% endsp %}
