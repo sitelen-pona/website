@@ -7,6 +7,7 @@ layout: '_layouts/method.html'
 index: 1
 description:  "Tiers of Teachability provide a framework to understand exactly how common a glyph present in Common Sitelen Pona is."
 alt: "gradient of four colors each have a symbol belonging to respective tiers: sona 'knowledge', leko 'cube', linluwi 'network', and lastly kokosila 'to not speak toki pona'."
+cover_image: true
 
 ---
 

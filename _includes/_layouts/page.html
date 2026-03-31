@@ -526,9 +526,10 @@
             %}
         <div>
     </h1>
-    {%- if alt -%}
+    {%- if alt and cover_image -%}
 
-        <img alt="{{ alt }}" src="/assets/sitelen/og/{{ page.filePathStem | replace: '/content/','' }}.svg">     {%- endif -%}
+        <img alt="{{ alt }}" src="/assets/sitelen/splash/{{ page.filePathStem | replace: '/content/','' }}.svg">     
+    {%- endif -%}
 
 
      

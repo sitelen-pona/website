@@ -5,6 +5,8 @@ spTitle: mi kulupu pali pi sitelen pona
 permalink: index.html
 description: 
     "The SPPTA is a multidisciplinary team of  Sitelen Pona experts who have registered in Canada as a not-for-profit corporation." 
+alt: "sitelen pona kulupu, 'common sitelen pona'"
+cover_image: false
 ---
 <style>
     h1{

@@ -7,6 +7,8 @@ layout: '_layouts/method.html'
 index: 2
 description:  "Learn how survey input, corpus input, and input from the 'Official Series' were used to draft Common Sitelen Pona. "
 alt: "cutely stylized jan 'people' gather to 'mu' or mutter together."
+cover_image: true
+
 ---
 
 <style>

@@ -4,8 +4,11 @@ sLTitle: o toki tawa kulupu ni
 spTitle: o toki tawa kulupu pali 
 permalink: contact.html
 website: true
+alt: "symbol for jan 'person' turned to the side yelling, looks like symbol for toki 'speech'"
 
 description:  "We want to hear your feedback! Reach out to the SPPTA using our new email, send mail to our registered address, or talk to us on Discord." 
+cover_image: false
+
 ---
 
 {% splith %}

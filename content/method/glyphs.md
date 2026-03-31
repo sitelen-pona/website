@@ -8,6 +8,7 @@ index: 3
 description: 
     "Insights into representative glyph variations, as voted on by invited fontmakers and as observed in samples of Sitelen Pona handwriting. " 
 alt: "collage of symbols and their variants. the representative versions are highlighted:  linluwi 'network', kiki 'spikey,' majuna 'old',  akesi 'reptile', and  meli 'woman' "
+cover_image: true
 
 ---
 
@@ -271,6 +272,7 @@ waso Keli li pana e sona tu pi sona tu tu tu. jan li kepeken ilo pali pi nasin s
 {% endsl %}
 
 {% endsplit %}
+cover_image: false
 
 {% splith 3 %}
 {% en %}Handwriting Corpus{% enden %}

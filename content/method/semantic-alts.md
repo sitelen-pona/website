@@ -9,6 +9,8 @@ index: 4
 alt: "comparison of variant glyphs for sewi 'divine/upwards,' namako 'spicy/additional', and the arrow pointed many directions symbolizing ni 'that'" 
 description: 
     "View the process and conclusions from the SPPTA's exploration of differing semanticity between alt glyphs. " 
+cover_image: true
+
 ---
 
 {% splith %}

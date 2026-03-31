@@ -8,6 +8,8 @@ index: 5
 description: 
     "View the process and conclusions from the SPPTA's exploration of punctuation features in Sitelen Pona. "
 alt: "collage of variously experimental sitelen pona punctuation features' "
+cover_image: true
+
 ---
 
 {% splith %}
