@@ -8,6 +8,7 @@ body {
     /* numbers are approximate APCA contrast ÷ 10 */
     --kule-8: #a64300;
     --kule-7: #cb5300;
+    --kule-6: #ed6200;
     --kule-5: #ff7000;
     --kule-3: #ffb17e;
     --kule-1: #ffe3d2;
@@ -29,6 +30,7 @@ body {
     --kule-1: #772e00;
     --kule-3: #c65100;
     --kule-5: #ff6e00;
+    --kule-6: #ff8d36;
     --kule-7: #ffac74;
     --kule-8: #ffc5a0;
     --lupa: #7cdff5;
