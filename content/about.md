@@ -10,7 +10,7 @@ description:
     h1{
         margin: 0 0 2rem;
         background: linear-gradient(to right, var(--kule-7), var(--kule-5));
-        padding: 2rem 0 1rem;
+        padding: 2rem 0 1rem !important;
         color: white;}
     @media (width < 860px) {
         h1 {
