@@ -18,6 +18,7 @@ body {
     --pimeja: black;
     --walo-pimeja: rgb(201, 201, 201);
     --walo: white;
+    --white: white;
     --suno-mun: var(--kule-8);
 
     background-color: var(--walo, white);
@@ -36,6 +37,7 @@ body {
     --walo-pimeja: #404040;
     --pimeja: white;
     --walo: #101010;
+    --white: black;
     --suno-mun: var(--kule-8);
 
 }
@@ -51,6 +53,7 @@ body {
     --walo-pimeja: #404040;
     --pimeja: white;
     --walo: #101010;
+    --white: black;
     --suno-mun: var(--kule-8);
 
     }
