@@ -10,6 +10,7 @@ alt: "comparison of variant glyphs for sewi 'divine/upwards,' namako 'spicy/addi
 description: 
     "View the process and conclusions from the SPPTA's exploration of differing semanticity between alt glyphs. " 
 cover_image: true
+permalink: /method/semantic-alts.html
 
 ---
 
@@ -21,7 +22,7 @@ cover_image: true
 
 {% split %}
 {% en %}
-In the [methodology](/method.html) developed by [Mrs. Lang](/members.html#mrs-lang) for [Common Sitelen Pona](/common.html), one [word](/content/method/words/) shall receive one codepoint, except where it is determined that a word's variant glyphs can each have teachably distinct sub-meanings.
+In the [methodology](/method.html) developed by [Mrs. Lang](/members.html#mrs-lang) for [Common Sitelen Pona](/common.html), one [word](/method/words.html) shall receive one codepoint, except where it is determined that a word's variant glyphs can each have teachably distinct sub-meanings.
 {% enden %}
 
 {% sp %}
@@ -45,7 +46,7 @@ nasin alasa pi anpa sewi la nimi wan pi toki pona o lon sitelen wan pi nasin Jun
 {% en %}
 The association invited survey respondents to describe whether they used certain variant glyph pairs. If they used both, the association asked whether the the meaning of the glyphs were never, sometimes, or always different.
 
-After filtering, members analyzed 385 responses. [Tiers of Teachability](/content/method/tiers/) were set by what percent of respondants indicated that they (1) used both glyphs and (2) considered the meanings of the glyphs to be either sometimes *or* always different. The association used these thresholds:
+After filtering, members analyzed 385 responses. [Tiers of Teachability](/method/tiers.html) were set by what percent of respondants indicated that they (1) used both glyphs and (2) considered the meanings of the glyphs to be either sometimes *or* always different. The association used these thresholds:
 
 - Tier 1: 90% or higher
 - Tier 2: 60% or higher

@@ -16,7 +16,7 @@ cover_image: false
 
 {% split %}
 {% en %}
-In Sitelen Pona, each [word](/content/method/words) can be represented by one simple [pictogram, or ‘glyph,'](/content/method/glyphs) that often looks like the thing it describes. Here are the symbols for *tomo* (house), *pipi* (bug), and *sike* (circle).
+In Sitelen Pona, each [word](/method/words.html) can be represented by one simple [pictogram or ‘glyph'](/method/glyphs.html) that often looks like the thing it describes. Here are the symbols for *tomo* (house), *pipi* (bug), and *sike* (circle).
 {% enden %}
 
 {% sp %}

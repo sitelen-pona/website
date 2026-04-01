@@ -8,6 +8,7 @@ index: 1
 description:  "Tiers of Teachability provide a framework to understand exactly how common a glyph present in Common Sitelen Pona is."
 alt: "gradient of four colors each have a symbol belonging to respective tiers: sona 'knowledge', leko 'cube', linluwi 'network', and lastly kokosila 'to not speak toki pona'."
 cover_image: true
+permalink: /method/tiers.html
 
 ---
 
@@ -30,7 +31,7 @@ cover_image: true
 
 {% split %}
 {% en %}
-The following table describes the Tiers of Teachability into which [Common Sitelen Pona](/common.html) assigns its [word characters](/content/method/words/) and [punctuation characters](/content/method/features/). The purpose of these categories is to capture the way the Toki Pona community engages with Toki Pona and Sitelen Pona. In this, we understood that there is a wide array of ways in which any given member of the community may use Sitelen Pona, but community-wide, there are clear trends that emerge in what features any given speaker elects to use.
+The following table describes the Tiers of Teachability into which [Common Sitelen Pona](/common.html) assigns its [word characters](/method/words.html) and [punctuation characters](/method/features.html). The purpose of these categories is to capture the way the Toki Pona community engages with Toki Pona and Sitelen Pona. In this, we understood that there is a wide array of ways in which any given member of the community may use Sitelen Pona, but community-wide, there are clear trends that emerge in what features any given speaker elects to use.
 {% enden %}
 
 {% sp %}

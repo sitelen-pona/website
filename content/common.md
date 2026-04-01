@@ -518,7 +518,7 @@ lipu ni li kama lon tenpo poka...
 <div class="caveat">
 
 {% include "partials/ui-translate.liquid", 
-            enName: "[Representative glyphs](/content/method/glyphs/) are provided **as examples only**.<br>  
+            enName: "[Representative glyphs](/method/glyphs.html) are provided **as examples only**.<br>  
                             Ultimately, font designers may choose to design glyphs for these words that vary in appearance.", 
             spName: "lipu+ni li pana e sitelen tawa nimi la ni< li selo wan lon lipu **a li selo lawa ala a.** jan pali pi(nasin sitelen ilo) o awen kama selo e sitelen kepeken nasin pi(wile ona).", 
             sLName: "lipu ni li pana e sitelen tawa nimi la ni li selo wan lon lipu. **ni li selo lawa ala.** jan pali pi nasin sitelen ilo o awen kama selo e sitelen kepeken nasin pi wile ona." %}

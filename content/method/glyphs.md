@@ -9,6 +9,7 @@ description:
     "Insights into representative glyph variations, as voted on by invited fontmakers and as observed in samples of Sitelen Pona handwriting. " 
 alt: "collage of symbols and their variants. the representative versions are highlighted:  linluwi 'network', kiki 'spikey,' majuna 'old',  akesi 'reptile', and  meli 'woman' "
 cover_image: true
+permalink: /method/glyphs.html
 
 ---
 

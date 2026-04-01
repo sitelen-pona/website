@@ -8,6 +8,7 @@ index: 2
 description:  "Learn how survey input, corpus input, and input from the 'Official Series' were used to draft Common Sitelen Pona. "
 alt: "cutely stylized jan 'people' gather to 'mu' or mutter together."
 cover_image: true
+permalink: /method/words.html
 
 ---
 
@@ -22,7 +23,7 @@ cover_image: true
 
 {% split %}
 {% en %}
-Algorithm: Three appointed members assign words to one of four [Tiers of Teachability](/content/method/tiers/), drawing on different sources of data to make their determinations.
+Algorithm: Three appointed members assign words to one of four [Tiers of Teachability](/method/tiers.html), drawing on different sources of data to make their determinations.
 
 Each appointed member was free to design their own algorithm based on their data source. The sources are as follows:
 {% enden %}

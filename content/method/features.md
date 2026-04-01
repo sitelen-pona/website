@@ -9,6 +9,7 @@ description:
     "View the process and conclusions from the SPPTA's exploration of punctuation features in Sitelen Pona. "
 alt: "collage of variously experimental sitelen pona punctuation features' "
 cover_image: true
+permalink: /method/features.html
 
 ---
 
@@ -28,7 +29,7 @@ In Toki Pona, proper names of languages, people and concepts are indicated throu
 
 Approaches to [combining glyphs together](https://sona.pona.la/wiki/Combined_glyphs) also vary in frequency and in style, as do approaches to quotative punctuation. 
 
-In [standardizing](/common.html) the set of punctuation characters, the association needed to determine which of these many punctuation styles were [teachable](/content/method/tiers/). 
+In [standardizing](/common.html) the set of punctuation characters, the association needed to determine which of these many punctuation styles were [teachable](/method/tiers.html). 
 {% enden %}
 {% sp %}
 sitelen+pona kulupu la  te sitelen&nasin to li sitelen pi(nimi ala ) li pana e sona namako
