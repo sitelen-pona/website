@@ -32,9 +32,9 @@ cover_image: false
 {% en %}
     The Sitelen Pona Publishers and Typographers Association is a multidisciplinary collective of <a href="sitelen-pona.html">Sitelen Pona</a> experts.
 
-    We’re software developers, community leaders, artists, publishers, typographers, and more.
+    We’re software developers, community leaders, artists, publishers, typographers, and [more](/members.html).
 
-    Using our combined expertise, we organize to promote the advancement and proliferation of Sitelen Pona within the Toki Pona community and beyond.
+    Using our combined expertise, we organize to promote the advancement and proliferation of Sitelen Pona within the [Toki Pona](https://sona.pona.la/wiki/Toki_Pona) community and beyond.
 {% enden %}
 
 {% sp %}
@@ -107,7 +107,7 @@ ona pi kulupu ni, li ken pali e ilo nanpa wawa, li pana e sona pi nasin pona taw
 {% en %}
 Through horizontal consensus decision-making, we prepare <a href="common.html">living drafts for technical standards</a>. Presently, these standards make it easier for Toki Pona speakers to enjoy Sitelen Pona on their devices. In the future, these standards will enable everyone to read and write Sitelen Pona on their preferred devices and platforms.
 
-We operate as a <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">not-for-profit corporation</a> registered in Canada. Membership in the Association is subject to the approval of existing <a href="members.html">members</a>. There are no membership fees. Prospective members are welcome to fill out <a href="">our application form</a>.
+We operate as a <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">not-for-profit corporation</a> registered in Canada. Membership in the association is subject to the approval of existing <a href="members.html">members</a>. There are no membership fees. Prospective members are welcome to fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScDf9cWNQqxCMI_rELpvw49C7XCAuGNzMMuDAXFlxZ6E270Kg/viewform">our application form</a>.
 {% enden %}
 
 {% sp %}

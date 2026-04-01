@@ -350,11 +350,11 @@ h2.view{
 
 {% split %}
 {% en %}
-This is a public draft of Common Sitelen Pona, released on January 2026 and presented as per our resolutions. 
+This is a public draft of Common Sitelen Pona, released on January 2026 and presented as per the association's resolutions. 
 
-**Common Sitelen Pona** is a standard that outlines universal basic features and characteristics of Sitelen Pona.
+**Common Sitelen Pona** is a standard that outlines  the universal characteristics of Sitelen Pona through an approved set of glyphs and characters.
 
-It is derived from described features and characteristcs of Sitelen Pona that have seen stable adoption and use within the Toki Pona community.
+**The Sitelen Pona Publishers and Typographers Association** derived Common Sitelen Pona from described features and characteristics of Sitelen Pona that have seen stable adoption and use within the Toki Pona community.
 
 {% enden %}
 
@@ -363,8 +363,9 @@ lipu+ni pi(pini )ala li toki e sitelen+pona kulupu
 tenpo mun nanpa wan pi(tenpo sike ni) la kulupu li pana e lipu pi(pini ala) tawa lukin ale
 
 te **sitelen pona kulupu** to li nimi pi(lipu nasin)  
-lipu li toki e ni> zz sitelen+pona li nasin seme
+lipu li toki e ni> zz sitelen+pona li nasin seme zz sitelen seme li lon sitelen+pona
 
+kulupu pali pi sitelen pona li pali e lipu pi(sitelen+pona kulupu)  
 lipu li toki ala e nasin musi namako sin pi(jan mute ala)  
 te sitelen pona kulupu to li wile e nasin ni taso  
 zz zz kulupu pi(toki+pona) la nasin li suli li awen li kepeken
@@ -398,7 +399,7 @@ A history covering the effort to get the Sitelen Pona into Unicode, the formatio
 <div class="card">
 
 ### [Methodology](/method.html)
-This is how the SPPTA is uncovering universal and representative features of Sitelen Pona.
+This is how the SPPTA is uncovering common and representative features of Sitelen Pona.
 
 </div>
 </div>
@@ -410,7 +411,7 @@ This is how the SPPTA is uncovering universal and representative features of Sit
     
 ### [Sitelen Pona in UCSUR](https://www.kreativekorp.com/ucsur/charts/sitelen.html)
     
-As Common Sitelen Pona has not yet been accepted into Unicode, codepoints for Common Sitelen Pona are currently restricted to the Private Use Area. These assignments are coordinated within the Under-ConScript Unicode Registry.
+As the system has not yet been accepted into Unicode, codepoints for **Common Sitelen Pona** are  coordinated through the Under-ConScript Unicode Registry within codes available in Unicode's Private Use Area.
     
 </div>
 <div class="card forthcoming">
@@ -512,8 +513,8 @@ lipu ni li kama lon tenpo poka...
 <div class="caveat">
 
 {% include "partials/ui-translate.liquid", 
-            enName: "Representative glyphs are provided **as examples only**.<br>  
-                            Ultimately, font designers may choose to design glyphs that vary in appearance.", 
+            enName: "[Representative glyphs](/content/method/glyphs/) are provided **as examples only**.<br>  
+                            Ultimately, font designers may choose to design glyphs for these words that vary in appearance.", 
             spName: "lipu+ni li pana e sitelen tawa nimi la ni< li selo wan lon lipu **a li selo lawa ala a.** jan pali pi(nasin sitelen ilo) o awen kama selo e sitelen kepeken nasin pi(wile ona).", 
             sLName: "lipu ni li pana e sitelen tawa nimi la ni li selo wan lon lipu. **ni li selo lawa ala.** jan pali pi nasin sitelen ilo o awen kama selo e sitelen kepeken nasin pi wile ona." %}
 

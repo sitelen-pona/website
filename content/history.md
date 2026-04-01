@@ -57,11 +57,11 @@ cover_image: true
 
 {% split %}
 {% en %}
-Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic lockdowns, and resources for Sitelen Pona grew exponentially. Prior to 2020, there were [only a few Sitelen Pona fonts in use](https://sona.pona.la/wiki/History_of_sitelen_pona); in the period since, [a large amount of Sitelen Pona fonts](https://linku.la/fonts) have been released. As early as 2021, the need for community-wide coordination of encoding was apparent.
+Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic lockdowns and resources for Sitelen Pona grew exponentially. Prior to 2020, there were [only a few Sitelen Pona fonts in use](https://sona.pona.la/wiki/History_of_sitelen_pona); in the period since, [a large amount of Sitelen Pona fonts](https://linku.la/fonts) have been released. As early as 2021, the need for community-wide coordination of encoding was apparent.
 
 Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in Unicode began to percolate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry (UCSUR). A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, that encoding came to see unanimous adoption by major Sitelen Pona fonts.
 
-With UCSUR, tech-savvy members of the Toki Pona community are able to modify their messaging clients and fully chat in [online spaces](https://discord.gg/mapona) using Sitelen Pona. However, for members who are not so technically-oriented, the [provisational and hacky measures](https://sona.pona.la/wiki/Under-ConScript_Unicode_Registry#Rendering_support) required to use UCSUR in various platforms are rather inaccessible. The more normalized Sitelen Pona usage came to be in such spaces, the more obvious it was that a robust solution needed to be pursued.
+With UCSUR, tech-savvy members of the Toki Pona community are able to modify their messaging clients and fully chat in [online spaces](https://discord.gg/mapona) using Sitelen Pona. However, for members who are not so technically-oriented, the [provisational and hacky measures](https://sona.pona.la/wiki/Under-ConScript_Unicode_Registry#Rendering_support) required to use UCSUR in various platforms are rather inaccessible. As Sitelen Pona usage came to be normalized in such spaces, the more obvious it became that a robust solution needed to be pursued.
 {% enden %}
 
 {% sp %}
@@ -114,11 +114,11 @@ Starting in 2024, efforts to draft a proposal began in earnest.
 
 In January, several interested community members formed an ad-hoc working group. After four months of investigation, internal discussions, and survey outreach, the working group submitted a [preliminary proposal to the Unicode Consortium in April](https://www.unicode.org/L2/L2024/24275-encode-sitelen-pona.pdf).
 
-This draft edition of the proposal demonstrated widespread usage of Sitelen Pona as a writing system, but refrained from outlining a stable set of glyphs to be encoded. The working group had determined that, before they could provide such a set, advancements in Toki Pona data analysis needed to be made.
+This preliminary proposal demonstrated widespread usage of Sitelen Pona as a writing system, but refrained from outlining a stable set of characters to be encoded. The working group had determined that, before they could provide such a set, advancements in Toki Pona data analysis needed to be made.
 
 Prior to 2024, usage of Toki Pona vocabulary was primarily assessed by the [Linku project’s annual write-in surveys](https://linku.la/about?q=). But the working group felt that this data was not enough for the Unicode Proposal. Linku's annual survey does not directly observe usage; rather, it reflects what people report their own usage to be. The bar for Unicode would need to be higher.
 
-After running a write-in survey for Sitelen Pona usage, the working group came to a similar conclusion for assessing the stability of Sitelen Pona glyphs. Write-in surveys would not be enough. Organic usage needed to be gathered into a corpus and analyzed, to be considered together with self-reported usage.
+After running a write-in survey for Sitelen Pona usage, the working group came to a similar conclusion for assessing the stability of Sitelen Pona glyph variants. Write-in surveys would not be enough. Organic usage needed to be gathered into a corpus and analyzed, to be considered together with self-reported usage.
 
 The working group set about making the tools required to pursue this new direction. 
 {% enden %}
@@ -184,15 +184,15 @@ ni la kulupu lili pali li open e pali pi ilo sin.
 
 {% split %}
 {% en %}
-In the latter half of 2024, members of the working group had their minds fixed on creating new tools and gathering usage data. 
+In the latter half of 2024, members of the working group had their priorities set on creating new tools and gathering usage data. 
 
-mun Kekan San published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer, in August. Owing to [extensive web-scraping efforts](https://ilo.muni.la/about/#where-is-the-data-from), ilo Muni provides robust data on word usage in Toki Pona from 2016 onwards. 
+In August, [mun Kekan San](/members.html#gregory-danielson-iii) published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer. Owing to [extensive web-scraping efforts](https://ilo.muni.la/about/#where-is-the-data-from), ilo Muni provides robust data on word usage in Toki Pona from 2016 onwards. 
 
-Usage data for Sitelen Pona glyphs and variations was pursued in three ways. At the font level, jan Ke Tami created a [new annotated database of all Sitelen Pona fonts](https://antetokipona.infinityfreeapp.com/font/?i=1). At the text level, several working group members gathered and annotated a new corpus of Sitelen Pona handwriting examples. Finally, waso Keli created and published [SP Font Maker](https://wasokeli.github.io/sp-font-maker/). This tool allows anyone to create and upload their own handwriting samples to create a Sitelen Pona font, and also serves as a database where individual preferences for Sitelen Pona glyphs can be batched and analyzed.
+Usage data for Sitelen Pona glyph variants was pursued in three ways. At the font level, [jan Ke Tami](/members.html#ret-samys) created a [new annotated database of all Sitelen Pona fonts](https://antetokipona.infinityfreeapp.com/font/?i=1). At the text level, several working group members gathered and annotated a new corpus of Sitelen Pona handwriting examples. Finally, [waso Keli](/members.html#waso-keli) created and published [SP Font Maker](https://wasokeli.github.io/sp-font-maker/). This tool allows anyone to create and upload their own handwriting samples to create a Sitelen Pona font, and also serves as a database where individual preferences for Sitelen Pona glyphs can be batched and analyzed.
 
-In addition to data collection, seeing that many glyphs for neologisms were not explicitly released into the public domain, the working group contacted the authors of these glyphs to confirm [CC0 licensing](https://creativecommons.org/public-domain/cc0/).
+In addition to data collection, seeing as many glyph designs that did not appear in the [2014 publication](https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good) were not explicitly released into the public domain, the working group contacted the authors of these glyphs to confirm [CC0 licensing](https://creativecommons.org/public-domain/cc0/).
 
-After much groundwork had been laid, the group was ready to draft Common Sitelen Pona. In October, Mrs. Lang developed and proposed a [formal methodology for defining Common Sitelen Pona](/method.html). It would assign Sitelen Pona glyphs and features to three tiers of teachability by examining existing and new data sources, uniting the work that had been done up to this point and defining a clear deliverable.
+After much groundwork had been laid, the group was ready to draft [Common Sitelen Pona](/common.html). In October, [Mrs. Lang](/members.html#mrs-lang) developed and proposed a [formal methodology](/method.html) for defining Common Sitelen Pona. It would assign Sitelen Pona [word characters](/content/method/words/) and [punctuation characters](/content/method/features/) to [three tiers of teachability](/content/method/tiers/) by examining existing and new data sources, uniting the work that had been done up to this point and defining a clear deliverable.
 {% enden %}
 
 {% sp %}
@@ -257,11 +257,11 @@ tenpo ni la kulupu lili pali li jo e ilo ale wile. pali pi sitelen pona kulupu o
 {% en %}
 In 2025, armed with more usage data and a united vision, things progressed until the end was in sight. 
 
-Anticipating the eventual publication of Common Sitelen Pona, the working group agreed it would register itself as [a not-for-profit corporation in Canada](https://laws.justice.gc.ca/eng/acts/c-7.75/). The association was legally incorporated on July 28, 2025.
+Anticipating the eventual publication of [Common Sitelen Pona](/common.html), the working group agreed it would register itself as [a not-for-profit corporation in Canada](https://laws.justice.gc.ca/eng/acts/c-7.75/). The association was legally incorporated on July 28, 2025.
 
-Using Mrs. Lang’s methodology, tiers of teachability for the main words were finalized by April, and representative glyphs were finalized by May.
+Using Mrs. Lang’s [methodology]((/method.html)), [tiers of teachability](/content/method/tiers/) for the [main set of word characters](/content/method/words/) were finalized by April, and [representative glyphs](/content/method/glyphs/) were finalized by May.
 
-Some matters were resolved by alternative processes. One complexity that arose was the issue of whether certain alternate glyphs were semantically distinct enough from the primary glyph for the same word. Glyphs meeting this criteria would require separate codepoints in Unicode, and similarly would need to be recognized and adopted into Common Sitelen Pona independently. The organization studied this issue by community-wide survey, asking members of the community to report whether and how they distinguish the glyphs in question. The organization then utilized that data to determine via vote, which such alternative glyphs should be included. Later, the organization studied specific punctuation marks and other features of Sitelen Pona in a similar manner, and again determined which would be included in Common Sitelen Pona via vote.
+Some matters were resolved by alternative processes. One complexity that arose was the issue of whether certain alternate glyphs were [semantically distinct enough](/content/method/semantic-alts/) from the primary glyph for the same word. The nould need to be recognized and adopted into Common Sitelen Pona as separate characters. The association studied this issue by community-wide survey, asking members of the community to report whether and how they distinguish the glyphs in question. The association then utilized that data to determine via vote, which such alternative glyphs should be included. Later, the association studied specific [punctuation marks and other features](/content/method/features/) of Sitelen Pona in a similar manner, and again determined which would be included in Common Sitelen Pona via vote.
 
 In addition to working on Common Sitelen Pona, the font-makers of the association worked to coordinate an ASCII input standard, which would unify the use of ASCII text for writing Sitelen Pona across all implementing fonts.
 {% enden %}

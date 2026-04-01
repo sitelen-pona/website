@@ -1,5 +1,5 @@
 ---
-title: "Which words are commonly used in Sitelen Pona?"
+title: "Which words are commonly written in Sitelen Pona?"
 sLTitle: nimi seme li suli kepeken 
 spTitle: nimi seme li suli kepeken 
 tags: method
@@ -22,9 +22,9 @@ cover_image: true
 
 {% split %}
 {% en %}
-Algorithm: Three appointed members assign words to one of four Tiers of Teachability, drawing on different sources of data to make their determinations.
+Algorithm: Three appointed members assign words to one of four [Tiers of Teachability](/content/method/tiers/), drawing on different sources of data to make their determinations.
 
-Each representative was free to design their own algorithm based on their data source. The sources are as follows:
+Each appointed member was free to design their own algorithm based on their data source. The sources are as follows:
 {% enden %}
 
 {% sp %}
@@ -53,9 +53,9 @@ sona ante tan la ona pali li kepeken sona ni lon nasin pi wile ona. o kama sona 
 
 {% split %}
 {% en %}
-As the creator of the Toki Pona language and the Sitelen Pona script, Mrs. Lang has a unique decades-long view of their stability. Mrs. Lang published Sitelen Pona in _Toki Pona: The Language of Good_ (2014). In 2021, Mrs. Lang conducted a series of word usage surveys, the results of which were published in the book _Toki Pona Dictionary._
+As the creator of the Toki Pona language and the Sitelen Pona script, [Mrs. Lang](/members.html#mrs-lang) has a unique decades-long view of their stability. Mrs. Lang published Sitelen Pona in [_Toki Pona: The Language of Good_ (2014)](https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good). In 2021, Mrs. Lang conducted a series of word usage surveys, the results of which were published in the book _[Toki Pona Dictionary](https://sona.pona.la/wiki/Toki_Pona_Dictionary)._
 
-Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then assigned the rest via discretion, informed by the _Official Toki Pona_ book series and the creator's own distinctive lived experience.
+Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then assigned the rest via discretion, informed by the [_Official Toki Pona_](https://sona.pona.la/wiki/Official_Toki_Pona) book series and the creator's own distinctive lived experience.
 
 Mrs. Lang (author of _Official Toki Pona_ series) held one vote within this algorithm.
 {% enden %}
@@ -91,9 +91,9 @@ pali nimi la pilin pi anpa sewi li pilin wan pi pilin tu wan.
 
 {% split %}
 {% en %}
-The Linku project provides open datasets for Toki Pona. The Linku maintainers anually survey the community regarding what words they use and understand. The word dataset lists words under one of four usage categories: core (90%- 100%), common (60%-90%), uncommon (30%-60%), and obscure (0%-30%).
+The [Linku](https://linku.la) project provides open datasets for Toki Pona. The Linku maintainers annually survey the community regarding what words they use and understand. The word dataset lists words under one of four usage categories: [core](https://linku.la/?q=&categories=%7B%22core%22%3Atrue%2C%22common%22%3Afalse%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D) (90%- 100%), [common](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Atrue%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D) (60%-90%), [uncommon](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Afalse%2C%22uncommon%22%3Atrue%2C%22obscure%22%3Afalse%7D) (30%-60%), and [obscure](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Afalse%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Atrue%7D) (0%-30%).
 
-In reworking this data for Tiers of Teachibility in Common Sitelen Pona, kala Asi, the initiator of Linku, slightly modified the threshold:
+In reworking this data for Tiers of Teachability in Common Sitelen Pona, [kala Asi](/members.html#kala-asi), the initiator of Linku, slightly modified the threshold:
 
 - Tier 1: [80%; 100%], reflecting 'Linku core' words and some 'Linku common' words
 - Tier 2: [60%; 80%], reflecting most 'Linku common' words
@@ -148,13 +148,13 @@ pali nimi la sona pi lipu Linku en nasin pi kala Asi li pilin wan pi pilin tu wa
 {% split %}
 {% en %}
 
-[ilo Muni](https://ilo.muni.la/) is a word usage analyzer that draws on a [large corpus of community data](https://ilo.muni.la/about/#where-is-the-data-from), filtered to [only contain text authored in Toki Pona](https://github.com/gregdan3/sona-toki). mun Kekan San is the author of ilo Muni and set the following thresholds in assigning the words to Tiers of Teachability.
+[ilo Muni](https://ilo.muni.la/) is a word usage analyzer that draws on a [large corpus of community data](https://ilo.muni.la/about/#where-is-the-data-from), filtered to [only contain Toki Pona](https://github.com/gregdan3/sona-toki) text. [mun Kekan San](/members.html#gregory-danielson-iii) is the author of ilo Muni and set the following thresholds in assigning the words to Tiers of Teachability.
 
-- Tier 1: Words with >=10% authorship over >=5 years, reflecting all words in the _Official Toki Pona_ series' 2014 publication, as these words are known to be stable.
-- Tier 2: - Words with >=7.5% authorship over >=4 years, reflecting the threshold that most closely captures all words in Linku's 'common' category
-- Tier 3: - Words >=5% authorship over >=3 years, reflecting the last point before statistical noise becomes an issue.
+- Tier 1: Words with >=10% authorship over >=5 years, reflecting all words in the [_Official Toki Pona_ series' 2014 publication](https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good), as these words are known to be stable.
+- Tier 2: Words with >=7.5% authorship over >=4 years, reflecting the threshold that most closely captures all words in [Linku's 'common' category](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Atrue%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D).
+- Tier 3: Words >=5% authorship over >=3 years, reflecting the last point before statistical noise becomes an issue.
 
-As reported by mun Kekan San, ilo Muni held the tiebreaking vote within this algorithm.
+As reported by mun Kekan San, ilo Muni held the tie-breaking vote within this algorithm.
 {% enden %}
 
 {% sp %}
@@ -201,9 +201,9 @@ pali nimi la ilo Muni en mun Kekan San li pilin wan pi pilin tu wan. ken tu li p
 
 {% split %}
 {% en %}
-Jump to [Tier 1 Word Glyphs](/common.html#tier1words)  
-Jump to [Tier 2 Word Glyphs](/common.html#tier2words)  
-Jump to [Tier 3 Word Glyphs](/common.html#tier3words)
+Jump to [Tier 1 Word Characters](/common.html#tier1words)  
+Jump to [Tier 2 Word Characters](/common.html#tier2words)  
+Jump to [Tier 3 Word Characters](/common.html#tier3words)
 
 Or download the raw results:
 [WORDS](/content/common/words-tiers.txt)

@@ -20,7 +20,7 @@ cover_image: false
 
 {% split %}
 {% en %}
-Our facilitator can be contacted at
+The association's president can be reached at
 [toki@sitelenpona.net](mailto:toki@sitelenpona.net). 
 
 We have lost access to email history on the previous domain. If you have tried to reach us and have not yet received a response, please try contacting us again at the new address. 
@@ -120,7 +120,7 @@ zz li ma [kasi . nasin . taso .]
 
 {% splith %}
     {% en %}Discord{% enden %}
-    {% sp %}kepeken ilo [sina. ko.]{% endsp %}
+    {% sp %}kepeken ilo [sina. ko:]{% endsp %}
     {% sl %}kepeken ilo Siko {% endsl %}
 
 {% endsplith %}
@@ -133,11 +133,12 @@ Many of us also interact in the public channels available on this server; feel f
 {% enden %}
 
 {% sp %}
-[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]  lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len 
+[ma pi(nasin sitelen)](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko:]  lon ma pi(nasin sitelen) la    
+kulupu pali pi sitelen pona li toki li pali kepeken tomo len 
 
-taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala  
-jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin    
-sina wile sona e ijo pi kulupu pali la sina ken toki tawa kulupu lon tomo pi len ala
+taso jan pi(kulupu pali ala) li ken lon ma pi nasin sitelen lon tomo toki mute pi(len ala)   
+jan mute pi kulupu pali li toki lon tomo len lon tomo pi(len ala kin)    
+sina wile sona e ijo pi(kulupu pali) la sina ken toki tawa kulupu lon tomo pi(len ala)
 {% endsp %}
 
 {% sl %}

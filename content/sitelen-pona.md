@@ -16,7 +16,7 @@ cover_image: false
 
 {% split %}
 {% en %}
-In Sitelen Pona, each word can be represented by one simple pictogram or, ‘glyph,' that often looks like the thing it describes. Here are the symbols for tomo (house), pipi (bug), and sike (circle).
+In Sitelen Pona, each [word](/content/method/words) can be represented by one simple[pictogram or, ‘glyph,'](/content/method/glyphs) that often looks like the thing it describes. Here are the symbols for *tomo* (house), *pipi* (bug), and *sike* (circle).
 {% enden %}
 
 {% sp %}
@@ -131,7 +131,7 @@ sitelen pona la nimi wan li sitelen wan. tenpo mute la sina sona ala e nasin pi 
 
 {% split %}
 {% en %}
-Sitelen Pona is usually written from left to right, from top to bottom. Glyphs can be combined. To say a bug’s house, tomo pipi, we might place the pipi glyph into the empty space in the tomo glyph. To talk about a circular bug or pipi sike, like ladybug, we might put the sike glyph above the pipi glyph.
+Sitelen Pona is usually written from left to right, from top to bottom. [Glyphs can be combined](/common.html#tier1punctuation). To say a bug’s house, *tomo pipi*, we might place the *pipi* glyph into the empty space in the tomo glyph. To talk about a circular bug or *pipi sike*, like ladybug, we might put the *sike* glyph above the *pipi* glyph.
 {% enden %}
 
 {% sp %}
@@ -241,7 +241,7 @@ nasin tawa pi sitelen pona li sama sitelen Lasina lon tenpo mute. o open lon sew
 
 {% split %}
 {% en %}
-The majority of Toki Pona speakers can read and write Sitelen Pona, and many love to do so. Because Toki Pona has less than 150 words, many people find that writing it with pictographs is natural, efficient, and even fun. 
+The [majority](https://tokiponacensus.github.io/results2024/#writing-systems) of Toki Pona speakers can read and write Sitelen Pona, and many love to do so. Because Toki Pona has less than 150 words, many people find that writing it with pictographs is natural, efficient, and even fun. 
 
 Because it’s such a visual script, some people find a text written with Sitelen Pona more intuitive to understand than the same text in the Latin alphabet.
 {% enden %}

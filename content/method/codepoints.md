@@ -1,5 +1,5 @@
 ---
-title: "Which punctuation characters would use novel codepoints?"
+title: "Which punctuation characters should use novel codepoints?"
 sLTitle: sitelen nasin seme li sama sitelen lon pi nasin Juniko
 spTitle: sitelen+nasin seme li sama sitelen lon pi nasin [jan]
 tags: method
@@ -19,28 +19,26 @@ cover_image: true
 
 {% split %}
 {% en %}
-For most of the punctuation glyphs in Common Sitelen Pona, the answer to the question is self-evident. Novel glyphs that have no existing Unicode equivalent are recommended to have new codepoints. Glyphs that have an equivalent are recommended to rely on existing codepoints.
+For most of the punctuation characters in Common Sitelen Pona, the answer to the question is self-evident. Novel characters that have no existing Unicode equivalent are recommended to receive new codepoints. Characters that have an equivalent are recommended to rely on the existing codepoint.
 
 Recommended to be mapped to existing codepoints:
 
-- <span class="tech">ZERO WIDTH SPACE</span>
 - <span class="tech">ZERO WIDTH JOINER</span>
 - <span class="tech">IDEOGRAPHIC SPACE</span>
-- <span class="tech">LEFT CORNER BRACKET</span>
-- <span class="tech">RIGHT CORNER BRACKET</span>
+- <span class="tech">LEFT CORNER BRACKET</span><br>
+<span class="tech">RIGHT CORNER BRACKET</span>
 
 Recommended to be assigned new codepoints:
 
-- <span class="tech">SITELEN PONA START OF CARTOUCHE</span>, <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
+- <span class="tech">SITELEN PONA START OF CARTOUCHE</span> <br><span class="tech">SITELEN PONA END OF CARTOUCHE</span>
 - <span class="tech">SITELEN PONA STACKING JOINER</span>
 - <span class="tech">SITELEN PONA NESTING JOINER</span>
-- <span class="tech">SITELEN PONA START OF LONG GLYPH</span>
-- <span class="tech">SITELEN PONA END OF LONG GLYPH</span>
+- <span class="tech">SITELEN PONA START OF LONG GLYPH</span><br><span class="tech">SITELEN PONA END OF LONG GLYPH</span>
 - <span class="tech">SITELEN PONA COMBINING TALLY MARK</span>
 - <span class="tech">SITELEN PONA MIDDLE DOT</span>
 - <span class="tech">SITELEN PONA COLON</span>
 
-<span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> form an exceptional case. These two glyphs are [routinely rendered in cartouches](https://sona.pona.la/wiki/nasin_sitelen_kalama). As this behaviour deviates significantly from that expected of Unicode's <span class="tech">MIDDLE DOT</span> and <span class="tech">COLON</span>, we recommend that <span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> be assigned new codepoints and not be combined with Unicode equivalents.
+<span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> form an exceptional case. These two characters are [routinely rendered in cartouches](https://sona.pona.la/wiki/nasin_sitelen_kalama). As this behaviour deviates significantly from that expected of Unicode's <span class="tech">MIDDLE DOT</span> and <span class="tech">COLON</span>, we recommend that <span class="tech">SITELEN PONA MIDDLE DOT</span> and <span class="tech">SITELEN PONA COLON</span> be assigned new codepoints and not be combined with Unicode equivalents.
 {% enden %}
 
 {% sp %}
@@ -53,19 +51,17 @@ zz o kepeken nanpa pi( sitelen lon)
 sitelen ni li sama sitelen lon pi(nasin [jan] ) la 
 ona o kepeken nanpa sama
 
-- <span class="tech">ZERO WIDTH SPACE</span>
 - <span class="tech">ZERO WIDTH JOINER</span>
 - <span class="tech">IDEOGRAPHIC SPACE</span>
-- <span class="tech">LEFT CORNER BRACKET</span>
-- <span class="tech">RIGHT CORNER BRACKET</span>
+- <span class="tech">LEFT CORNER BRACKET</span><br><span class="tech">RIGHT CORNER BRACKET</span>
 
-sitelen ni li ante  la ona o jo e nanpa sin
+sitelen ni li ante la ona o jo e nanpa sin
 
-- <span class="tech">SITELEN PONA START OF CARTOUCHE</span>,<br> <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
+- <span class="tech">SITELEN PONA START OF CARTOUCHE</span><br> <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
 - <span class="tech">SITELEN PONA STACKING JOINER</span>
 - <span class="tech">SITELEN PONA NESTING JOINER</span>
-- <span class="tech">SITELEN PONA START OF LONG GLYPH</span>
-- <span class="tech">SITELEN PONA END OF LONG GLYPH</span>
+- <span class="tech">SITELEN PONA START OF LONG GLYPH</span><br>
+<span class="tech">SITELEN PONA END OF LONG GLYPH</span>
 - <span class="tech">SITELEN PONA COMBINING TALLY MARK</span>
 - <span class="tech">SITELEN PONA MIDDLE DOT</span>
 - <span class="tech">SITELEN PONA COLON</span>
@@ -81,19 +77,16 @@ sitelen mute pi nimi ala la, mi sona e ni kepeken nasa ala. sitelen li sin li sa
 
 sitelen ni li sama sitelen lon pi nasin Juniko, ona o kepeken nanpa sama:
 
-- <span class="tech">ZERO WIDTH SPACE</span>
 - <span class="tech">ZERO WIDTH JOINER</span>
 - <span class="tech">IDEOGRAPHIC SPACE</span>
-- <span class="tech">LEFT CORNER BRACKET</span>
-- <span class="tech">RIGHT CORNER BRACKET</span>
+- <span class="tech">LEFT CORNER BRACKET</span><br><span class="tech">RIGHT CORNER BRACKET</span>
 
 sitelen ni li ante, ona o jo e nanpa sin:
 
-- <span class="tech">SITELEN PONA START OF CARTOUCHE</span>, <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
+- <span class="tech">SITELEN PONA START OF CARTOUCHE</span><br> <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
 - <span class="tech">SITELEN PONA STACKING JOINER</span>
 - <span class="tech">SITELEN PONA NESTING JOINER</span>
-- <span class="tech">SITELEN PONA START OF LONG GLYPH</span>
-- <span class="tech">SITELEN PONA END OF LONG GLYPH</span>
+- <span class="tech">SITELEN PONA START OF LONG GLYPH</span><br><span class="tech">SITELEN PONA END OF LONG GLYPH</span>
 - <span class="tech">SITELEN PONA COMBINING TALLY MARK</span>
 - <span class="tech">SITELEN PONA MIDDLE DOT</span>
 - <span class="tech">SITELEN PONA COLON</span>

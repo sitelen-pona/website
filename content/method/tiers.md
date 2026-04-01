@@ -30,7 +30,7 @@ cover_image: true
 
 {% split %}
 {% en %}
-The following table describes the Tiers of Teachability into which Common Sitelen Pona assigns words and glyphs. The purpose of these categories is to capture the way the Toki Pona community engages with Toki Pona and Sitelen Pona. In this, we understood that there is a wide array of ways in which any given member of the community may use Sitelen Pona, but community-wide, there are clear trends that emerge in what words and glyphs any given speaker elects to use.
+The following table describes the Tiers of Teachability into which [Common Sitelen Pona](/common.html) assigns its [word characters](/content/method/words/) and [punctuation characters](/content/method/features/). The purpose of these categories is to capture the way the Toki Pona community engages with Toki Pona and Sitelen Pona. In this, we understood that there is a wide array of ways in which any given member of the community may use Sitelen Pona, but community-wide, there are clear trends that emerge in what features any given speaker elects to use.
 {% enden %}
 
 {% sp %}
@@ -60,7 +60,7 @@ sitelen pona kulupu li toki e ni: jan li wile kama sona pona e sitelen pona la o
         <tbody>
             <tr>
                 <td>Tier 1</td>
-                <td>Almost universal, reflecting conservative interpretations of the writing system as first described in <em>Toki Pona: The Language of Good</em> (2014)</td>
+                <td>Almost universal, reflecting conservative interpretations of the writing system as first described in <a href="https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good"><em>Toki Pona: The Language of Good</em> (2014)</a></td>
             </tr>
             <tr>
                 <td>Tier 2</td>

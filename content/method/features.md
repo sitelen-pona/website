@@ -20,9 +20,15 @@ cover_image: true
 
 {% split %}
 {% en %}
-In Sitelen Pona, 'non-word' glyphs refer to punctuation features. 
+In Sitelen Pona, multiple styles of punctuation co-exist alongside each other. 
 
-This includes sentence-ending punctuation. Some people elect to start a new line at the beginning of every sentence, some use a middle-dot, some use a Latin period. To transcribe loan words, there are at least three systems in use: the 2014 style, nasin sitelen kalama, and the tally system. Quote punctuations are also examples of these 'non-word glyphs.' 
+For sentence-ending punctuation, some people elect to start a new line at the beginning of every sentence, some use a middle-dot, some use a Latin period. 
+
+In Toki Pona, proper names of languages, people and concepts are indicated through capitalization. In Sitelen Pona, proper names are  phonetically transcribed.  At least three different punctuation styles can be used to do so: the 2014 style, *[nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama)*, and [the tally system](https://sona.pona.la/wiki/nasin_sitelen_kalama_pi_linja_lili). 
+
+Approaches to [combining glyphs together](https://sona.pona.la/wiki/Combined_glyphs) also vary in frequency and in style, as do approaches to quotative punctuation. 
+
+In [standardizing](/common.html) the set of punctuation characters, the association needed to determine which of these many punctuation styles were [teachable](/content/method/tiers/). 
 {% enden %}
 {% sp %}
 sitelen+pona kulupu la  te sitelen&nasin to li sitelen pi(nimi ala ) li pana e sona namako
@@ -58,7 +64,7 @@ We received 505 responses to the survey.
 
 Each feature was given a base percentage score. Those that had indicated they use the feature "in some situations" and "avoid in most situations" were respectively counted as 2/3rds and 1/3rd of a full user.
 
-We then linearly scaled these base percentages to bring pu-style Sitelen Pona cartouches, the most universal punctuation feature of Sitelen Pona, to 100%. Punctuation features were assigned a temporary tier based on this scaled score.
+We then linearly scaled these base percentages to bring *pu*-style Sitelen Pona cartouches, the most universal punctuation feature of Sitelen Pona, to 100%. Punctuation features were assigned a temporary tier based on this scaled score.
 
 - Tier 1: 90% and higher
 - Tier 2: 60% and higher
@@ -160,13 +166,21 @@ mi MW pi sona mute li pana e pilin tawa lipu alasa pi jan sona. mi wan e pilin l
 
 {% split %}
 {% en %}
-Jump to [Common Sitelen Pona's non-word glyphs](/common.html#tier1punctuation).
+Jump to [Tier 1 punctuation characters](/common.html#tier1punctuation)  
+Jump to [Tier 2 punctuation characters](/common.html#tier2punctuation)  
+Jump to [Tier 3 punctuation characters](/common.html#tier3punctuation)  
+
 {% enden %}
 {% sp %}
-o lukin e sona lon ni  
-zz [sitelen+nasin li lon lipu pi(sitelen+pona kulupu)](/common.html#tier1punctuation)
+o lukin e [sitelen+nasin pi(suli nanpa wan)](/common.html#tier1punctuation)  
+o lukin e [sitelen+nasin pi(suli nanpa tu)](/common.html#tier2punctuation)  
+o lukin e [sitelen+nasin pi(suli nanpa tu wan)](/common.html#tier3punctuation)
+
 {% endsp %}
 {% sl %}
-o lukin e [sitelen nasin li lon lipu sitelen pona kulupu](/common.html#tier1punctuation).
+o lukin e [sitelen nasin pi suli nanpa wan](/common.html#tier1punctuation)  
+o lukin e [sitelen nasin pi suli nanpa tu](/common.html#tier2punctuation)  
+o lukin e [sitelen nasin pi suli nanpa tu wan](/common.html#tier3punctuation)
+
 {% endsl %}
 {% endsplit %}

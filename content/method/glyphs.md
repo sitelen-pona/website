@@ -24,9 +24,9 @@ cover_image: true
 
 {% split %}
 {% en %}
-Common Sitelen Pona does not prescribe that a glyph be written in a certain way. We encourage font-makers to use whatever variation of the glyphs that they please.
+[Common Sitelen Pona](/common.html) defines a set of characters, but it does not define actual glyphs (what the characters ought to look like). Font-makers may implement using the glyph variations they prefer.
 
-In presenting Common Sitelen Pona, the Association wanted to use versions of the glyphs that were commonly used, so these representative glyphs were determined algorithmically.
+In the Common Sitelen Pona [document itself](/common.html), the association wanted to provide representative glyphs—example versions of glyphs that were commonly used. These were algorithmically determined using the process below.
 {% enden %}
 {% sp %}
 sitelen+pona kulupu li pana zz e sona ni> zz sitelen seme li lon  
@@ -55,9 +55,9 @@ taso tenpo sama la, mi kulupu li toki e sitelen pona kulupu li wile pana e sitel
 
 {% split %}
 {% en %}
-Algorithm: Use six sources of input to identify the most representative glyphs for Toki Pona words that are known to have variants. 
+Algorithm: Use six sources of input to identify the most representative glyphs for Toki Pona words that are known to have [variants](https://sona.pona.la/wiki/Variant_glyphs). 
 
-Four sources of input reflect exercised discretion of invited fontmakers. Two sources of input reflect sampled handwriting data from the community. The input sources are listed below:
+Four sources of input reflect the exercised discretion of invited fontmakers. Two sources of input reflect sampled handwriting data from the community. The input sources are listed below:
 {% enden %}
 
 {% sp %}
@@ -84,13 +84,13 @@ sona tu tu li kama tan jan pali sona pi sitelen pona ilo. sona tu li kama tan po
 
 {% split %}
 {% en %}
-jan Itan is the creator of _nasin nanpa_ (2022).
+[jan Itan](/members.html#ethan-corgatelli) is the creator of [_nasin nanpa_](https://github.com/ETBCOR/nasin-nanpa)  (2022).
 
-_nasin nanpa_ continues to be a popular font in 2026. It carries historical notability; _nasin nanpa_ was the first font that Toki Pona speakers used for Sitelen Pona texting on Discord, and it is the Sitelen Pona font for _The Wonderful Wizard of Oz (Toki Pona edition)_ released in the series, _Official Toki Pona_.
+_nasin nanpa_ continues to be a popular font in 2026. It carries historical notability; _nasin nanpa_ was the first font that Toki Pona speakers used for Sitelen Pona texting on Discord, and it is the Sitelen Pona font for [_The Wonderful Wizard of Oz (Toki Pona edition)_](https://sona.pona.la/wiki/The_Wonderful_Wizard_of_Oz_(Toki_Pona_edition)) released in the series, [_Official Toki Pona_](https://sona.pona.la/wiki/Official_Toki_Pona).
 
 On multiple occasions, the font has made strong choices that have correctly predicted (or predicated) the success of certain variant glyphs.
 
-jan Itan held the tiebreaker vote within this algorithmn.
+jan Itan held the tie-breaking vote within this algorithmn.
 {% enden %}
 
 {% sp %}
@@ -127,11 +127,11 @@ alasa pi sona sitelen la jan Itan li sona wan pi sona tu tu tu. taso sona tu li 
 
 {% split %}
 {% en %}
-lipamanka is the creator of _linja sike_ (2021) and _linja lipamanka_ (2023).
+[lipamanka](/members.html#lipamanka) is the creator of [_linja sike_](https://docs.google.com/document/d/1d8kUIAVlB-JNgK3LWr_zVCuUOZTh2hF7CfC6xQgxsBs/edit?tab=t.0#heading=h.f6snf1gh519u) (2021) and [_linja lipamanka_](https://lipamanka.gay/linjamanka) (2023).
 
-_linja sike_ was stylized as a succesor to jan Same's _linja pona_ (2016), the most prevalent font of the pre-2021 period. _linja lipamanka_ reworks _linja sike_ to be more visually distinct from _linja pona._
+_linja sike_ was stylized as a succesor to jan Same's [ _linja pona_](https://sona.pona.la/wiki/linja_pona) (2016), the most prevalent font of the [pre-2021 period](https://sona.pona.la/wiki/Post-pu_era). _linja lipamanka_ reworks _linja sike_ to be more visually distinct from _linja pona._
 
-Both of lipamanka's fonts were influential, as lipamanka was highly responsive to requests for rare glyphs, individual name glyphs, and experimental features. lipamanka is personally responsible for many alt glyphs, either by authoring them or by promoting them into wider usage.
+Both of lipamanka's fonts were influential, as lipamanka was highly responsive to requests for glyphs of rare words, [individual name glyphs](https://sona.pona.la/wiki/Name_glyphs), and experimental features. lipamanka is personally responsible for many alt glyphs, either by authoring them or by promoting them into wider usage.
 
 lipamanka held one vote within this algorithm.
 {% enden %}
@@ -175,9 +175,9 @@ alasa pi sona sitelen la lipamanka li sona wan pi sona tu tu tu.
 
 {% split %}
 {% en %}
-jan Lepeka is the creator of _Fairfax HD_ and _sitelen seli kiwen_ (2022).
+[jan Lepeka](/members.html) is the creator of [_Fairfax HD_](https://www.kreativekorp.com/software/fonts/fairfaxponahd/) and [_sitelen seli kiwen_](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/) (2022).
 
-jan Lepeka maintains the UCSUR and has been making fonts for decades. In addition to integrating Sitelen Pona into her Fairfax HD font family, which covers several other constructed scripts, she also made the popular handwritten font family, _sitelen seli kiwen_. There are separate versions of the family for ASCII-input, Unicode-input, monospaced, and non-monospaced.
+jan Lepeka maintains [the UCSUR](https://www.kreativekorp.com/ucsur/) and has been making fonts for decades. In addition to integrating Sitelen Pona into her Fairfax HD font family, which covers several other constructed scripts, she also made the popular handwritten font family, _sitelen seli kiwen_. There are separate versions of the family for ASCII-input, Unicode-input, monospaced, and non-monospaced.
 
 These two font families are held in very high esteem. They are the most completionist fonts created to date, preserving many rare glyphs. Because of the robust coverage offered by these fonts, they are often used in community dictionaries like [nimi.li](https://nimi.li/).
 
@@ -228,11 +228,11 @@ alasa pi sona sitelen la jan Lepeka li sona wan pi sona tu tu tu.
 
 {% split %}
 {% en %}
-waso Keli is the creator of _leko majuna_ (2022) and the tool, SP Font Maker (2024).
+[waso Keli](/members.html#waso-keli) is the creator of [_leko majuna_](https://kelseyhigham.github.io/leko-majuna/) (2022) and the tool, [SP Font Maker](https://wasokeli.github.io/sp-font-maker/) (2024).
 
 SP Font Maker is a tool waso Keli developed to study glyph variance. Users of the SP Font Maker submit a template with the glyphs they prefer to include in their font. Later, waso Keli manually annotates and tabulates preferences across user templates.
 
-_leko majuna_ is a pixelated font developed for use in a video game translation. It was the first font to contain a diagonal variant of the _ni_ (pointing arrow) glyph.
+_leko majuna_ is a pixelated font developed for use in [a video game translation](https://www.youtube.com/watch?v=LUzSWW40WC8). It was the first font to contain a [diagonal glyph variant for _ni_](https://sona.pona.la/wiki/directional_ni) (pointing arrow).
 
 waso Keli tabled two votes within this algorithm. The majority preference of SP Font Maker users held one vote, while waso Keli herself held one vote.  
 {% enden %}
@@ -272,7 +272,6 @@ waso Keli li pana e sona tu pi sona tu tu tu. jan li kepeken ilo pali pi nasin s
 {% endsl %}
 
 {% endsplit %}
-cover_image: false
 
 {% splith 3 %}
 {% en %}Handwriting Corpus{% enden %}
@@ -282,9 +281,9 @@ cover_image: false
 
 {% split %}
 {% en %}
-jan Majeka transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized.
+[jan Majeka](/members.html#waso-keli) transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized.
 
-The majority preference of submissions from the handwriting corpus held one vote within this algorithm. Where jan Majeka determined that no strong preference was evident, the corpus would not receive a vote.  
+The majority preference of submissions from this handwriting corpus held one vote within this algorithm. Where jan Majeka determined that no strong preference was evident, the corpus would not receive a vote.  
 {% enden %}
 
 {% sp %}
@@ -315,7 +314,7 @@ sitelen luka jan ale li sona wan pi sona tu tu tu. kulupu pi sitelen luka ale li
 
 {% split %}
 {% en %}
-Jump to [Word Glyphs](/common.html#wordglyphs)
+Jump to [Word Characters](/common.html#wordglyphs), representative glyphs are given as examples.
 
 Or download the [raw results for representative glyphs](/content/common/representative-glyphs.txt).
 

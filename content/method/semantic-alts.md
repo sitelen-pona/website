@@ -21,7 +21,7 @@ cover_image: true
 
 {% split %}
 {% en %}
-In the methodology developed by Mrs. Lang for Common Sitelen Pona, one word shall receive one codepoint, except in the case where variant glyphs have distinct teachable sub-meanings.
+In the [methodology](/method.html) developed by [Mrs. Lang](/members.html#mrs-lang) for [Common Sitelen Pona](/common.html), one [word](/content/method/words/) shall receive one codepoint, except where it is determined that a word's variant glyphs can each have teachably distinct sub-meanings.
 {% enden %}
 
 {% sp %}
@@ -43,17 +43,17 @@ nasin alasa pi anpa sewi la nimi wan pi toki pona o lon sitelen wan pi nasin Jun
 
 {% split %}
 {% en %}
-We invited survey respondents to describe whether they used certain variant glyph pairs, and if they used both, we asked whether the the meaning of the glyphs were never, sometimes, or always different.
+The association invited survey respondents to describe whether they used certain variant glyph pairs. If they used both, the association asked whether the the meaning of the glyphs were never, sometimes, or always different.
 
-After filtering, we analyzed 385 responses. Tiers of teachability thresholds were set at whatever % of respondants indicated that they used both glyphs and considered the meanings of the glyphs to be either sometimes or always different.
+After filtering, members analyzed 385 responses. [Tiers of Teachability](/content/method/tiers/) were set by what percent of respondants indicated that they (1) used both glyphs and (2) considered the meanings of the glyphs to be either sometimes *or* always different. The association used these thresholds:
 
 - Tier 1: 90% or higher
 - Tier 2: 60% or higher
 - Tier 3: 30% or higher
 
-These results indicated that usage of the 'secular' and 'pu-style' glyphs for _sewi_ with distinct meanings met the Tier 3 threshold, and that usage of versions of directional _ni_ for distinctive meanings met the Tier 3. 
+These results indicated that usage of the ['secular' and 'pu-style' glyphs for _sewi_](https://sona.pona.la/wiki/sewi#sitelen_pona) with distinct meanings met the Tier 3 threshold, and that usage of versions of [directional _ni_](https://sona.pona.la/wiki/ni#Directional_ni) for distinctive meanings met the Tier 3 threshold. 
 
-The data also showed that the 'four hands' glyph for _mute_ had a distinctive meaning from the three-line glyph for _mute._ However, a vote by the association settled that the four-hands variant would be present in Common Sitelen Pona as four stacked _luka_ (hands), instead of being a distinct glyph.
+The data also showed that the ['four hands' glyph for _mute_](https://sona.pona.la/wiki/mute#sitelen_pona) had a distinctive meaning from the three-line glyph for _mute._ However, a vote by the association settled that the four-hands variant would be present in Common Sitelen Pona as four stacked _luka_ (hands), instead of being a distinct glyph and character.
 
 Download the [raw results for semantic variance](/content/common/semanticity.txt).
 {% enden %}

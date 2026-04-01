@@ -767,7 +767,7 @@
       "F1990",
       "F1991"
     ],
-    "explain": "Paired with each other, these glyphs can be used to write a container for proper names",
+    "explain": "This pair of invisible characters go on either side of glyphs to render them within a cartouche.",
     "explainsl": "nimi kalama li ni: ona li sama kute tawa nimi pi toki ante li nimi pi toki pona ala. 'sitelen Lasina' la 'Lasina' li nimi kalama. sitelen pona la nimi kalama ale li lon insa poki.",
     "explainsp": "nimi kalama li ni> zz ona li sama kute tawa nimi pi(toki ante) li nimi pi(toki+pona ala). sitelen open en sitelen pini li selo e poki.",
 
@@ -784,7 +784,7 @@
     "input": "luka&luka",
     "technical_name": "ZERO WIDTH JOINER",
     "codepoint": "200D",
-    "explain": "This invisible glyph is used to combine two glyphs in a non-standard way or in a way the fontmaker specifies. Depending on the shape of the glyphs and preferences of the fontmaker, the combination may end up combined into a glyph taking features from each glyph, joined horizontally, stacked, nested, or combined some other way.",
+    "explain": "This invisible character is used to combine two glyphs in a non-standard way or in a way the fontmaker specifies. Depending on the shape of the glyphs and preferences of the fontmaker, the combination may end up combined into a glyph taking features from each glyph, joined horizontally, stacked, nested, or combined some other way.",
     "explainsl": "sitelen ni kon la jan pali pi nasin sitelen ilo li wan e sitelen tu kepeken nasin ken pona. ken la sitelen tu li ken wan pi nasin sin li ken wan anpa sewi li ken wan selo insa.",
     "explainsp": "sitelen+ni kon la jan pali pi(nasin sitelen ilo) li wan e sitelen tu kepeken nasin ken pona. ken la sitelen tu li ken wan pi nasin sin li ken wan anpa sewi li ken wan selo insa.",
 
@@ -802,7 +802,7 @@
     "input": "luka-luka",
     "technical_name": "SITELEN PONA STACKING JOINER",
     "codepoint": "F1995",
-    "explain": "This invisible glyph is used to combine two glyphs by stacking the second glyph over the first.",
+    "explain": "This invisible character is used to combine two glyphs by stacking the second glyph over the first.",
     "explainsl": "sitelen ni kon li wan e sitelen tu la nasin sitelen ilo li pana e sitelen nanpa tu tawa sewi pi sitelen nanpa wan.",
     "explainsp": "sitelen+ni kon li wan e sitelen tu la nasin sitelen ilo li pana e sitelen nanpa tu tawa sewi pi(sitelen nanpa wan).",
 
@@ -818,7 +818,7 @@
     "input": "luka+luka",
     "technical_name": "SITELEN PONA NESTING JOINER",
     "codepoint": "F1996",
-    "explain": "This invisible glyph is used to combine two glyphs by writing the second glyph inside the first.",
+    "explain": "This invisible character is used to combine two glyphs by stacking the second glyph over the first.",
     "explainsl": "sitelen ni kon li wan e sitelen tu la nasin sitelen ilo li pana e sitelen nanpa tu tawa insa pi sitelen nanpa wan.",
     "explainsp": "sitelen+ni kon li wan e sitelen tu la nasin sitelen ilo li pana e sitelen nanpa tu tawa insa pi(sitelen nanpa wan).",
 
@@ -834,7 +834,7 @@
     "input": "|",
     "technical_name": "IDEOGRAPHIC SPACE",
     "codepoint": "3000",
-    "explain": "This glyph is used to create a visible space, which can be used as sentence-ending punctuation, or within the indented style.",
+    "explain": "Used to create a visible space, which can be used as sentence-ending punctuation, or within the indented style.",
     "explainsl": "weka sitelen li ken pini e toki. nasin ante wan la, weka sitelen li lon open pi linja sitelen la, toki pi linja ni li awen e toki pi linja pini. tenpo mute la selo pi weka sitelen li suli sama sitelen wan.",
     "explainsp": "weka sitelen li ken pini e toki. nasin ante wan la, weka sitelen li lon open pi(linja sitelen) la toki pi(linja ni<) li awen e toki pi(linja pini). tenpo mute la selo pi(weka sitelen) li suli sama sitelen wan. ",
 
@@ -923,7 +923,7 @@
       "F1997",
       "F1998"
     ],
-    "explain": "When used after a glyph that a fontmaker supports as extendable, this pair of glyphs go on either side of the glyphs that the extension should go around.",
+    "explain": "When used after a glyph that a fontmaker supports as extendable, this pair of invisible characters go on either side of the glyphs that the extension should go around.",
     "explainsl": "suli la ni tu li tawa nimi 'pi.' linja li ken kama lon anpa pi nimi mute li ken pana lukin e sona ni: poki pi nimi 'pi' li open lon seme li pini lon seme.",
     "explainsp": "suli la sitelen+ni tu li lon nasin pi nimi te pi to. zz linja li ken kama lon anpa pi(nimi mute) li ken pana lukin e sona ni> zz poki pi nimi te pi to li open lon seme li pini lon seme.",
 
@@ -958,7 +958,7 @@
       "300C",
       "300D"
     ],
-    "explain": "This pair of glyphs are used as quotation punctuation. The left opens, the right closes.",
+    "explain": "Used as quotation punctuation. The left opens, the right closes.",
     "explainsl": "\"toki a\" la linja lili tu pi sitelen Lasina li pana e sona ni: \"toki a\" li toki nimi pi mi ala. sitelen pona kulupu li pali sama kepeken sitelen leko pi ma Nijon.",
     "explainsp": "sitelen+ni tu li lon toki pi(nasin tu) ni> <br> zz nimi ijo la lipu te jan [o suli uta] pi(wawa nasa) to li musi. <br> zz toki jan la te mi pakala a to. te o pilin ike ala to.",
 
@@ -977,7 +977,7 @@
     "input": ".",
     "technical_name": "SITELEN PONA MIDDLE DOT",
     "codepoint": "F199C",
-    "explain": "This glyph is mostly used as sentence-ending punctuation. In a cartouche, it can refer to one mora in [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama). ",
+    "explain": "Mostly used as sentence-ending punctuation. In a cartouche, it can refer to one mora in [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama). ",
     "explainsl": "sitelen pi sike lili li ken toki e ni: pini pi linja toki li lon seme. poki pi nimi kalama la, [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e nimi kalama kepeken sitelen pi sike lili.",
     
     "explainsp": "sitelen pi(sike lili insa) li ken toki e ni> zz pini pi(linja toki) li lon seme. poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama namako wan kepeken sitelen pi(sike lili).",
@@ -994,7 +994,7 @@
     "input": ":",
     "technical_name": "SITELEN PONA COLON",
     "codepoint": "F199D",
-    "explain": "This glyph is used to indicate all the letters of a word should be added in [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama).",
+    "explain": "In a cartouche, used to indicate that a word should be fully sounded out in [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama).",
     "explainsl": "poki pi nimi kalama la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi nimi wan kepeken sitelen pi sike lili tu.",
     "explainsp": "poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi(nimi wan) kepeken sitelen pi(sike lili tu).",
 
@@ -1093,7 +1093,7 @@
     "input": ",",
     "technical_name": "SITELEN PONA COMBINING TALLY MARK",
     "codepoint": "F199E",
-    "explain": "In a cartouche, used to write names in the compact nasin sitelen kalama pi linja lili style. ",
+    "explain": "In a cartouche, used to write names in the compact [nasin sitelen kalama pi linja lili](https://sona.pona.la/wiki/nasin_sitelen_kalama_pi_linja_lili) style. ",
     "explainsl": "[nasin sitelen kalama pi linja lili](https://sona.pona.la/wiki/nasin_sitelen_kalama_pi_linja_lili) la linja lili wan li lon linja anpa lon poki pi nimi kalama la nimi kalama o kepeken kalama wan tan sitelen ni: ona li lon sewi pi linja lili.",
     "explainsp": "[nasin sitelen kalama pi(linja lili)](https://sona.pona.la/wiki/nasin_sitelen_kalama_pi_linja_lili) la linja lili wan li lon linja anpa lon poki pi(nimi kalama) la nimi kalama o kepeken kalama wan tan sitelen ni> zz ona li lon sewi pi(linja lili).",
 

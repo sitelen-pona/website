@@ -75,6 +75,20 @@ cover_image: false
     .condensed summary:focus-visible{
         outline: none;
     }
+
+     @keyframes fade {
+        0% {
+            background-color: var(--kule-5);
+        }
+        100% {
+            background-color: transparent;
+        }
+}
+    :is(li,summary):target {
+        animation: fade 2s ease-out;
+        border-radius: 0.75rem;
+    }
+  
     .tiny-toggle{
         display: none;
         flex-wrap: wrap;
@@ -154,8 +168,8 @@ cover_image: false
 <ul class="condensed shuffle">
 {% for item in current %}
     <li>
-        <details name="current">
-        <summary><span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span lang="tok" class="sp">{{item.spname}}</span>{% if item.enname != item.slname %}<span lang="tok" class="sl"><br>{{item.slname}}</span>{% endif %}</summary><div class="show-tok">{% for ijo in item.pali %}<p lang="tok" class="sp">{{ ijo }}</p>{% endfor %}{% for ijo in item.palisl %}<p lang="tok" class="sl">{{ ijo }}</p>{% endfor %}</div>{% for ijo in item.titles %}<p class="show-en">{{ ijo }}</p>{% endfor %}</details>
+        <details name="current"> {%- assign slug = item.enname | slugify -%}
+        <summary id="{{ slug }}"><span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span lang="tok" class="sp">{{item.spname}}</span>{% if item.enname != item.slname %}<span lang="tok" class="sl"><br>{{item.slname}}</span>{% endif %}</summary><div class="show-tok">{% for ijo in item.pali %}<p lang="tok" class="sp">{{ ijo }}</p>{% endfor %}{% for ijo in item.palisl %}<p lang="tok" class="sl">{{ ijo }}</p>{% endfor %}</div>{% for ijo in item.titles %}<p class="show-en">{{ ijo }}</p>{% endfor %}</details>
     </li>
 {% endfor %}
 </ul>
@@ -185,7 +199,7 @@ cover_image: false
 
 {% split %}
 {% en %}
-Gregory Danielson III is serving as the association's president as of <time datetime="2026-01-21">January 21, 2026</time>. 
+Gregory Danielson III began his term as the association's president on <time datetime="2026-01-21">January 21, 2026</time>. 
 {% enden %}
 
 {% sp %}
@@ -209,9 +223,10 @@ mun lawa Kekan San li kama jan lawa kulupu <time datetime="2026-01-21">lon tenpo
     {% sl %}seme li weka tan kulupu?{% endsl %}
 {% endsplith %}
 
+
 <ul class="condensed shuffle">
 {% for item in former %}
-<li><span>{{ item.emoji }}</span><span lang="en"> {{ item.enname }}</span><span class="sp">{{item.spname}}</span> </li>
+{%- assign slug = item.enname | slugify -%}<li id="{{ slug }}"><span>{{ item.emoji }}</span><span lang="en"> {{ item.enname }}</span><span class="sp">{{item.spname}}</span> </li>
 {% endfor %}
 </ul>
 
