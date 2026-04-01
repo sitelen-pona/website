@@ -230,6 +230,11 @@ h2{
     justify-content: center;
 
 }
+.code-label{
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
 .caveat p{
     max-width: 100%;
     margin: 0 auto;
