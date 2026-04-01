@@ -187,7 +187,8 @@ main :is(img, svg) {
     max-width: calc(42rem + 7vw);
     margin: 1rem auto 4rem;
     display: block;
-    border-radius: 2rem
+    border-radius: 2rem;
+    height: min-content;
 }
 
 
