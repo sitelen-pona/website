@@ -1,5 +1,4 @@
-import { HtmlBasePlugin } from "@11ty/eleventy";
-import { RenderPlugin } from "@11ty/eleventy";
+import { IdAttributePlugin, HtmlBasePlugin, RenderPlugin } from "@11ty/eleventy";
 import markdownItContainer from 'markdown-it-container';
 import markdownItAttrs from 'markdown-it-attrs';
 import YAML from "yaml";
@@ -70,4 +69,6 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPairedShortcode("splith", (insa, suli = 2) => `<h${suli} class="split">${insa}</h${suli}>`);
 
 	eleventyConfig.addDataExtension("yaml", (contents) => YAML.parse(contents));
+
+    eleventyConfig.addPlugin(IdAttributePlugin);
 };
