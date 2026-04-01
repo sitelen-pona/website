@@ -13,7 +13,7 @@ cover_image: false
 
 {% splith %}
     {% en %}Email{% enden %}
-    {% sp %}kepeken nasin ilo pi pana lipu{% endsp %}
+    {% sp %}kepeken nasin ilo pi(pana lipu){% endsp %}
     {% sl %}kepeken nasin ilo pi pana lipu{% endsl %}
 
 {% endsplith %}
@@ -78,7 +78,7 @@ sina wile pana e ijo tawa kulupu la  o sitelen e sona ale ni
 
 nanpa pi(tomo+suli) li nanpa luka luka ale mute mute mute mute wan  
 nanpa pi(tomo+lili) li nanpa luka luka tu ale mute mute luka tu tu  
-nimi pi(nasin tomo) li te nasin pi ma [[suno . seli .]](https://en.wikipedia.org/wiki/Sussex) to  
+nimi pi(nasin tomo) li te nasin pi(ma [[suno . seli .]](https://en.wikipedia.org/wiki/Sussex)) to  
 nimi pi(ma tomo)  li ma[[monsi .. ken . laso .]](https://tok.wikipedia.org/wiki/ma_tomo_Monkela)  
 nimi pi(ma lili) li ma [[ken . pilin esun]](https://tok.wikipedia.org/wiki/ma_Kepeke)  
 nanpa pi(ma pana) li te H3H zz 2A1 to  
@@ -136,8 +136,8 @@ Many of us also interact in the public channels available on this server; feel f
 [ma pi(nasin sitelen)](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko:]  lon ma pi(nasin sitelen) la    
 kulupu pali pi sitelen pona li toki li pali kepeken tomo len 
 
-taso jan pi(kulupu pali ala) li ken lon ma pi nasin sitelen lon tomo toki mute pi(len ala)   
-jan mute pi kulupu pali li toki lon tomo len lon tomo pi(len ala kin)    
+taso jan pi(kulupu pali ala) li ken lon ma pi(nasin sitelen) lon tomo toki mute pi(len ala)   
+jan mute pi(kulupu pali) li toki lon tomo len lon tomo pi(len ala kin)    
 sina wile sona e ijo pi(kulupu pali) la sina ken toki tawa kulupu lon tomo pi(len ala)
 {% endsp %}
 

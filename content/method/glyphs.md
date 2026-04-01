@@ -30,6 +30,9 @@ permalink: /method/glyphs.html
 In the Common Sitelen Pona [document itself](/common.html), the association wanted to provide representative glyphs—example versions of glyphs that were commonly used. These were algorithmically determined using the process below.
 {% enden %}
 {% sp %}
+ zz zz li toki e wile ona ni> zz selo seme pi(sitelen sama) o lon lipu  
+[PLACEHOLDER]  
+
 sitelen+pona kulupu li pana zz e sona ni> zz sitelen seme li lon  
 sitelen+pona kulupu li pana ala e sona ni> zz selo sitelen o seme  
 kulupu pali li wile e ni> zz jan pali sitelen li ken kepeken selo sitelen pi(wile ona)

@@ -29,19 +29,19 @@ Each appointed member was free to design their own algorithm based on their data
 {% enden %}
 
 {% sp %}
-anpa-sewi en kala en mun li lon kulupu pi(pali nimi)  
+[anpa-sewi](/members.html#mrs-lang) en [kala](/members.html#kala-asi) en [mun](/members.html#gregory-danielson-iii) li lon kulupu pi(alasa nimi)  
 ni^ en ni^ en ni^ li pali lon ona taso   
 zz li nanpa e suli kepeken pi(nimi ale) kepeken sona ante tan  
-pini la kulupu pi(pali nimi) li wan e pilin ona tu wan
+pini la kulupu pi(alasa nimi) li wan e pilin ona tu wan
 
 sona ante tan la ona pali li kepeken sona ni lon nasin pi(wile ona)  
-o kama sona e anpa-sewi e kala e mun   
-zz zz zz e sona ante tan tu wan ona e nasin tu wan ona
+o kama sona e ijo tu wan lon kulupu pali pi(alasa nimi)    
+zz e pali tu wan pi(kulupu ni^)  e nasin tu wan pi(kulupu ni^)  
 {% endsp %}
 {% sl %}
-anpa-sewi en kala en mun li lon kulupu pi pali nimi. ona tu wan li pali lon ona taso li nanpa e suli kepeken pi nimi ale kepeken sona ante tan. pini la, kulupu pi pali nimi li wan e pilin ona tu wan. 
+[anpa sewi](/members.html#mrs-lang) en [kala](/members.html#kala-asi) en [mun](/members.html#gregory-danielson-iii) li lon kulupu pi alasa nimi. ona tu wan li pali lon ona taso li nanpa e suli kepeken pi nimi ale kepeken sona ante tan. pini la, kulupu pi alasa  nimi li wan e pilin ona tu wan. 
 
-sona ante tan la ona pali li kepeken sona ni lon nasin pi wile ona. o kama sona e anpa-sewi e kala e mun e sona ante tan tu wan ona e nasin tu wan ona:
+sona ante tan la ona pali li kepeken sona ni lon nasin pi wile ona. o kama sona kulupu pi alasa nimi e pali tu wan pi kulupu ni e nasin tu wan pi kulupu ni. 
 {% endsl %}
 
 {% endsplit %}
@@ -62,23 +62,24 @@ Mrs. Lang (author of _Official Toki Pona_ series) held one vote within this algo
 {% enden %}
 
 {% sp %}
-anpa-sewi li mama pi(toki+pona) li mama pi(sitelen+pona)   
-ona li sona e toki pona tan tenpo open la sona ona li suli a li tenpo a  
-lipu pu pi(anpa-sewi) li kama lon tenpo pini li mama e sitelen+pona  
+[anpa-sewi](/members.html#mrs-lang) li mama pi(toki+pona) li mama pi(sitelen+pona)   
+ona li sona e toki pona tan tenpo open la   
+zz sona ona li suli a li tenpo a  
+[lipu pu](https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good) pi(anpa-sewi) li kama lon tenpo pini li mama e sitelen+pona  
 lon tenpo pini pi(poka lili) la anpa-sewi li alasa e suli kepeken pi(nimi mute) 
-zz zz zz zz zz zz zz zz zz zz zz zz li pana e sona ni^ tawa lipu ku
+zz zz zz zz zz zz zz zz zz zz zz zz li pana e sona ni^ tawa [lipu ku](https://sona.pona.la/wiki/Toki_Pona_Dictionary)  
 
 nasin nimi nanpa pi(anpa-sewi) li ni    
-zz nimi ale pi(lipu pu) li suli kepeken nanpa wan  
-zz nimi ante ala la anpa-sewi li kepeken sona mama ona li kepeken pilin mama ona
+zz nimi ale pi(lipu pu) li [suli kepeken nanpa wan](/methods/tiers.html)    
+zz nimi ante ale la anpa-sewi li kepeken sona mama ona li kepeken pilin mama ona
 
 pali nimi la pilin pi(anpa-sewi)   
 zz li pilin wan pi(pilin tu wan)
 {% endsp %}
 {% sl %}
-anpa sewi li mama pi toki pona li mama pi sitelen pona. ona li sona e toki pona tan tenpo open la sona ona li suli a li tenpo a. lipu pu pi anpa sewi li kama lon tenpo sike #MALLTT li mama e sitelen pona. lon tenpo sike #MAMW la anpa sewi li alasa e suli kepeken pi nimi mute li pana e sona ni tawa lipu ku. 
+[anpa sewi](/members.html#mrs-lang) li mama pi toki pona li mama pi sitelen pona. ona li sona e toki pona tan tenpo open la sona ona li suli a li tenpo a. [lipu pu](https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good) pi anpa sewi li kama lon tenpo sike #MALLTT li mama e sitelen pona. lon tenpo sike #MAMW la anpa sewi li alasa e suli kepeken pi nimi mute li pana e sona ni tawa [lipu ku](https://sona.pona.la/wiki/Toki_Pona_Dictionary). 
 
-nasin nimi nanpa pi anpa sewi li ni: nimi ale pi lipu pu li suli kepeken nanpa wan. nimi ante ala la anpa sewi li kepeken sona mama ona li kepeken pilin mama ona.
+nasin nimi nanpa pi anpa sewi li ni: nimi ale pi lipu pu li [suli kepeken nanpa wan](/methods/tiers.html). nimi ante ale la anpa sewi li kepeken sona mama ona li kepeken pilin mama ona.
 
 pali nimi la pilin pi anpa sewi li pilin wan pi pilin tu wan. 
 {% endsl %}
@@ -104,31 +105,32 @@ As reported by kala Asi, the Linku project held one vote within this algorithm.
 {% enden %}
 
 {% sp %}
-pali Linku li lipu e sona mute lon nimi pi(toki+pona)  
+[pali Linku](https://linku.la/) li lipu e sona mute lon nimi pi(toki+pona)  
 kulupu pali Linku li alasa e sona ni^ tan kulupu lon tenpo sike ale  
 zz jan kulupu li kepeken nimi seme li sona e nimi seme  
 lipu nimi Linku li poki e nimi tan suli ona kepeken poki tu tu ni  
- jan luka luka la jan luka tu tu li kepeken nimi la nimi li te suli a  to  
-  zz zz zz zz jan luka wan li kepeken nimi la nimi li te suli  to  
-  zz zz zz zz jan tu wan li kepeken nimi la nimi li te suli lili  to  
-  zz zz zz zz ante la nimi li te suli ala  to
+ jan luka luka la jan luka tu tu li kepeken la nimi li [suli a](https://linku.la/?q=&categories=%7B%22core%22%3Atrue%2C%22common%22%3Afalse%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D)    
+  zz zz zz zz jan luka wan li kepeken la nimi li  [suli](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Atrue%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D)    
+  zz zz zz zz jan tu wan li kepeken la nimi li  [suli lili](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Afalse%2C%22uncommon%22%3Atrue%2C%22obscure%22%3Afalse%7D)    
+  zz zz zz zz  ante la nimi li  [suli ala](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Afalse%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Atrue%7D)  
 
-kala [alasa sona ilo] li jan pali pi(kulupu Linku) lon pali ni  
+[kala [alasa sona ilo]](/members.html#kala-asi) li jan pali pi(kulupu Linku) lon pali ni  
 ona li ante e sona Linku pi(suli nimi) tawa suli nimi pi(sitelen+pona kulupu) la   
 zz ona li ante lili e nanpa
 
-- suli kepeken nanpawan la  jan luka la jan tu tu li kepeken    
-zz nimi ale te suli a to en nimi lili  te suli to  li lon ni^
+- suli kepeken nanpa wan la  jan luka la jan tu tu li kepeken    
+zz nimi ale te suli a to li lon ni^  
+zz nimi  te suli to  pi(mute lili) li lon ni^
 - suli kepeken nanpa tu la    jan luka la jan tu wan li kepeken  
 zz nimi mute te suli to li lon ni^
-- suli kepeken nanpa tu wan   la  jan luka luka la jan tu wan li kepeken  
+- suli kepeken nanpa mute   la  jan luka luka la jan tu wan li kepeken  
 zz nimi ale te suli lili to li lon ni^
 
-pali nimi la sona pi lipu Linku en nasin pi(kala [alasa sona ilo])   
+pali nimi la sona pi(lipu Linku) en nasin pi(kala [alasa sona ilo])   
 zz li pilin wan pi(pilin tu wan)
 {% endsp %}
 {% sl %}
-pali Linku li lipu e sona mute lon nimi pi toki pona. kulupu pali Linku li alasa e sona ni tan kulupu lon tenpo sike ale: jan kulupu li kepeken nimi seme, li sona e nimi seme. lipu nimi Linku li poki e nimi tan suli ona, kepeken poki tu tu. nimi wan la, jan LL la: jan LTT li kepeken la nimi li suli a. jan LW li kepeken la suli. jan TW la suli lili. ante la suli ala.
+pali Linku li lipu e sona mute lon nimi pi toki pona. kulupu pali Linku li alasa e sona ni tan kulupu lon tenpo sike ale: jan kulupu li kepeken nimi seme, li sona e nimi seme. lipu nimi Linku li poki e nimi tan suli ona, kepeken poki tu tu. nimi wan la, jan LL la: jan LTT li kepeken la nimi li ['suli a'](https://linku.la/?q=&categories=%7B%22core%22%3Atrue%2C%22common%22%3Afalse%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D). jan LW li kepeken la ['suli'](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Atrue%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D). jan TW la ['suli lili'](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Afalse%2C%22uncommon%22%3Atrue%2C%22obscure%22%3Afalse%7D). ante la ['suli ala'](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Afalse%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Atrue%7D).
 
 kala Asi li jan pali pi kulupu Linku lon pali ni. ona li ante e sona Linku pi suli nimi tawa suli nimi pi sitelen pona kulupu la, ona li ante lili e nanpa:
 
@@ -159,21 +161,21 @@ As reported by mun Kekan San, ilo Muni held the tie-breaking vote within this al
 {% enden %}
 
 {% sp %}
-ilo [mute. nimi.]  li kama e sona+nanpa pi(nasin nimi)   
-zz kepeken poki suli pi(toki+pona  taso)   
-mun [ken . kalama . nasa][mute:] li mama e ilo [mute]  
+[ilo [mute. nimi.]](https://ilo.muni.la/)  li kama e sona nanpa pi(nasin nimi kepeken)   
+zz kepeken [poki suli](https://ilo.muni.la/about/#where-is-the-data-from) pi([toki+pona  taso](https://github.com/gregdan3/sona-toki))   
+[mun [ken . kalama . nasa][mute:]](/members.html#gregory-danielson-iii) li mama e ilo [mute]  
 ona li wile sona e suli nimi pi(sitelen+pona kulupu) kepeken ilo [mute] la   
 zz mun li pali e nasin ni
 
-- suli kepeken nanpa wan la  nimi ale pi lipu pu li lon  
+- suli kepeken nanpa wan la  nimi ale pi([lipu pu](https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good)) li lon  
 zz tenpo sike luka la   
-zz zz jan wan ale la ona luka luka li kepeken nimi ni  
-- suli kepeken nanpa tu la  nimi ale suli pi(lipu Linku) li lon    
+zz zz jan wan ale la ona luka luka li kepeken  
+- suli kepeken nanpa tu la  nimi ale [suli](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Atrue%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D) pi(lipu Linku) li lon    
 zz tenpo sike tu tu la   
-zz zz jan tu ale la ona luka luka tu tu li kepeken nimi ni  
-- suli kepeken nanpa tu wan la ilo [mute.nimi.] li pakala nanpa nasa ala      
+zz zz jan tu ale la ona luka luka tu tu li kepeken  
+- suli kepeken nanpa tu wan la ilo [mute] li pakala nanpa nasa ala      
 zz tenpo sike tu wan la   
-zz zz jan wan ale la ona luka taso li kepeken nimi ni  
+zz zz jan wan ale la ona luka taso li kepeken  
 
 
 pali nimi la ilo [mute.nimi] en nasin pi(mun [ken][mute])   
@@ -183,10 +185,10 @@ taso ken tu li pilin pi(mute sama) la  pilin mun li ken anpa e pilin ante
 {% endsp %}
 {% sl %}
 
-ilo Muni pi mute nimi li kama e sona nanpa pi nasin nimi kepeken poki suli pi toki pona taso. mun Kekan San li mama e ilo Muni. ona li wile sona e suli nimi pi sitelen pona kulupu kepeken ilo Muni la mun li pali e nasin ni: 
+[ilo Muni pi mute nimi](https://ilo.muni.la/) li kama e sona nanpa pi nasin nimi kepeken [poki suli](https://github.com/gregdan3/sona-toki) pi [toki pona taso](https://github.com/gregdan3/sona-toki). [mun Kekan San](/members.html#gregory-danielson-iii) li mama e ilo Muni. ona li wile sona e suli nimi pi sitelen pona kulupu kepeken ilo Muni la mun li pali e nasin ni: 
 
-- suli kepeken #W: tenpo sike L la jan WA la ona LL li kepeken nimi ni. nasin ni la nimi ale pi lipu pu li lon. 
-- suli kepeken #T: tenpo sike TT la jan TA la jan LLTT li kepeken nimi ni. nasin ni la nimi ale suli pi lipu Linku li lon. 
+- suli kepeken #W: tenpo sike L la jan WA la ona LL li kepeken nimi ni. nasin ni la [nimi ale pi lipu pu](https://sona.pona.la/wiki/Toki_Pona:_The_Language_of_Good) li lon. 
+- suli kepeken #T: tenpo sike TT la jan TA la jan LLTT li kepeken nimi ni. nasin ni la [nimi ale 'suli' pi lipu Linku](https://linku.la/?q=&categories=%7B%22core%22%3Afalse%2C%22common%22%3Atrue%2C%22uncommon%22%3Afalse%2C%22obscure%22%3Afalse%7D) li lon. 
 - suli kepeken #TW: tenpo sike TW la jan WA la ona L li kepeken nimi ni. nanpa ni la ilo Muni li pakala nanpa nasa ala.  
 
 
@@ -212,22 +214,22 @@ Or download the raw results:
 {% enden %}
 
 {% sp %}
-o lukin e [nimi pi( suli nanpa wan)](/common.html#tier1words)  
-o lukin e [nimi pi( suli nanpa tu)](/common.html#tier2words)  
-o lukin e [nimi pi( suli nanpa tu wan)](/common.html#tier3words)
+o lukin e [sitelen nimi pi( suli nanpa wan)](/common.html#tier1words)  
+o lukin e [sitelen nimi pi( suli nanpa tu)](/common.html#tier2words)  
+o lukin e [sitelen nimi pi( suli nanpa tu wan)](/common.html#tier3words)
 
 o lukin e sona ale ni> zz
-[nimi](/content/common/words-tiers.txt)
+[sitelen nimi](/content/common/words-tiers.txt)
 
 {% endsp %}
 
 {% sl %}
-o lukin e [nimi pi suli #W](/common.html#tier1words)  
-o lukin e [nimi pi suli #T](/common.html#tier2words)  
-o lukin e [nimi pi suli #TW](/common.html#tier3words)
+o lukin e [sitelen nimi pi suli #W](/common.html#tier1words)  
+o lukin e [sitelen nimi pi suli #T](/common.html#tier2words)  
+o lukin e [sitelen nimi pi suli #TW](/common.html#tier3words)
 
 o lanpan e sona ale:
-[nimi](/content/common/words-tiers.txt)
+[sitelen nimi](/content/common/words-tiers.txt)
 
 {% endsl %}
 

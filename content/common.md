@@ -230,6 +230,12 @@ h2{
     justify-content: center;
 
 }
+a{
+    color: inherit;
+}
+a:is(:hover, :focus-visible){
+    color: var(--lupa-pimeja);
+}
 .code-label{
     font-size: 0.6rem;
     text-transform: uppercase;
@@ -248,8 +254,6 @@ h2.view{
     .long {
         grid-template-columns: 1.5fr 1fr;
     }
-
-
 }
 
 @media (max-width: 1160px) {
@@ -357,31 +361,33 @@ h2.view{
 {% en %}
 This is a public draft of Common Sitelen Pona, released on January 2026 and presented as per the association's resolutions. 
 
-**Common Sitelen Pona** is a standard that outlines  the universal characteristics of Sitelen Pona through an approved set of glyphs and characters.
+**Common Sitelen Pona** is a standard that outlines  the basic characteristics of Sitelen Pona through an [approved set of characters](/method.html) subdivided into three [tiers of teachability](/method/tiers.html), presented here with [representative glyphs](/method/glyphs.html).
 
-**The Sitelen Pona Publishers and Typographers Association** derived Common Sitelen Pona from described features and characteristics of Sitelen Pona that have seen stable adoption and use within the Toki Pona community.
+**The Sitelen Pona Publishers and Typographers Association** derived Common Sitelen Pona from described [features](/method/features.html) and characteristics of Sitelen Pona that have seen stable adoption and use within the Toki Pona community.
 
 {% enden %}
 
 {% sp %}
-lipu+ni pi(pini )ala li toki e sitelen+pona kulupu  
-tenpo mun nanpa wan pi(tenpo sike ni) la kulupu li pana e lipu pi(pini ala) tawa lukin ale
+lipu+ni pi(pini ala) li toki e nasin pi(sitelen+pona kulupu)  
+tenpo mun nanpa wan pi(tenpo sike ni) la   
+zz kulupu li pana e lipu pi(pini ala) tawa lukin ale
 
-te **sitelen pona kulupu** to li nimi pi(lipu nasin)  
-lipu li toki e ni> zz sitelen+pona li nasin seme zz sitelen seme li lon sitelen+pona
+**sitelen pona kulupu** li nimi pi(lipu+ni nasin)  zz lipu+ni li pana e nasin pi(sitelen+pona)  
+lipu+ni li toki e sitelen [nimi](/method/words.html) e [sitelen+nasin](/method/features.html) ni>zz ona li [suli kepeken](/method/tiers.html) pi(sitelen+pona)   
+zz kin la tawa sitelen ni^ ale la lipu+ni li pana tawa lukin e [selo ken](/method/glyphs.html) wan    
 
-kulupu pali pi sitelen pona li pali e lipu pi(sitelen+pona kulupu)  
-lipu li toki ala e nasin musi namako sin pi(jan mute ala)  
-te sitelen pona kulupu to li wile e nasin ni taso  
-zz zz kulupu pi(toki+pona) la nasin li suli li awen li kepeken
+lipu ni li toki ala e nasin musi namako sin pi(jan mute ala)  
+zz pana pi(nasin ni^ )li wile pi(sitelen+pona musi) li wile pi(sitelen+pona kulupu ala)  
+pali pi(kulupu [januta ni:ko:]) la lipu li wile e nasin ni taso  
+zz ona li suli li awen li kepeken lon kulupu pi(toki+pona) 
 {% endsp %}
 
 {% sl %}
-lipu ni pi pini ala li toki e sitelen+pona kulupu. tenpo mun #W pi tenpo sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale
+lipu ni pi pini ala li toki e nasin pi sitelen pona kulupu. tenpo mun #W pi tenpo sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale.
 
-**sitelen pona kulupu** li nimi pi lipu nasin. lipu li toki e ni: sitelen pona li nasin seme.
+**sitelen pona kulupu** li nimi pi lipu nasin ni. lipu li pana e nasin pi sitelen pona. lipu li toki e [sitelen nimi](/method/words.html) ni e [sitelen nasin](/method/features.html) ni: ona li [suli kepeken](/method/tiers.html) pi sitelen pona. kin la lipu li pana tawa lukin e [selo ken wan](/method/glyphs.html) pi sitelen ni ale.
 
-lipu li toki ala e nasin musi namako sin pi jan mute ala. lipu pi sitelen pona kulupu li wile e nasin ni taso: kulupu pi toki pona la ona li suli li awen li kepeken.
+lipu ni li toki ala e nasin musi namako sin pi jan mute ala (ni li wile pi sitelen pona musi li wile pi sitelen pona kulupu ala). tawa wile pi kulupu Juniko la sitelen pona kulupu li wile e nasin ni taso: kulupu pi toki pona la ona li suli li awen li kepeken. 
 {% endsl %}
 
 {% endsplit %}

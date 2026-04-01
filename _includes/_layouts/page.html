@@ -38,6 +38,9 @@
     <header id="top-bar">
 
         <style>
+            .split :is(.sp, .sl){
+                display: block !important;
+            }
             header {
                 padding: 1rem;
                 background-color: var(--kule-1);
@@ -533,7 +536,7 @@
     </h1>
 
     {% if alt and cover_image %}
-    {% assign svg_inline = "./_includes/assets/" | append: page.filePathStem | replace: '/content/','' | append: ".svg" |log %}
+    {% assign svg_inline = "./_includes/assets/" | append: page.filePathStem | replace: '/content/','' | append: ".svg" %}
     {% renderFile svg_inline, alt, "html" %}
     {% endif %}
 

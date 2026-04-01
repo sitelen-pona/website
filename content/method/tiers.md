@@ -35,17 +35,18 @@ The following table describes the Tiers of Teachability into which [Common Sitel
 {% enden %}
 
 {% sp %}
-sitelen+pona kulupu li toki e ni> zz jan li wile kama sona pona e sitelen+pona la  
-zz ona o sona e nasin ni> zz kulupu li kepeken  
-lon la ijo mute li lon kulupu li kepeken pi(nasin mute) zz  taso mi wile sona e ni  
-zz ale la nimi seme en sitelen seme en nasin seme  li suli lon kepeken  
-sitelen+pona kulupu la  tesuli kepeken nanpa wanto en te suli kepeken nanpa tu to   
-zz zz zz en te suli kepeken nanpa tu wanto li toki e sona nasin<br>  
-o kama lukin a
+jan li wile kama sona pona e nasin sitelen la     
+zz ona o sona e nasin ni> zz kulupu pi(nasin sitelen) li kepeken    
+kulupu pi(sitelen+pona) la jan ante mute li kepeken nasin ante mute  
+jan mute li kepeken sitelen+pona musi zz taso [lipu pi(sitelen+pona kulupu)](/common.html) la   
+zz mi wile sona e musi lili ala e ni  
+zz zz ale la [sitelen nimi seme](/method/words.html) en [sitelen+nasin seme](/method.features) li suli lon kepeken  
+insa pi(sitelen+pona kulupu) la   tesuli nanpa wanto  en te suli nanpa tu to  
+zz en te suli nanpa tu wanto li nanpa e suli pi(ijo suli kulupu^) 
 {% endsp %}
 
 {% sl %}
-sitelen pona kulupu li toki e ni: jan li wile kama sona pona e sitelen pona la ona o sona e nasin ni: kulupu li kepeken. ijo mute li lon kulupu li kepeken pi nasin mute. taso mi wile sona e ni:  ale la nimi seme en sitelen seme en nasin seme  li suli lon kepeken? sitelen pona kulupu la  'suli kepeken #W' en 'suli kepeken #T' en 'suli kepeken #TW' li toki e sona nasin. o kama lukin!
+jan li wile kama sona pona e nasin sitelen la ona o sona e nasin ni: kulupu pi nasin sitelen li kepeken. kulupu pi sitelen pona la jan ante mute li kepeken nasin ante mute. jan mute li kepeken sitelen pona musi. taso [lipu pi sitelen pona kulupu](/common.html) la mi wile sona e musi lili ala e ni: ale la [sitelen nimi seme](/method/words.html) en [sitelen nasin seme](/method/features.html) li suli lon kepeken? insa pi sitelen pona kulupu la  'suli kepeken #W' en 'suli kepeken #T' en 'suli kepeken #TW' li nanpa e suli pi ijo suli ni. 
 {% endsl %}
 {% endsplit %}
 

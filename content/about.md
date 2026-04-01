@@ -39,25 +39,25 @@ cover_image: false
 
 {% sp %}
     te kulupu pali pi sitelen pona to li kulupu sona pi(sitelen+pona)   
-    ijo ale pi(kulupu ni) li sona wawa e sitelen pona li pali lon<a href="sitelen-pona.html">sitelen+pona</a> kepeken nasin ante
+    ijo ale pi(kulupu ni) li sona wawa e sitelen+pona li pali lon<a href="sitelen-pona.html">sitelen+pona</a> kepeken nasin ante
 
-    mi pi(kulupu ni)   
+    [mi pi(kulupu ni)]((/members.html))   
     zz li ken pali e ilo nanpa wawa li ken pana e sona pi(nasin pona) tawa kulupu   
     zz li ken pali musi li ken pana e lipu toki    
-    zz li ken pali e nasin sitelen ilo sin li ijo ante kin
+    zz li ken pali e nasin sin pi(sitelen  sin) li ken ijo ante kin
 
     ni^ la  kulupu li sama ilo pi(sona mute)  
     kepeken ilo ni la nasin pi(sitelen+pona)   
-    zz o kama wawa o kama suli  lon kulupu pi(toki+pona)   
+    zz o kama wawa o kama suli  lon kulupu pi[(toki+pona)](https://sona.pona.la/wiki/Toki_Pona)   
     zz o kama ken lon kulupu pi(toki+pona ala)
 {% endsp %}
 
 {% sl %}
   kulupu pali pi sitelen pona li kulupu sona pi sitelen pona. ijo ale pi kulupu ni li sona wawa e sitelen pona li pali pi <a href="sitelen-pona.html">sitelen pona</a> kepeken nasin ante.
 
-ona pi kulupu ni, li ken pali e ilo nanpa wawa, li pana e sona pi nasin pona tawa kulupu, li ken pali musi, li ken pana e lipu toki, li ken pali e nasin sitelen ilo sin, li ijo ante kin!
+[mi pi kulupu ni]((/members.html)) li ken pali e ilo nanpa wawa, li ken pana e sona pi nasin pona tawa kulupu, li ken pali musi, li ken pana e lipu toki, li ken pali e nasin sin pi sitelen ilo, li ken ijo ante kin!
 
-    ni la,  kulupu li sama ilo pi sona mute. kepeken ilo ni la nasin pi sitelen pona o kama wawa o kama suli  lon kulupu pi toki pona, o kama ken  lon kulupu pi toki pona ala
+ni la,  kulupu li sama ilo pi sona mute. kepeken ilo ni la nasin pi sitelen pona o kama wawa o kama suli lon [kulupu pi toki pona](https://sona.pona.la/wiki/Toki_Pona), o kama ken lon kulupu pi toki pona ala.
 {% endsl %}
 
 
@@ -105,33 +105,38 @@ ona pi kulupu ni, li ken pali e ilo nanpa wawa, li pana e sona pi nasin pona taw
 
 {% split %}
 {% en %}
-Through horizontal consensus decision-making, we prepare <a href="common.html">living drafts for technical standards</a>. Presently, these standards make it easier for Toki Pona speakers to enjoy Sitelen Pona on their devices. In the future, these standards will enable everyone to read and write Sitelen Pona on their preferred devices and platforms.
+Through horizontal consensus decision-making, we prepare <a href="common.html">living drafts for technical standards</a>. 
+
+Presently, these standards make it easier for Toki Pona speakers to enjoy Sitelen Pona on their devices. In the future, these standards will enable everyone to read and write Sitelen Pona on their preferred devices and platforms.
 
 We operate as a <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">not-for-profit corporation</a> registered in Canada. Membership in the association is subject to the approval of existing <a href="members.html">members</a>. There are no membership fees. Prospective members are welcome to fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScDf9cWNQqxCMI_rELpvw49C7XCAuGNzMMuDAXFlxZ6E270Kg/viewform">our application form</a>.
 {% enden %}
 
 {% sp %}
 pali ilo pi(sitelen+pona) li wile e sona ni>  
-zz <a href="common.html">ilo li wile sitelen e nimi seme</a>  
-zz nanpa ilo seme li tawa sitelen seme  
-zz nasin namako seme o lon kepeken nasin seme  
+zz ilo li wile sitelen e [sitelen nimi seme](/method/words.html)
+zz nasin namako sitelen seme li wile kepeken [sitelen+nasin seme](/method/features.html)  
+zz [nanpa ilo seme](/method/codepoints.html) li tawa sitelen seme  
 kulupu pali pi sitelen pona li alasa e pilin mute pi(sona ni^)  
-zz li wan e pilin ale li pana e pilin wan tawa lipu sona pi( nasin ilo)<br>  
-tenpo ni la pali pi(lipu sona) li ken e ni> zz kulupu pi(toki+pona) li ken kepeken sitelen+pona  
-tenpo kama la lipu sona o ken e ni> zz ilo ale a li ken kepeken sitelen+pona 
+zz li wan e pilin ale li pana e pilin wan tawa [lipu sona nasin](/common.html)  
+
+tenpo ni la pali pi(lipu nasin) li ken e ni> zz kulupu pi(toki+pona) li ken kepeken sitelen+pona ilo  
+tenpo kama la awen pi(lipu nasin) o ken e ni> zz ilo ale a li ken kepeken sitelen+pona a
 
 
 ma [kasi . nasin . taso .] la   
 zz <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/" hreflang="en">lipu li nasin e kulupu esun pi(wile mani ala)</a> li nasin e kulupu pali pi sitelen pona  
-sina wile lon kulupu la nanpa wan la kulupu o wile e sina  
+sina wile lon kulupu la nanpa wan la [kulupu](/members.html) o wile e sina  
 zz sina wile ala pana e mani
 sina wile kama lon kulupu la <a href="https://docs.google.com/forms/d/e/1FAIpQLScDf9cWNQqxCMI_rELpvw49C7XCAuGNzMMuDAXFlxZ6E270Kg/viewform">nasin toki pi(wile kama)</a> li lon 
 {% endsp %}
 
 {% sl %}
-pali ilo pi sitelen pona li wile e sona ni: ilo li wile sitelen e nimi seme, nanpa ilo seme li tawa sitelen seme, nasin namako seme o lon kepeken nasin seme.  kulupu pali pi sitelen pona li alasa e pilin mute pi sona ni li wan e pilin ale li pana e pilin wan tawa lipu sona pi nasin ilo. tenpo ni la pali pi lipu sona li ken e ni: kulupu pi toki pona li ken kepeken sitelen pona. tenpo kama la lipu sona o ken e ni: ilo ale a li ken kepeken sitelen pona. 
+pali ilo pi sitelen pona li wile e sona ni: ilo li wile sitelen e [sitelen nimi seme](/method/words.html), nasin sitelen namako seme o lon kepeken [sitelen nasin seme](/method/features.html), la [nanpa ilo seme](/method/codepoints.html) li tawa sitelen ni ale. kulupu pali pi sitelen pona li alasa e pilin mute pi sona ni li wan e pilin ale li pana e pilin wan tawa [lipu sona nasin](/common.html).  
 
-ma Kanata la <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/" hreflang="en">lipu li nasin e kulupu esun pi wile mani ala</a> li nasin e kulupu pali pi sitelen pona. sina wile lon kulupu la nanpa wan la kulupu o wile e sina. (sina wile ala pana e mani). sina wile kama lon kulupu la <a href="https://docs.google.com/forms/d/e/1FAIpQLScDf9cWNQqxCMI_rELpvw49C7XCAuGNzMMuDAXFlxZ6E270Kg/viewform">nasin toki pi wile kama</a> li lon.
+tenpo ni la pali pi lipu nasin li ken e ni: kulupu pi toki pona li ken kepeken sitelen pona ilo. tenpo kama la awen pi lipu nasin o ken e ni: ilo ale a li ken kepeken sitelen pona. 
+
+ma Kanata la <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/" hreflang="en">lipu li nasin e kulupu esun pi wile mani ala</a> li nasin e kulupu pali pi sitelen pona. sina wile lon kulupu la nanpa wan la [kulupu](/members.html) o wile e sina. (sina wile ala pana e mani). sina wile kama lon kulupu la <a href="https://docs.google.com/forms/d/e/1FAIpQLScDf9cWNQqxCMI_rELpvw49C7XCAuGNzMMuDAXFlxZ6E270Kg/viewform">nasin toki pi wile kama</a> li lon.
 {% endsl %}
 
 {% endsplit %}
