@@ -260,9 +260,9 @@ waso Keli tabled two votes within this algorithm. The majority preference of SP 
 
 
 
-waso [ken. lukin insa]   li pali e ilo pali e nasin pi(sitelen+pona ilo)  
-zz ilo pali pi(nasin sitelen) li kama lon sike pini nanpa tu  
-zz nasin sitelen te leko majuna to li kama lon sike pini nanpa tu tu 
+[waso [ken. lukin insa] ](/members.html#waso-keli)  li pali e ilo pali e nasin pi(sitelen+pona ilo)  
+zz [ilo pali pi(nasin sitelen)](https://wasokeli.github.io/sp-font-maker/) li kama lon sike pini nanpa tu  
+zz nasin sitelen te [leko majuna](https://kelseyhigham.github.io/leko-majuna/) to li kama lon sike pini nanpa tu tu 
 
 ilo pali ona pi(nasin sitelen) la waso [ken] li pali e ilo tawa ni  
 zz ona li ken kama lukin e nasin sitelen pi(luka ante mute) e ni     
@@ -273,26 +273,26 @@ zz zz li pali e nasin sitelen ilo tan sitelen luka jan
 tenpo kama la waso [ken] li lukin e lipu ale li nanpa e ni   
 zz jan li selo seme e sitelen
 
- alasa suli nanpa tu li alasa e sona pi(ijo ante) kepeken nasin pi(sama mute)  
- [PLACEHOLDER]  
-te leko majuna to la selo li sama nasin pi(ilo majuna) li tan  leko lili mute pi(suli sama)  
-waso [ken] li pali e ona tawa ni>zz  ona li toki+pona e musi ilo majuna  
-te leko majuna to li nasin sitelen ilo ni nanpa wan  
-zz sitelen te ni to li ken tawa poka te ni> to taso ala   
-zz zz li tawa sewi te ni^to taso ala   
-zz zz li ken tawa insa pi(ona tu) sama te ni^> to
+te leko majuna to la linja pi(selo sitelen)   
+zz li sama nasin pi(ilo majuna) li tan leko lili mute pi(suli sama)  
+waso [ken] li pali e ona tawa ni>zz  [ona li toki+pona e musi majuna](https://www.youtube.com/watch?v=LUzSWW40WC8)  
+te leko majuna to li nasin sitelen nanpa wan pi(nasin ni)  
+zz selo pi(sitelen nimi  te ni to)   
+zz zz li ken tawa poka te ni> to taso ala   
+zz zz li ken tawa sewi te ni^to taso ala   
+zz zz li ken tawa [insa pi(ona tu) sama te ni^> to](https://sona.pona.la/wiki/directional_ni)
 
 waso [ken. lukin insa] li pana e sona tu pi(sona tu tu tu)    
 zz jan li kepeken ilo pali pi(nasin sitelen) la nasin ona li sona wan  
 zz sona pilin pi(waso [ken] a) li sona wan kin
 {% endsp %}
 {% sl %}
-waso Keli li pali e nasin sin pi sitelen ilo e ilo pali. 
-'leko majuna' li kama lon sike #MAMT.  ilo pali pi nasin sitelen li kama lon sike #MAMTT.
+[waso Keli](/members.html#waso-keli) li pali e nasin sin pi sitelen ilo e ilo pali. 
+'[leko majuna](https://kelseyhigham.github.io/leko-majuna/)' li kama lon sike #MAMT.  [ilo pali pi nasin sitelen](https://wasokeli.github.io/sp-font-maker/) li kama lon sike #MAMTT.
 
 ilo pali ona pi nasin sitelen li seme? waso Keli li pali e ilo tawa ni: ona li ken kama lukin e nasin sitelen pi luka ante mute, e ni: selo pi sitelen nimi li kama ante lili seme lon sitelen luka. ilo la, jan li sitelen kepeken luka e nimi ale pi sitelen pona lon poki lili mute lon lipu, la ilo pi waso Keli li kama e sitelen nimi ale tan lipu li pali e nasin pi sitelen ilo tan sitelen luka jan. tenpo kama la waso Keli li lukin e lipu ni ale li nanpa e ni: jan li selo seme e sitelen.
 
-sitelen 'leko majuna' la, sitelen ale li tan leko lili mute pi suli sama, sama nasin pi ilo majuna. waso Keli li pali e ona tawa ni: ona li toki pona e musi ilo majuna. ona li nasin sitelen ilo ni nanpa wan: nimi 'ni' li ken tawa poka taso ala, tawa sewi taso ala, li ken tawa insa pi ni tu.
+nasin sitelen 'leko majuna' la, linja pi selo sitelen li tan leko lili mute pi suli sama, sama nasin pi ilo majuna. waso Keli li pali e ona tawa ni: [ona li toki pona e musi ilo majuna](https://www.youtube.com/watch?v=LUzSWW40WC8). ona li nasin sitelen nanpa wan pi nasin ni: selo sin pi sitelen nimi 'ni' li ken tawa poka taso ala, li ken tawa sewi taso ala, li ken [tawa insa pi ni tu](https://sona.pona.la/wiki/directional_ni) pi nasin sewi poka.
 
 waso Keli li pana e sona tu pi sona tu tu tu. jan li kepeken ilo pali pi nasin sitelen la nasin ona li sona wan. waso Keli a li sona wan ante.
 {% endsl %}
@@ -301,34 +301,37 @@ waso Keli li pana e sona tu pi sona tu tu tu. jan li kepeken ilo pali pi nasin s
 
 {% splith 3 %}
 {% en %}Handwriting Corpus{% enden %}
-{% sp %}jan mute li sitelen kepeken luka{% endsp %}
-{% sl %}jan mute li sitelen kepeken luka{% endsl %}
+{% sp %}sitelen+pona luka pi(jan mute){% endsp %}
+{% sl %}sitelen pona luka pi jan mute{% endsl %}
 {% endsplith %}
 
 {% split %}
 {% en %}
-[jan Majeka](/members.html#waso-keli) transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized.
+[jan Majeka](/members.html#majeka) transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized.
 
 The majority preference of submissions from this handwriting corpus held one vote within this algorithm. Where jan Majeka determined that no strong preference was evident, the corpus would not receive a vote.  
 {% enden %}
 
 {% sp %}
-jan+mute li sitelen+pona kepeken luka li pana e sitelen ni< tawa ilo  zz mute sitelen li sama luka tu ale  
-jan [meli+awenjan+eko+ale] li lukin e sitelen ni^ ale li lipu e ni ale  
+jan mute li sitelen+pona kepeken luka li pana e sitelen ni< tawa poki     
+mute sitelen pi(poki ni^) li sama luka tu ale  
+[jan [meli+awenjan+eko+ale]](/members.html#majeka) li lukin e sitelen ni^ ale li lipu e ni ale  
 zz jan li kepeken nasin seme pi(sitelen+pona)  
-zz jan li kepeken sitelen ante seme tawa nimi sama  
-ale la jan [meli+awen] li lukin e sitelen nimi mute a  
-zz mute pi(sitelen nimi) li suli tawa tu ale ale
+zz jan li kepeken selo ante seme tawa sitelen nimi sama  
+ale la jan [meli+awen] li pali suli li lukin e sitelen nimi mute a  
+zz zz mute pi(sitelen nimi) li suli tawa tu ale ale
 
-sitelen luka jan ale li sona wan pi(sona tu tu tu)  
-pilin pi(jan [meli+awenjan+eko+ale]) la   
-kulupu pi sitelen luka ale li jo ala e nasin wan wawa lon ijo wan  la   
-zz sitelen luka jan li pana ala e sona zz sona pini o tan sona tu tu wan ante
+sitelen+pona luka pi(jan mute) li sona wan pi(sona tu tu tu)  
+taso pilin pi(jan [meli+awenjan+eko+ale]) la   
+zz sitelen+pona luka mute li jo ala e nasin wan wawa pi(selo wan)   
+zz zz zz zz li ken ala kama e sona pona tawa selo ni^  la       
+zz zz sitelen+pona luka jan li kama ala pana e sona pi(selo ni^ sitelen)  
+alasa pi(selo nimi )la sona ante tu tu wan o kama e selo pini
 {% endsp %}
 {% sl %}
-jan mute li sitelen pona kepeken luka li pana e sitelen ni lon ilo. jan Majeka li lukin e sitelen ni 698, li lipu e ni ale: jan li kepeken nasin seme pi sitelen pona, li kepeken sitelen ante seme tawa nimi sama. ale la ona li lukin e sitelen nimi mute a la mute li suli tawa tu ale ale.
+jan mute li sitelen pona kepeken luka li pana e sitelen ni lon poki. [jan Majeka](/members.html#majeka) li lukin e sitelen ni LWAMMMMLLLTW, li lipu e ni ale: jan li kepeken nasin seme pi sitelen pona, li kepeken selo ante seme tawa sitelen nimi sama. ale la jan Majeka li lukin e sitelen nimi mute a la mute li suli tawa TAMMLLA.
 
-sitelen luka jan ale li sona wan pi sona tu tu tu. kulupu pi sitelen luka ale li jo ala e nasin wan wawa lon ijo wan, tawa pilin pi jan Majeka, la sitelen luka jan li pana ala e sona tawa wan pi sona tu tu tu.
+sitelen pona luka pi jan mute li sona wan pi sona tu tu tu. sitelen luka mute li jo ala e nasin wan wawa lon kepeken pi selo wan li ken ala kama e sona pona tawa selo ni, tawa pilin pi jan Majeka, la sitelen luka mute li pana ala e sona pi selo sitelen ni. sona ante tu tu wan o kama e selo pini.
 {% endsl %}
 {% endsplit %}
 
@@ -340,22 +343,23 @@ sitelen luka jan ale li sona wan pi sona tu tu tu. kulupu pi sitelen luka ale li
 
 {% split %}
 {% en %}
-Jump to [Word Characters](/common.html#wordglyphs), representative glyphs are given as examples.
+Jump to [word characters](/common.html#wordglyphs), where representative glyphs are given as examples.
 
 Or download the [raw results for representative glyphs](/content/common/representative-glyphs.txt).
 
 {% enden %}
 
 {% sp %}
-o lukin e [sitelen nimi](/common.html#wordglyphs)
+o lukin e selo ale lon poka pi([sitelen nimi](/common.html#wordglyphs))
 
-anu o lukin e sona nanpa taso lon ni>zz [nimi la sitelen seme li suli](/content/common/representative-glyphs.txt)
+ante la o lukin e sona selo taso lon ni  
+zz  [sitelen nimi la selo sitelen seme li suli](/content/common/representative-glyphs.txt)
 
 {% endsp %}
 {% sl %}
-o lukin e [sitelen nimi](/common.html#wordglyphs)
+o lukin e selo ale lon poka pi [sitelen nimi](/common.html#wordglyphs).
 
-anu o lukin e sona nanpa taso: [nimi la sitelen seme li suli](/content/common/representative-glyphs.txt).
+ante la, o lukin e sona selo taso: [sitelen nimi la selo sitelen seme li suli](/content/common/representative-glyphs.txt).
 {% endsl %}
 {% endsplit %}
 
