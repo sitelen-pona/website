@@ -4,13 +4,13 @@ import markdownItAttrs from 'markdown-it-attrs';
 import YAML from "yaml";
 
 export default async function (eleventyConfig) {
-	eleventyConfig.addGlobalData("baseUrl", "https://muteante.github.io/sitelenpona");
+    eleventyConfig.addGlobalData("baseUrl", "https://muteante.github.io/sitelenpona");
 
 
     eleventyConfig.addPassthroughCopy("_includes/assets/");
     eleventyConfig.addPassthroughCopy("assets/");
     eleventyConfig.addPassthroughCopy("scripts/");
-	eleventyConfig.addPassthroughCopy("content/common/");
+    eleventyConfig.addPassthroughCopy("content/common/");
     eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.amendLibrary("md", (md) => {
         md.use(markdownItAttrs);
@@ -33,7 +33,7 @@ export default async function (eleventyConfig) {
         });
     });
 
-	eleventyConfig.addFilter("svg_alt_data", function(alt) { return { "alt": alt} });
+    eleventyConfig.addFilter("svg_alt_data", function(alt) { return { "alt": alt} });
     eleventyConfig.addFilter("nnp", async function (nanpa) {
         var nanpas = parseInt(nanpa.toString().split(".")[0]);
         var sulinanpa = Math.floor((nanpas.toString().length - 1) / 2);
@@ -54,12 +54,12 @@ export default async function (eleventyConfig) {
     });
 
     eleventyConfig.addCollection("sorted_method", function (collectionsApi) {
-		let unsorted =  collectionsApi.getFilteredByTag("method");
+        let unsorted =  collectionsApi.getFilteredByTag("method");
         let sorted = unsorted.sort((a, b) => {
             if (a.data.index < b.data.index) return -1; else return 1;
         })
         return sorted; 
-	});
+    });
     eleventyConfig.addPlugin(RenderPlugin);
 
     eleventyConfig.addPairedShortcode("en", (insa) => insa.startsWith('\n') ? `::: attr {lang=en}\n${insa}\n:::` : `<span lang="en">${insa}</span>`);
@@ -68,7 +68,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPairedShortcode("split", (insa) => `<span class="split">\n${insa}\n</span>`);
     eleventyConfig.addPairedShortcode("splith", (insa, suli = 2) => `<h${suli} class="split">${insa}</h${suli}>`);
 
-	eleventyConfig.addDataExtension("yaml", (contents) => YAML.parse(contents));
+    eleventyConfig.addDataExtension("yaml", (contents) => YAML.parse(contents));
 
     eleventyConfig.addPlugin(IdAttributePlugin);
 };
