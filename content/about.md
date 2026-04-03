@@ -41,7 +41,7 @@ cover_image: false
     te kulupu pali pi sitelen pona to li kulupu sona pi(sitelen+pona)   
     ijo ale pi(kulupu ni) li sona wawa e sitelen+pona li pali lon<a href="sitelen-pona.html">sitelen+pona</a> kepeken nasin ante
 
-    [mi pi(kulupu ni)]((/members.html))   
+    [mi pi(kulupu ni)](/members.html)   
     zz li ken pali e ilo nanpa wawa li ken pana e sona pi(nasin pona) tawa kulupu   
     zz li ken pali musi li ken pana e lipu toki    
     zz li ken pali e nasin sin pi(sitelen  sin) li ken ijo ante kin
@@ -55,7 +55,7 @@ cover_image: false
 {% sl %}
   kulupu pali pi sitelen pona li kulupu sona pi sitelen pona. ijo ale pi kulupu ni li sona wawa e sitelen pona li pali pi <a href="sitelen-pona.html">sitelen pona</a> kepeken nasin ante.
 
-[mi pi kulupu ni]((/members.html)) li ken pali e ilo nanpa wawa, li ken pana e sona pi nasin pona tawa kulupu, li ken pali musi, li ken pana e lipu toki, li ken pali e nasin sin pi sitelen ilo, li ken ijo ante kin!
+[mi pi kulupu ni](/members.html) li ken pali e ilo nanpa wawa, li ken pana e sona pi nasin pona tawa kulupu, li ken pali musi, li ken pana e lipu toki, li ken pali e nasin sin pi sitelen ilo, li ken ijo ante kin!
 
 ni la,  kulupu li sama ilo pi sona mute. kepeken ilo ni la nasin pi sitelen pona o kama wawa o kama suli lon [kulupu pi toki pona](https://sona.pona.la/wiki/Toki_Pona), o kama ken lon kulupu pi toki pona ala.
 {% endsl %}
