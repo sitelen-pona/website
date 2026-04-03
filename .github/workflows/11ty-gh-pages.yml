@@ -34,7 +34,7 @@ jobs:
       - name: Build with 11ty
         run: |
           npm install
-          npx @11ty/eleventy --pathprefix=sitelenpona
+          npx @11ty/eleventy
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
