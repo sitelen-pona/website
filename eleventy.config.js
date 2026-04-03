@@ -4,7 +4,7 @@ import markdownItAttrs from 'markdown-it-attrs';
 import YAML from "yaml";
 
 export default async function (eleventyConfig) {
-    eleventyConfig.addGlobalData("baseUrl", "https://muteante.github.io/sitelenpona");
+    eleventyConfig.addGlobalData("baseUrl", "https://sitelenpona.net");
 
 
     eleventyConfig.addPassthroughCopy("_includes/assets/");
