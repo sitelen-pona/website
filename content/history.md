@@ -59,40 +59,44 @@ cover_image: true
 {% en %}
 Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic lockdowns and resources for Sitelen Pona grew exponentially. Prior to 2020, there were [only a few Sitelen Pona fonts in use](https://sona.pona.la/wiki/History_of_sitelen_pona); in the period since, [a large amount of Sitelen Pona fonts](https://linku.la/fonts) have been released. As early as 2021, the need for community-wide coordination of encoding was apparent.
 
-Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in Unicode began to percolate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry (UCSUR). A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, that encoding came to see unanimous adoption by major Sitelen Pona fonts.
+Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in [Unicode](https://www.unicode.org/standard/standard.html) began to percolate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry (UCSUR). A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, that encoding came to see unanimous adoption by major Sitelen Pona fonts.
 
 With UCSUR, tech-savvy members of the Toki Pona community are able to modify their messaging clients and fully chat in [online spaces](https://discord.gg/mapona) using Sitelen Pona. However, for members who are not so technically-oriented, the [provisational and hacky measures](https://sona.pona.la/wiki/Under-ConScript_Unicode_Registry#Rendering_support) required to use UCSUR in various platforms are rather inaccessible. As Sitelen Pona usage came to be normalized in such spaces, the more obvious it became that a robust solution needed to be pursued.
 {% enden %}
 
 {% sp %}
 kulupu pi(toki+pona) li kama suli lon tenpo pi(jaki [ko: wile.])  
-tenpo pini la ilo li ken sitelen+pona kepeken [nasin sitelen pi(mute lili taso)](https://sona.pona.la/wiki/History_of_sitelen_pona)  
-taso tenpo ni la [nasin sitelen ilo mute mute mute a pi(sitelen+pona)](https://linku.la/fonts) li lon  
-nasin sitelen ante li sitelen e nimi kepeken nanpa ante ilo la  
+tenpo pini la jan li wile sitelen+pona kepeken ilo la    
+zz [nasin pi(sitelen+pona ilo)](https://sona.pona.la/wiki/History_of_sitelen_pona)  li mute ala a  
+taso tenpo ni la [nasin mute mute mute mute mute mutemute mute a](https://linku.la/fonts) li lon  
+nasin ante pi(sitelen+pona ilo) li pana e sitelen nimi sama tawa nanpa ilo ante  la  
 zz kulupu li pilin e wile ni> zz nasin ale o sama o wan o pona  
 
-ilo ale li ken sitelen e nimi kepeken nanpa pi(nasin [jan uta ni:ko:])  
-mi ken ala ken lukin pana e sitelen+pona tawa nasin [jan] a  
+
+ilo ale li sitelen e toki kepeken [nasin [jan uta ni:ko:]](https://www.unicode.org/standard/standard.html)  
+nasin [jan] li ken wan e nasin nanpa ale pi(sitelen+pona ilo)  
+zz li ken pana e ken pi(sitelen+pona) tawa ilo ale   
+n zz mi ken ala ken lukin pana e sitelen+pona tawa nasin [jan] a  
 kulupu pi(toki+pona) [li kama pana e toki+pona tawa nasin [insa sona.]](https://iso639-3.sil.org/code/tok) la   
-zz ni^> li suli lili pilin e ken kama pi(nasin [jan])  
-taso nasin [jan] li wile e tenpo  
-nasin [jaki uta sijelo. sama.] li pali sama nasin [jan] li ken kama lon tenpo lili  
-[kulupu li pana e sitelen+pona tawa nasin [jaki]](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) li [awen pali](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) la [sitelen+pona li kama lon ona a](https://www.kreativekorp.com/ucsur/charts/sitelen.html)  
+zz ni^ li suli lili pilin e ken kama pi(nasin [jan])  
+taso nasin [jan] li wile e tenpo zz nasin jaki pi(tenpo lili) li lon  
+nasin [jaki uta sijelo. sama.] li sama nasin [jan] pi(lawa ala)  
+[kulupu li pana e sitelen+pona tawa nasin [jaki]](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) la [sitelen+pona li kama lon ona a](https://www.kreativekorp.com/ucsur/charts/sitelen.html)  
 tenpo ni la nasin pi(sitelen+pona) li nasin sama lon nanpa ilo pi(sitelen nimi)  
 
 
-nasin [jaki] li lon la jan pi(sona ilo wawa) li kama ken kama lukin e sitelen+pona  
-zz [lon ilo [sina. ko:]](https://discord.gg/mapona) kepeken nasin ni>   
-zz [jan li ante nasa e ilo [sina] pi( ilo ona)](https://sona.pona.la/wiki/Under-ConScript_Unicode_Registry#Rendering_support)  
-taso jan mute li sona mute ala e ilo li ken ala pali nasa ni^la   
-zz ona li lukin ala e sitelen pona li lukin e sitelen leko pakala taso  
+nasin [jaki] li lon la jan pi(sona ilo wawa)   
+zz li kama ken kama lukin e sitelen+pona  [lon ilo [sina. ko:]](https://discord.gg/mapona)    
+nasin li ni>   zz [jan li ante nasa e ilo [sina] pi( ilo ona)](https://sona.pona.la/wiki/Under-ConScript_Unicode_Registry#Rendering_support)    
+taso jan mute li sona mute ala e ilo li ken ala pali nasa ni^   
+zz zz zz  li lukin ala e sitelen+pona li lukin e sitelen leko pakala taso  
 nasin [jaki] li wan e nasin li tu e kulupu  
 nasin [jan] taso li ken wan e nasin e kulupu kin
 {% endsp %}
 {% sl %}
-kulupu pi toki pona li kama suli lon tenpo pi jaki Kowi. tenpo pini la, jan li ken sitelen pona lon ilo kepeken [nasin sitelen pi mute lili taso](https://sona.pona.la/wiki/History_of_sitelen_pona). taso tenpo ni la, [nasin sitelen ilo mute mute mute a pi sitelen pona](https://linku.la/fonts) li lon. nasin sitelen ante li sitelen e nimi kepeken nanpa ante ilo la kulupu li pilin e wile ni: nasin ale o sama o wan o pona. 
+kulupu pi toki pona li kama suli lon tenpo pi jaki Kowi. tenpo pini la, jan li wile sitelen pona kepeken ilo la [nasin pi sitelen pona ilo](https://sona.pona.la/wiki/History_of_sitelen_pona) li mute ala. taso tenpo ni la, [nasin sin mute mute mute a ](https://linku.la/fonts) li lon. nasin ante pi sitelen pona ilo li pana e sitelen nimi sama tawa nanpa ilo ante la kulupu li pilin e wile ni: nasin sitelen ale o sama o wan o pona. 
 
-ilo ale li ken sitelen e nimi kepeken nanpa pi nasin Juniko. mi ken ala ken lukin pana e sitelen pona tawa nasin Juniko a? kulupu pi toki pona [li kama pana e toki pona tawa nasin Iso](https://iso639-3.sil.org/code/tok) la ni li suli lili pilin e ken kama pi nasin Juniko. taso nasin Juniko li wile e tenpo. nasin Jusisa li pali sama nasin Juniko li ken kama lon tenpo lili. [kulupu li pana e sitelen pona tawa nasin Jusisa](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) li [awen pali](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) la [sitelen pona li kama lon nasin Jusisa a](https://www.kreativekorp.com/ucsur/charts/sitelen.html). tenpo ni la, nasin pi sitelen pona li nasin sama lon nanpa ilo pi sitelen nimi. 
+ilo ale li ken sitelen e toki kepeken nanpa pi [nasin Juniko](https://www.unicode.org/standard/standard.html). nasin Juniko li ken wan e nasin nanpa ale pi sitelen pona ilo li ken pana e ona tawa ilo ale. mi ken ala ken lukin pana e sitelen pona tawa nasin Juniko a? kulupu pi toki pona [li kama pana e toki pona tawa nasin Iso](https://iso639-3.sil.org/code/tok) la ni li suli lili pilin e ken kama pi nasin Juniko. taso nasin Juniko li wile e tenpo. nasin jaki pi tenpo lili li lon: nasin Jusisa li pali sama nasin Juniko kepeken lawa lon ala. [kulupu li pana e sitelen pona tawa nasin Jusisa](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit)  la [sitelen pona li kama lon nasin Jusisa a](https://www.kreativekorp.com/ucsur/charts/sitelen.html). tenpo ni la, nasin pi sitelen pona li nasin sama lon nanpa ilo pi sitelen nimi. 
 
 nasin Jusisa li lon la jan pi sona ilo wawa li kama ken kama lukin e sitelen pona [lon ilo Siko](https://discord.gg/mapona) kepeken nasin ni: [jan li ante nasa e ilo Siko pi ilo ona](https://sona.pona.la/wiki/Under-ConScript_Unicode_Registry#Rendering_support). taso jan mute li sona mute ala e ilo li ken ala pali nasa ni, la ona li lukin ala e sitelen pona li lukin e sitelen leko pakala taso. nasin Jusisa li wan e nasin li tu e kulupu. kepeken nasin Juniko taso la kulupu li ken wan pona sin. 
 {% endsl %}
@@ -103,8 +107,8 @@ nasin Jusisa li lon la jan pi sona ilo wawa li kama ken kama lukin e sitelen pon
 <span class="year-marker"><span lang="en">Early 2024</span><span class="sp">open pi tenpo sike pini nanpa tu</span><span class="sl">open pi sike #MAMTT</span></span> 
     {% en %}  Working Group Forms
 {% enden %}
-    {% sp %}kulupu lili pali li open{% endsp %}
-    {% sl %}kulupu lili pali li open{% endsl %}
+    {% sp %}kulupu pali lili li open{% endsp %}
+    {% sl %}kulupu pali lili li open{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -124,50 +128,55 @@ The working group set about making the tools required to pursue this new directi
 {% enden %}
 
 {% sp %}
-lipu wile pi(nasin [jan uta ni: ko:]) la pali kulupu pi sitelenpona li kama wawa  
-zz lon tenpo sike pini nanpa tu
+lipu wile pi(nasin [jan uta ni: ko:]) la   
+zz pali kulupu pi(sitelen+pona) li kama wawa lon tenpo sike pini nanpa tu
 
-open pi tenpo sike la jan mute li kama lon kulupu lili pali  
-kulupu ni li alasa e sona li toki mute e nasin li kama e sona tan kulupu suli pi(toki+pona)  
-tenpo mun tu tu li kama li weka la   
-zz kulupu li pana e [lipu  wile pi(pini ala)](https://www.unicode.org/L2/L2024/24275-encode-sitelen-pona.pdf)  tawa kulupu pi(nasin [jan]) 
+open pi tenpo sike la jan mute li kama lon kulupu pali lili   
+kulupu ni^ li alasa e sona li toki mute e nasin  
+zz zz li kama e sona tan kulupu suli pi(toki+pona)  
+pini pi(tenpo mun tu tu)  la   kulupu li pana e [lipu  wile pi(pini ala)](https://www.unicode.org/L2/L2024/24275-encode-sitelen-pona.pdf)  
+|tawa kulupu pi(nasin [jan uta ni: ko:]) 
 
 lipu wile pi(pini ala) li toki wawa pi(sona mute) e ni  
 zz kulupu pi(toki+pona) li kepeken sitelen+pona lon tenpo mute  
 taso lipu wile pi(pini ala) li toki ala a e ni  
 zz sitelen seme pi(sitelen+pona) o lon nasin [jan]  
-kulupu lili pali li pilin e ni> zz alasa sona li pini ala 
+kulupu pali lili li pilin e ni> zz alasa sona li pini ala 
 
-nimi seme li lon toki+pona  zz lipu Linku la sona ni< li kama tan toki nasin  
-jan pi(toki+pona) li toki e nasin ona tawa lipu Linku  
-taso sona pi(toki+pona) li kama tan toki nasin taso li kama tan toki+pona ala la pona ale ala a  
-kulupu lili pali li pilin e ni> zz pali pi(nasin [jan]) li wile e sona pi(pona ale  )
-ni^> la sona pi(toki+pona) o kama tan toki nasin taso ala o kama tan toki+pona kin
+nimi seme li lon toki+pona  zz lipu Linku la sona ni< li kama tan pilin jan  
+jan pi(toki+pona) li [toki pilin e nasin ona tawa lipu Linku  lon tenpo sike ale](https://linku.la/about?q=)  
+taso sona pi(toki+pona) li kama tan pilin taso li kama tan toki+pona ala la   
+zz ni^ li nasin pi(pona ale ala a)  
+kulupu pali lili li pilin e ni  
+zz pali pi(nasin [jan]) la mi o kepeken nasin alasa pi(pona ale ken)  
+ni^ la sona pi(toki+pona) o kama tan pilin taso ala o kama tan toki+pona kin
 
-sitelen seme li lon sitelen+pona zz alasa sona ni< li sama alasa ante pi(sona nimi)  
-open la kulupu lili pali li kama e ni> zz jan li toki e nasin ona pi(sitelen+pona)  
-taso ni^> li pona wawa ala  zz sona pi(sitelen+pona) o kama tan sitelen+pona kin  
-nasin pona la kulupu lili pali o pali e ilo sona sin pi(nasin ni)  
-zz ilo li moku e toki+pona mute e sitelen+pona mute li pali nanpa e sona kepeken moku ni<  
-sona pona la toki+nasin pi lipu Linku en sona nanpa pi(ilo sin)  
-zz zz zz li ken kama e sona wan pi pona wawa a  
+sitelen seme li seme lukin zz alasa sona ni< li sama alasa ante pi(sona nimi)    
+open la kulupu pali lili li wile kute mute e ni  
+zz  jan li toki e nasin ona pi(sitelen+pona)  zz taso ni< li pona ale ala  
+a zz sona pi(sitelen+pona) o kama tan pilin taso ala o kama tan sitelen+pona kin  
+nasin pona la kulupu pali lili o pali e ilo sona sin pi(nasin ni)  
+ zz ilo li moku e toki+pona mute e sitelen+pona mute   
+ zzzz  li pali nanpa e sona kepeken moku ni^  
+nasin sona pona la sona pilin pi(lipu Linku) en sona nanpa pi(ilo sin)  
+zz zz zz o ken kama e sona wan pi(pona wawa a)  
 
 
-ni^ la kulupu lili pali li open e pali pi(ilo sin)
+ni^ la kulupu pali lili li open e pali pi(ilo sin mute)
 {% endsp %}
 
 {% sl %}
-lipu wile pi nasin Juniko la pali kulupu pi sitelen pona li kama wawa lon tenpo sike  #MAMTT.
+lipu wile pi nasin Juniko la pali kulupu pi sitelen pona li kama wawa lon tenpo sike #MAMTT.
 
-open pi tenpo sike la jan mute li kama lon kulupu lili pali. kulupu ni li alasa e sona li toki mute e nasin li kama e sona tan kulupu suli pi toki pona. tenpo mun tu tu li kama li weka la kulupu li pana e [lipu  wile pi pini ala tawa kulupu pi nasin Juniko](https://www.unicode.org/L2/L2024/24275-encode-sitelen-pona.pdf).  
+open pi tenpo sike la jan mute li kama lon kulupu pali lili. kulupu ni li alasa e sona li toki mute e nasin li kama e sona tan kulupu suli pi toki pona. tenpo mun tu tu li kama li weka la kulupu li pana e [lipu wile pi pini ala tawa kulupu pi nasin Juniko](https://www.unicode.org/L2/L2024/24275-encode-sitelen-pona.pdf).  
 
-lipu wile ni pi pini ala li toki wawa pi sona mute e ni: kulupu pi toki pona li kepeken sitelen pona lon tenpo mute. taso lipu wile ni pi pini ala li toki ala a e ni: sitelen seme pi sitelen pona o lon nasin Juniko. kulupu lili pali li pilin e ni: alasa sona li pini ala. 
+lipu wile ni pi pini ala li toki wawa pi sona mute e ni: kulupu pi toki pona li kepeken sitelen pona lon tenpo mute. taso lipu wile ni pi pini ala li toki ala a e ni: sitelen seme pi sitelen pona o lon nasin Juniko. kulupu pali lili li pilin e ni: alasa sona li pini ala. 
 
-nimi seme li lon toki pona? lipu Linku la sona ni li kama tan toki nasin. [jan pi toki pona li toki e nasin ona tawa lipu Linku](https://linku.la/about?q=). taso sona pi toki pona li kama tan toki nasin taso li kama tan toki pona a ala la ni li pona ale ala. kulupu lili pali li pilin e ni: pali pi nasin Juniko li wile e sona pi pona wawa a. ni la sona pi toki pona o tan toki nasin taso ala o tan toki pona kin.
+nimi seme li lon toki pona? lipu Linku la sona ni li kama tan pilin jan. tenpo sike ale la [jan pi toki pona li toki pilin e nasin ona tawa lipu Linku](https://linku.la/about?q=). taso sona pi toki pona li kama tan pilin taso li kama tan toki pona a ala la ni li pona ale ala. kulupu pali lili li pilin e ni: pali pi nasin Juniko li wile e sona pi pona ale ken. ni la sona pi toki pona o tan toki nasin taso ala o tan toki pona kin.
 
-sitelen seme li lon sitelen pona? alasa sona ni li sama alasa ante pi sona nimi. open la kulupu lili pali li kama e ni: jan li toki e nasin ona pi sitelen pona. taso ni li pona wawa ala. sona pi sitelen pona o kama tan sitelen pona kin. nasin pona la kulupu lili pali o pali e ilo sona sin pi nasin ni: ona li moku e toki pona mute e sitelen pona mute li pali nanpa e sona kepeken moku ni. sona pona la toki nasin pi lipu Linku en sona nanpa pi ilo sin li ken kama e sona wan pi pona wawa a. 
+sitelen pona li seme lukin? alasa sona ni li satma alasa ante pi sona nimi. open la kulupu pali lili li wile kute mute e ni: jan li toki pilin e nasin ona pi sitelen pona. taso ni li pona ale ala. a, sona pi sitelen pona o kama tan sitelen pona kin! nasin pona la kulupu pali lili o pali e ilo sona sin pi nasin ni: ona li moku e toki pona mute e sitelen pona mute li pali nanpa e sona kepeken moku ni. nasin sona pona la sona pilin pi lipu Linku en sona nanpa pi ilo sin o ken kama e sona wan pi pona suli. 
 
-ni la kulupu lili pali li open e pali pi ilo sin. 
+ni la kulupu pali lili li open e pali pi ilo sin mute. 
 {% endsl %} 
 
 {% endsplit %}
@@ -177,8 +186,8 @@ ni la kulupu lili pali li open e pali pi ilo sin.
 <span class="year-marker"><span lang="en">Late 2024</span><span class="sp">pini pi tenpo sike pini nanpa tu</span><span class="sl">pini pi sike #MAMTT</span></span> 
     {% en %} Gathering Data 
 {% enden %}
-    {% sp %}o suli e poki sona pi nasin toki kulupu{% endsp %}
-        {% sl %}o pali e poki sona{% endsl %}
+    {% sp %}kulupu pali lili  li pali sona{% endsp %}
+        {% sl %}kulupu li pali sona{% endsl %}
 
 {% endsplith %}
 
@@ -186,7 +195,7 @@ ni la kulupu lili pali li open e pali pi ilo sin.
 {% en %}
 In the latter half of 2024, members of the working group had their priorities set on creating new tools and gathering usage data. 
 
-In August, [mun Kekan San](/members.html#gregory-danielson-iii) published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer. Owing to [extensive web-scraping efforts](https://ilo.muni.la/about/#where-is-the-data-from), ilo Muni provides robust data on word usage in Toki Pona from 2016 onwards. 
+In August, [mun Kekan San](/members.html#gregory-danielson-iii) published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer. Owing to [extensive web-scraping efforts](https://ilo.muni.la/about/#paliwhere-is-the-data-from), ilo Muni provides robust data on word usage in Toki Pona by drawing on a new filtered corpus with major sources from 2016 onwards. 
 
 Usage data for Sitelen Pona glyph variants was pursued in three ways. At the font level, [jan Ke Tami](/members.html#ret-samys) created a [new annotated database of all Sitelen Pona fonts](https://antetokipona.infinityfreeapp.com/font/?i=1). At the text level, several working group members gathered and annotated a new corpus of Sitelen Pona handwriting examples. Finally, [waso Keli](/members.html#waso-keli) created and published [SP Font Maker](https://wasokeli.github.io/sp-font-maker/). This tool allows anyone to create and upload their own handwriting samples to create a Sitelen Pona font, and also serves as a database where individual preferences for Sitelen Pona glyphs can be batched and analyzed.
 
@@ -196,48 +205,57 @@ After much groundwork had been laid, the group was ready to draft [Common Sitele
 {% enden %}
 
 {% sp %}
-nasin mute la kulupu lili pali  li pali e ilo   
-zz li kama e sona pi(toki+pona) tan toki+pona li kama e sona pi(sitelen+pona) tan sitelen+pona
+ kulupu pali lili li wile ken kama sona e toki+pona tan toki+pona e sitelen+pona tan sitelen+pona  
+ ni^ la kulupu li pali e poki suli pi(toki+pona) e poki suli pi(sitelen+pona) 
 
-lon suno pi+toki+pona la mun [ken . kalama . nasa][mute:] li pana e pali ona  
-zz [ilo [mute.nimi.]](https://ilo.muni.la/) li kama e sona nanpa pi(nasin nimi) kepeken [poki suli pi(toki+pona)](https://ilo.muni.la/about/#where-is-the-data-from)  
-zz tawa poki ni^> la mun [ken . kalama . nasa][mute:] li kepeken ilo wawa   
-zz zz li lukin e toki ale lon kulupu toki mute pi(toki+pona)    
-zz zz li weka e toki [insa.li:] e toki ante li awen e toki+pona taso  
+poki sona suli pi toki pona la pali li ni>  zz lon suno pi+toki+pona la   
+zz [mun [ken . kalama . nasa][mute:]](/members.html#gregory-danielson-iii) li pana e pali ona  
+zz [ilo [mute.nimi.]](https://ilo.muni.la/) li jo e [poki suli pi(toki+pona)](https://ilo.muni.la/about/#where-is-the-data-from)   
+zz li ken kama e sona nanpa pi nasin nimi kepeken ona   
+zz poki ni^ la mun [ken . kalama . nasa][mute:]   
+zz zz li kepeken ilo wawa li lukin e toki ale tan kulupu toki+pona mute      
+zz zz li weka e toki [insa.li:] e toki ante   
+zz zz li awen e toki+pona taso kepeken nasin sin pi(sona toki)  
 zz ilo [mute. nimi.] li ken sona pona e nasin toki kulupu   
 zz zz tan open pi(tenpo sike nanpa mute ale luka luka luka wan)
 
 poki suli sona pi(sitelen+pona) li poki tu wan   
-poki nanpa wan la jan [ken .][taso .mi:] li [poki sona](https://antetokipona.infinityfreeapp.com/font/?i=1)   
-zz e nasin ale ni> zz ilo li ken sitelen+pona kepeken ona   
-poki nanpa tu la jan [meli+awenjan+eko+ale] li lukin e sitelen mute pi(sitelen+pona luka)  
-poki nanpa mute la waso [ken. lukin insa] li pali e ilo sin ni  
-zz jan li sitelen+pona luka la [ilo li pali e nasin sin pi(sitelen+pona ilo) tan  sitelen+pona luka](https://wasokeli.github.io/sp-font-maker/)  
-zz ilo pali sin pi(waso [ken] )li ilo pali taso ala li ilo sona kin   
-zz zz  poki ona la nimi wan li ken lukin e nasin sitelen ale pi(luka jan ante mute) 
+ nanpa wan la [jan [ken .][taso .mi:]](/members.html#ret-samys) li [poki sona](https://antetokipona.infinityfreeapp.com/font/?i=1)   
+|||| |e nasin ale ni> zz ilo li ken sitelen+pona kepeken ona   
+nanpa tu la [jan [meli+awenjan+eko+ale]](/members.html#majeka) li lukin e sitelen mute pi(sitelen+pona luka)  
+|||| li sitelen ilo e sitelen luka ale li poki sona e ni<  
+nanpa mute la [waso [ken. lukin insa]](/members.html#waso-keli) li pali e ilo pali sin ni  
+zz jan li sitelen+pona luka e sitelen nimi ale li pana e sitelen tawa ilo la  
+zz zz [ilo li kama pali e nasin sin pi(sitelen+pona ilo) tan  sitelen+pona luka](https://wasokeli.github.io/sp-font-maker/) ona   
+zz ilo pali sin pi(waso [ken] )li ilo pali taso ala li ilo sona      
+zz ilo li sona e selo ale pi(sitelen nimi) tan nasin pi(jan ante mute)  
 
-lawa la jan li pali e musi la ona taso li ken kepeken musi ni<  
+
+lawa ma la jan li pali e musi la ona taso li ken kepeken musi ni<  
 jan wan taso ala li pali e sitelen+pona zz jan ante li pali e sitelen ante  
-kulupu lili pali li alasa e jan ante mute ni^> li toki tawa ona e ni  
+kulupu pali lili li alasa e jan ante mute ni^ li toki tawa ona e ni  
 te o kama ala awen lawa ale e ken pali pi(sitelen+pona sina)   
-zz o pana lawa kepeken nasin ni> zz [ale kulupu li ken kepeken sitelen sina pi(sitelen+pona) ](https://creativecommons.org/public-domain/cc0/) to
+zz o pana lawa kepeken nasin ni> zz [ale kulupu li ken kepeken sitelen sina ](https://creativecommons.org/public-domain/cc0/) to
 
-tenpo ni< la kulupu lili pali li jo e ilo ale wile zz pali pi(sitelen+pona kulupu) o open  
-anpa-sewi li pali e [nasin alasa pi(sitelen+pona kulupu)](/method.html) zz nasin alasa li kama e sona ni  
-zz kulupu la sitelen nimi seme en sitelen+nasin seme li suli kepeken  
-sona ni^ o kama tan pali ante ale pi(tenpo sike pini)   
-nasin alasa pi(anpa-sewi) la  sona ale pi(kulupu lili pali) o wan o mama e sitelen+pona kulupu
+tenpo ni< la kulupu pali lili li jo e ilo ale wile tawa ni  la  
+zz ona li ken open a e pali pi(sitelen+pona kulupu)  
+[anpa-sewi](/members.html#mrs-lang) li pali e [nasin alasa pi(sitelen+pona kulupu)](/method.html) zz nasin li alasa e sona ni  
+zz kulupu la [sitelen nimi](/method/words.html) seme en [sitelen+nasin](/method/features.html) seme en [selo sitelen seme](/method/glyphs.html) li [suli kepeken](/method/tiers.html)  
+zz sona ni^ o kama tan pali ante ale pi(tenpo sike pini)   
+nasin alasa pi(anpa-sewi) la  sona ale pi(kulupu pali lili) en pali pi(mi kulupu)   
+||||| o toki o wan o mama e [lipu pi(sitelen+pona kulupu)](/common.html)
 {% endsp %}
 {% sl %}
-nasin mute la kulupu li pali e ilo li kama e sona pi toki pona tan toki pona li kama e sona pi sitelen pona tan sitelen pona. 
+ kulupu pali lili li wile ken kama sona e toki pona tan toki pona e sitelen pona tan sitelen pona. ni la kulupu li pali e poki suli pi toki pona e poki suli pi sitelen pona. 
 
-lon suno pi toki pona la mun Kekan San li pana e pali sin ni: [ilo nimi Muni pi mute nimi](https://ilo.muni.la/) li kama e sona nanpa pi nasin nimi kepeken [poki suli pi toki pona](https://ilo.muni.la/about/#where-is-the-data-from). poki ni la mun Kekan San li lukin e toki ale pi kulupu toki mute pi toki pona kepeken ilo li weka e toki Inli e toki ante ale li awen e toki pona taso. ilo Muni li ken sona pona e nasin toki kulupu tan open pi tenpo sike #MALLLW. 
+poki sona suli pi toki pona la pali li ni: lon suno pi toki pona la [mun Kekan San](/members.html#gregory-danielson-iii) li pana e pali sin ni: [ilo nimi Muni pi mute nimi](https://ilo.muni.la/) li kama e sona nanpa pi nasin nimi kepeken [poki suli pi toki pona](https://ilo.muni.la/about/#where-is-the-data-from). poki ni la mun Kekan San li lukin e toki ale pi kulupu toki mute pi toki pona kepeken ilo li weka e toki Inli e toki ante ale li awen e toki pona taso kepeken nasin sin pi sona toki. ilo Muni li ken sona pona e nasin toki kulupu tan open pi tenpo sike #MALLLW. 
 
-poki sona suli pi sitelen pona li tu wan. jan Ke Tami li lukin e nasin ale ni: ilo li ken sitelen pona. jan Majeka li lukin e sitelen ale ni: jan li sitelen pona kepeken luka. waso Keli li pali e ilo sin ni: [jan li sitelen pona kepeken luka li pana tawa ilo la ilo li pali e nasin sin pi sitelen pona ilo kepeken sitelen pona luka.](https://wasokeli.github.io/sp-font-maker/) ilo pali sin pi waso Keli li ilo sona kin lon nasin ni: ona la waso Keli li ken alasa e nimi wan li ken lukin e nasin sitelen ale pi jan ante mute tawa nimi wan ni. 
+poki sona suli pi sitelen pona la pali li tu wan. nanpa wan la, [jan Ke Tami](/members.html#ret-samys) li [poki sona](https://antetokipona.infinityfreeapp.com/font/?i=1) e nasin ale ni: ilo li ken sitelen pona. nanpa tu la, [jan Majeka](/members.html) li lukin e sitelen ale ni: jan li sitelen pona kepeken luka. nanpa tu wan la, waso Keli li pali e ilo sin ni: jan li sitelen pona e sitelen nimi ale kepeken luka li pana tawa ilo la [ilo li pali e nasin sin pi sitelen pona ilo kepeken sitelen pona luka.](https://wasokeli.github.io/sp-font-maker/) ilo pali sin pi waso Keli li ilo sona kin lon nasin ni: ona la waso Keli li ken alasa e sitelen nimi wan li ken lukin e selo sitelen ale pi jan ante mute tawa sitelen nimi wan ni. 
 
-lawa la jan li pali e musi la ona taso li ken kepeken musi ni. jan wan taso ala li pali e sitelen pona. jan ante li pali e sitelen ante. kulupu lili pali li alasa e jan ante mute ni li toki tawa ona e ni: o kama ala awen lawa ale e ken pi pali sina o pana lawa kepeken [nasin ni: ale kulupu li ken kepeken sitelen sina pi sitelen pona](https://creativecommons.org/public-domain/cc0/). 
+lawa ma la jan li pali e musi la ona taso li ken kepeken musi ni. jan wan taso ala li pali e sitelen pona. jan ante li pali e sitelen ante. kulupu pali lili li alasa e jan ante mute ni li toki tawa ona e ni: o kama ala awen lawa ale e ken pi pali sina o pana lawa kepeken [nasin ni: ale kulupu li ken kepeken sitelen sina pi sitelen pona](https://creativecommons.org/public-domain/cc0/). 
 
-tenpo ni la kulupu lili pali li jo e ilo ale wile. pali pi sitelen pona kulupu o open! ona pi anpa sewi li pali e [nasin alasa pi sitelen pona kulupu](/method.html). nasin alasa la kulupu lili pali li kama sona e ni: kulupu la, sitelen nimi seme en sitelen nasin seme li suli kepeken? sona ni o kama tan pali ante ale pi tenpo sike pini. nasin alasa pi anpa sewi la sona ale pi kulupu lili pali o kama wan o mama e sitelen pona kulupu. 
+
+tenpo ni la kulupu pali lili li jo e ilo ale wile. pali pi sitelen pona kulupu o open! [anpa sewi](/members.html#mrs-lang) li pali e [nasin alasa pi sitelen pona kulupu](/method.html). nasin alasa la kulupu pali lili li kama sona e ni: kulupu la, [sitelen nimi seme](/method/words.html) en [sitelen nasin seme](/method/features.html) en [selo sitelen seme](/method/tiers.html) li suli kepeken? sona ni o kama tan pali ante ale pi tenpo sike pini. nasin alasa pi anpa sewi la sona ale pi kulupu pali lili en pali pi mi kulupu o toki o wan o mama e [lipu pi sitelen pona kulupu](/common.html). 
 {% endsl %}
 
 {% endsplit %}
@@ -269,18 +287,20 @@ In addition to working on Common Sitelen Pona, the font-makers of the associatio
 {% enden %}
 
 {% sp %}
-open pi(tenpo sike pini) la sona wile en nasin pali li lon kulupu lili pali  
+open pi(tenpo sike pini) la sona wile en nasin pali li lon kulupu pali lili  
 ni^ la kulupu pali li kama pali a
 
-pali li kama lon poka pini la kulupu lili pali li kama wile ante lawa e nimi e nasin 
-zz zz zz zz zz zz zz zz zz zz  zz   li wile kama te kulupu pali pi sitelen pona to  
-tawa lawa pi ma [kasi.nasin.taso.] la kulupu pali pi sitelen pona    
-zz li wile kama kulupu esun pi(wile mani ala)  la nimi sin en nasin sin en lawa sin   
-zz zz li open lon tenpo suno nanpa mute luka tu wan pi(tenpo mun nanpa luka tu) 
+pali li kama lon poka pini la   
+kulupu pali lili li kama wile ante lawa e nimi e nasin   
+||| li wile kama [kulupu esun pi(wile mani ala)](https://laws.justice.gc.ca/eng/acts/c-7.75/)  
+|||| kepeken nasin lawa pi ma [kasi.nasin.taso.]    
+nimi sin en nasin sin en lawa sin  la  te kulupu pali pi sitelen pona to   
+zz li open lon suno nanpa mute luka tu wan pi(mun nanpa luka tu)   
 
-kepeken nasin alasa pi(anpa-sewi) la   
-zz tenpo mun nanpa tu tu la kulupu pali li kama sona e sitelen nimi pi(sitelen+pona)  
-zz tenpo mun nanpa luka la kulupu pali li kama sona e selo pona pi(sitelen nimi ni^)
+
+kepeken [nasin alasa](/method/index.html) pi(anpa-sewi) la   
+zz mun nanpa tu tu la kulupu pali li kama sona e [sitelen nimi pi(sitelen+pona kulupu)](/method/words.html)  
+zz mun nanpa luka la kulupu pali li kama sona e [selo pona pi(sitelen nimi ni^)](/method/glyphs.html)
 
 wile sona ante tu la mi alasa kepeken nasin ante zz wile sona nasa wan li ni     
 zz sitelen nimi wan li jo e selo ante mute la   
@@ -298,21 +318,24 @@ zz nasin pini li kama tan wile suli pi(jan sona mute kulupu)
 tenpo ante la kulupu pali li alasa e sona ni  
 zz sitelen+pona la kulupu li nasin e sitelen nimi kepeken nasin seme pi(suli kepeken)   
 zz sitelen nasin seme pi(nimi ala) o lon lipu pi(sitelen+pona kulupu)  
-zz open la mi kulupu li pana e lipu pi alasa pilin tawa jan ale kulupu  
+zz open la mi kulupu li pana e lipu pi(alasa pilin) tawa ale kulupu  
 zz pini sama la jan sona mute pi(kulupu pali) li lukin e lipu pilin   
 zz zz li toki e wile ona ni> zz  [sitelen nasin seme o lon lipu](/method/features.html)  
 zz nasin pini li kama tan wile suli pi(jan sona mute kulupu) 
 
-tenpo suli la ilo li sitelen e sitelen+pona kepeken [nasin [a:su:kili.])](https://tok.wikipedia.org/wiki/sitelen_Asuki) la   
-zz nasin li wan ala zz  nasin sitelen ante li sitelen  e ijo sama kepeken sitelen ante   
 pali namako wan pi(nasin [jan uta ni: ko:] ala) la   
-zz kulupu pali li pali e lipu ni> zz sitelen+pona pi(nasin [a]) o kepeken nasin wan seme 
+zz jan pali nasin pi kulupu pali li pali e  lipu sin    
+zz te  lipu pi(sitelen+pona) pi(nasin [a:su:kili.] to   
+ilo li sitelen e sitelen+pona kepeken [nasin [a:su:kili.])](https://tok.wikipedia.org/wiki/sitelen_Asuki) la     
+zz  nasin sitelen mute li wan ala li sitelen  e ijo sama kepeken sitelen ante   
+lipu sin pi(kulupu pali) li wile wan e nasin 
+
 {% endsp %}
 
 {% sl %}
-open pi tenpo sike #MAML la sona wile en nasin pali li lon kulupu lili pali. kulupu pali li kama pali a. 
+open pi tenpo sike #MAML la sona wile en nasin pali li lon kulupu pali lili. kulupu pali li kama pali a. 
 
-pali li kama lon poka pini la kulupu lili pali li kama wile ante lawa e nimi e nasin li wile kama kulupu pali pi sitelen pona. tawa lawa pi ma Kanata la, kulupu pali pi sitelen pona li wile kama kulupu esun pi wile mani ala. nimi sin en nasin sin en lawa sin li open lon tenpo suno #MLTW pi tenpo mun #LT. 
+pali li kama lon poka pini la kulupu pali lili li kama wile ante lawa e nimi e nasin li wile kama kulupu pali pi sitelen pona. tawa lawa pi ma Kanata la, kulupu pali pi sitelen pona li wile kama [kulupu esun pi wile mani ala](https://laws.justice.gc.ca/eng/acts/c-7.75/). nimi sin en nasin sin en lawa sin li open lon tenpo suno #MLTW pi tenpo mun #LT. 
 
 kepeken nasin alasa pi anpa sewi la kulupu pali li kama sona e sitelen nimi pi sitelen pona lon tenpo mun #TT e selo pona pi sitelen nimi ni lon tenpo mun #L.
 
@@ -320,7 +343,8 @@ wile sona ante pi mute lili la mi kama e sona tan nasin ante. wile sona nasa wan
 
 tenpo ante la kulupu pali li alasa e sona ni: sitelen pona la kulupu  li nasin e sitelen nimi kepeken seme? sitelen nasin seme li suli tawa kepeken kulupu li wile lon sitelen pona kulupu? open la mi kulupu li pana e lipu pi alasa pilin tawa jan ale kulupu. pini pi nasin sama la jan sona mute pi kulupu pali li lukin e lipu pilin li toki e wile lon ni: [sitelen nasin seme o lon lipu pi sitelen pona kulupu](/method/features.html).
 
-tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewika (nasin Asuki)](https://tok.wikipedia.org/wiki/sitelen_Asuki) la nasin li wan ala. nasin ilo ante pi sitelen pona li sitelen e ijo sama kepeken sitelen ante pi nasin Asuki. pali namako wan pi nasin Juniko ala la kulupu pali pi sitelen pona li pali e lipu ni: sitelen pona pi nasin Asuki o kepeken nasin wan seme. 
+pali namako wan pi nasin Juniko ala la kulupu pali pi sitelen pona li pali e lipu ni: sitelen pona pi nasin Asuki o kepeken nasin wan seme.
+tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewika (nasin Asuki)](https://tok.wikipedia.org/wiki/sitelen_Asuki) la nasin li wan ala. nasin ilo ante pi sitelen pona li sitelen e ijo sama kepeken sitelen ante pi nasin Asuki.  lipu sin pi kulupu pali li wile wan e nasin.
 {% endsl %}
 
 {% endsplit %}
@@ -337,19 +361,22 @@ tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewik
 
 {% split %}
 {% en %}
-In 2026, we are finally presenting the labour of the last two years to the public. We published a public draft of Common Sitelen Pona in January. In February, we completed analysis on the Linku glyph survey. In April, we released our new website. Stay tuned for more updates!
+
+In 2026, we are finally presenting the labour of the last two years to the public. We published a public draft of Common Sitelen Pona in January. In February, we completed analysis on the Linku glyph survey. In April, we released our new website.   
+<br>Stay tuned for more updates!
 {% enden %}
 
 {% sp %}
 tenpo suli la kulupu pali li pali len zz tenpo sike ni la len li weka a    
-tenpo mun nanpa wan la mi pana e lipu pi(pini ala) pi(sitelen+pona kulupu) tawa jan ale  
-tenpo mun nanpa tu la mi pini e pali lon alasa sona pi(sitelen+pona) pi(lipu Linku)  
-tenpo mun nanpa tu tu la mi pana e lipu ilo sin  
+ mun nanpa wan la mi pana e lipu pi(pini ala) pi(sitelen+pona kulupu) tawa jan ale  
+ mun nanpa tu la mi pini e pali lon alasa sona pi(sitelen+pona) pi(lipu Linku)  
+ mun nanpa tu tu la mi pana e lipu ilo sin  
 <br>o awen zz pali sin mute li kama a
 {% endsp %}
 
 {% sl %}
-tenpo suli la kulupu pali li pali len. tenpo sike ni la len li weka! tenpo mun nanpa wan la mi pana e lipu pi pini ala pi sitelen pona kulupu tawa lukin pi jan ale. tenpo mun nanpa tu la mi pini e pali lon alasa sona pi sitelen pona pi lipu Linku. lon tenpo mun nanpa tu tu la mi pana e lipu ilo sin. o awen, pali sin mute li kama! 
+tenpo suli la kulupu pali li pali len. tenpo sike ni la len li weka! tenpo mun nanpa wan la mi pana e lipu pi pini ala pi sitelen pona kulupu tawa lukin pi jan ale. tenpo mun nanpa tu la mi pini e pali lon alasa sona pi sitelen pona pi lipu Linku. lon tenpo mun nanpa tu tu la mi pana e lipu ilo sin.   
+<br>o awen, pali sin mute li kama! 
 {% endsl %}
 
 {% endsplit %}
