@@ -48,7 +48,6 @@ cover_image: false
 .punctuation {
     margin: 0 auto;
     padding: 0;
-    width: fit-content;
 }
 
 .punctuation li {

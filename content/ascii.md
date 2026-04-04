@@ -11,7 +11,6 @@ permalink: ascii.html
     main{
         margin: 0 auto;
         padding-inline: 1rem;
-        color: var(--kule-10);
         display: flex;
         flex-wrap: wrap;
     }
