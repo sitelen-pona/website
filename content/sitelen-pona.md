@@ -1,7 +1,7 @@
 ---
 title: About Sitelen Pona
 sLTitle: sitelen pona li seme
-spTitle: sitelen+pona li seme
+spTitle: sitelen pona li seme
 permalink: sitelen-pona.html
 description:  "Learn about a beloved pictographic writing system used by speakers of the minimalist constructed language, Toki Pona. "
 alt: "sitelen pona li seme, what is sitelen pona, as if painted by watercolour"
