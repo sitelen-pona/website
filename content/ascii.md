@@ -15,8 +15,7 @@ permalink: ascii.html
         flex-wrap: wrap;
     }
     h1, h2, h3{
-        border-bottom: none;
-        margin: inherit;
+        width: 100%
     }
     h1.split {
         display: none;
@@ -31,16 +30,6 @@ permalink: ascii.html
     }
     small {
         font-size: 1.1rem;
-    }
-    h1{
-        line-height: 1.8rem;
-        margin-top: 2rem;
-    }
-    h2{
-        margin: 0;
-        padding-top: 2rem;
-        line-height: 1.8rem;
-
     }
     .en{
         max-width: 40rem;
