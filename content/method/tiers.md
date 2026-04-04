@@ -40,7 +40,7 @@ zz ona o sona e nasin ni> zz kulupu pi(nasin sitelen) li kepeken
 kulupu pi(sitelen+pona) la jan ante mute li kepeken nasin ante mute  
 jan mute li kepeken sitelen+pona musi zz taso [lipu pi(sitelen+pona kulupu)](/common.html) la   
 zz mi wile sona e musi lili ala e ni  
-zz zz ale la [sitelen nimi seme](/method/words.html) en [sitelen+nasin seme](/method.features) li suli lon kepeken  
+zz zz ale la [sitelen nimi seme](/method/words.html) en [sitelen+nasin seme](/method/features.html) li suli lon kepeken  
 insa pi(sitelen+pona kulupu) la   tesuli nanpa wanto  en te suli nanpa tu to  
 zz en te suli nanpa tu wanto li nanpa e suli pi(ijo suli kulupu^) 
 {% endsp %}

@@ -982,7 +982,7 @@
     
     "explainsp": "sitelen pi(sike lili insa) li ken toki e ni> zz pini pi(linja toki) li lon seme. poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama namako wan kepeken sitelen pi(sike lili).",
 
-    "example-before": "a 'middle-dot' nasin pi ma 'cartouche-start' poka 'middle-dot' 'cartouche-end' li wawa 'middledot'",
+    "example-before": "a 'middle-dot' nasin pi ma 'cartouche-start' poka 'middle-dot' 'cartouche-end' li wawa 'middle-dot'",
     "example-beforetok": "a 'sike-insa' nasin pi ma 'nimi-open' poka 'sike-insa' 'nimi-pini' li wawa 'sike-insa'",
 
     "example-after": "a. nasin pi ma[poka.] li wawa."
@@ -1098,7 +1098,7 @@
     "explainsp": "[nasin sitelen kalama pi(linja lili)](https://sona.pona.la/wiki/nasin_sitelen_kalama_pi_linja_lili) la linja lili wan li lon linja anpa lon poki pi(nimi kalama) la nimi kalama o kepeken kalama wan tan sitelen ni> zz ona li lon sewi pi(linja lili).",
 
 
-    "example-before": "ma 'cartouche-start' a meli 'tally' 'tally' 'tally' kala 'tally' 'cartouch-end' seli",
+    "example-before": "ma 'cartouche-start' a meli 'tally' 'tally' 'tally' 'tally' kala 'tally' 'tally' 'cartouch-end' seli",
     "example-beforetok": "ma 'nimi-open' a meli 'linja' 'linja' 'linja' kala 'linja' 'nimi-pini' seli",
 
     "example-after": "ma [a meli,,,,kala,,] seli"
