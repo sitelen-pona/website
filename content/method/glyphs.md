@@ -97,7 +97,7 @@ _nasin nanpa_ continues to be a popular font in 2026. It carries historical nota
 
 On multiple occasions, the font has made strong choices that have correctly predicted (or predicated) the success of certain variant glyphs.
 
-jan Itan held the tie-breaking vote within this algorithmn.
+jan Itan held the tie-breaking vote within this algorithm.
 {% enden %}
 
 {% sp %}
