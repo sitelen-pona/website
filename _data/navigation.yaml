@@ -41,10 +41,10 @@
   spName: "ijo ante"
   sLName: "ijo ante"
   children:
-  - enName: "what's new"
+  - enName: "news"
     spName: "ijo sin"
     sLName: "ijo sin"
-    link: "/sin.html"
+    link: "/news.html"
   - enName: "ascii input"
     spName: "nasin[akesi]"
     sLName: "nasin Asuki"
