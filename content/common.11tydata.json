@@ -930,7 +930,7 @@
     "example-before": "kili jelo pi 'long-start' nena selo nasa mute laso 'long-end'",
     "example-beforetok": "kili jelo pi 'linja-open' nena selo nasa mute laso 'linja-pini'",
 
-    "example-after": "kili pi(nena selo nasa mute laso)",
+    "example-after": "kili jelo pi(nena selo nasa mute laso)",
     "pair": "true"
    },
    {
