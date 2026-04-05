@@ -1099,7 +1099,7 @@
 
 
     "example-before": "ma 'cartouche-start' a meli 'tally' 'tally' 'tally' 'tally' kala 'tally' 'tally' 'cartouche-end' seli",
-    "example-beforetok": "ma 'nimi-open' a meli 'linja' 'linja' 'linja' kala 'linja' 'nimi-pini' seli",
+    "example-beforetok": "ma 'nimi-open' a meli 'linja' 'linja' 'linja' 'linja' kala 'linja' 'linja' 'nimi-pini' seli",
 
     "example-after": "ma [a meli,,,,kala,,] seli"
    }
