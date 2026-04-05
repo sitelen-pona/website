@@ -226,7 +226,7 @@ mun lawa Kekan San li kama jan lawa kulupu <time datetime="2026-01-21">lon tenpo
 
 <ul class="condensed shuffle">
 {% for item in former %}
-{%- assign slug = item.enname | slugify -%}<li id="{{ slug }}"><span>{{ item.emoji }}</span><span lang="en"> {{ item.enname }}</span><span class="sp">{{item.spname}}</span> </li>
+{%- assign slug = item.enname | slugify -%}<li id="{{ slug }}"><span>{{ item.emoji }}</span><span lang="en"> {{ item.enname }}</span><span class="sp">{{item.spname}}</span><span class="sl">{{item.slname}}</span> </li>
 {% endfor %}
 </ul>
 
