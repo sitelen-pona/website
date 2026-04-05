@@ -113,6 +113,10 @@ caption {
     thead th:nth-of-type(3){
         text-align: left;
     }
+    td:has(.input){
+        justify-content: start;
+        padding-left: 0.4rem;
+    }
 
 
     :is(td):first-of-type, thead th:nth-of-type(2){
