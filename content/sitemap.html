@@ -21,7 +21,7 @@ description:
 }
 </style>
 
-{% assign posts = collections.all | sort: 'data.title' %}
+{% assign posts = collections.all | sort: 'data.title' | reject: 'data.excludeFromSiteMap', true %}
 {% split %}
 {% en %}<ul class="smap">{%- for item in posts -%}<li><a href="{{item.url}}">{{item.data.title}}</a></li>{%- endfor -%}</ul>{% enden %}
 
