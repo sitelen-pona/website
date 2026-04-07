@@ -78,7 +78,7 @@ sina wile pana e ijo tawa kulupu la  o sitelen e sona ale ni
 
 nanpa pi(tomo+suli) li nanpa luka luka ale mute mute mute mute wan  
 nanpa pi(tomo+lili) li nanpa luka luka tu ale mute mute luka tu tu  
-nimi pi(nasin tomo) li te nasin pi(ma [[suno . seli .]](https://en.wikipedia.org/wiki/Sussex)) to  
+nimi pi(nasin tomo) li te nasin pi(ma [[sama . seli .]](https://en.wikipedia.org/wiki/Sussex)) to  
 nimi pi(ma tomo)  li ma[[monsi .. ken . laso .]](https://tok.wikipedia.org/wiki/ma_tomo_Monkela)  
 nimi pi(ma lili) li ma [[ken . pilin esun]](https://tok.wikipedia.org/wiki/ma_Kepeke)  
 nanpa pi(ma pana) li te H3H zz 2A1 to  
