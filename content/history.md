@@ -311,7 +311,7 @@ nimi sin en nasin sin en lawa sin  la  te kulupu pali pi sitelen pona to
 zz li open lon suno nanpa mute luka tu wan pi(mun nanpa luka tu)   
 
 
-kepeken [nasin alasa](/method) pi(anpa-sewi) la   
+kepeken [nasin alasa](/method.html) pi(anpa-sewi) la   
 zz mun nanpa tu tu la kulupu pali li kama sona e [sitelen nimi pi(sitelen+pona kulupu)](/method/words.html)  
 zz mun nanpa luka la kulupu pali li kama sona e [selo pona pi(sitelen nimi ni^)](/method/glyphs.html)
 
