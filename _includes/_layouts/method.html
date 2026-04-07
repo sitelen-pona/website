@@ -99,15 +99,40 @@ h3, h4{
     font-family: monospace;
 }
 
-.next{
+.split:has(.next-previous){
+        margin: 2rem 0;
+           justify-items: space-between;
+
+
+}
+.next-previous{
     text-align: right;
-    margin: 2rem 0;
     color: var(--pimeja);
     font-variation-settings: "wdth" 75;
-    justify-self: end;
     max-width: calc(var(--en-split) + var(--sp-split));
-    grid-column: 2 / 5;
 }
+.next-previous a{
+    display: block;
+    max-width: 20rem;
+}
+.next{
+    grid-column: 3 / 5;
+} 
+.next a{
+    margin-left: auto;
+    margin-right: 0;
+}
+.prev{
+    grid-column: 2 / 3;
+
+        text-align: left;
+}
+[data-selected-language="tok"][data-selected-script="sp"]  .split:has(.next-previous){
+   justify-items: space-evenly;
+
+}
+
+
 .split:has(.chapters){
     justify-items: center;
     justify-content: center;
@@ -118,9 +143,6 @@ h3, h4{
     max-width:20rem;
 }
 
-.next a{
-    display: block;
-}
 
 .chapters li:first-of-type{
     width: 100%;
@@ -173,6 +195,8 @@ h3, h4{
 
 </style>
 {% assign nextPost = collections.sorted_method | getNextCollectionItem: page %}
+{% assign prevPost = collections.sorted_method | getPreviousCollectionItem: page %}
+
 
 
 <ul class="chapters">
@@ -194,17 +218,35 @@ h3, h4{
 
 
 {{ content }}
+    <div class="split">
 
+{% if prevPost %}
+        <div class="prev next-previous" style="grid-column: 2 / 3" >
+                <p>
+                    <span>
+                        {% include "partials/ui-translate.liquid",
+                            enName: "Previous:",
+                            spName: "o tawa lipu ni<",
+                            sLName: "lipu pini:" %}
+                    </span>
+                            <a href="{{ prevPost.url}}">
+                    {% include "partials/ui-translate.liquid",
+                        enName: prevPost.data.title,
+                        spName: prevPost.data.spTitle,
+                        sLName: prevPost.data.sLTitle %}
+                            </a>
+                </p>
+        </div>
+{% endif %}
 
 
 {% if nextPost %}
-    <div class="split">
-        <div class="next" >
+        <div class="next next-previous" style="grid-column: 3 / 5">
                 <p>
                     <span>
                         {% include "partials/ui-translate.liquid",
                             enName: "Next:",
-                            spName: "lipu kama li ni>zz",
+                            spName: "o tawa lipu ni>",
                             sLName: "lipu kama:" %}
                     </span>
                             <a href="{{ nextPost.url}}">
@@ -217,6 +259,8 @@ h3, h4{
         </div>
     </div>
 {% endif %}
+</div>
+
 
 
 
