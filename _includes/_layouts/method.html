@@ -33,6 +33,7 @@ breadcrumb:
         align-items: center;
         outline: 0.2rem solid var(--walo);
         background-color: var(--kule-1);
+        position: relative;
 
     }
     .chapters li:not(:last-of-type){
@@ -42,8 +43,20 @@ breadcrumb:
         color: var(--pimeja);
         text-decoration: none;
     }
+    .chapters a::after{
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: absolute;
+        content: '';
+    }
     .chapters li:first-of-type a{
         text-decoration: underline;
+
+    }
+    .chapters li:not(:first-of-type):has(a):is(:hover, :focus-within){
+        background-color: var(--kule-2);
 
     }
     .chapters a:is(:hover, :focus-visible){
