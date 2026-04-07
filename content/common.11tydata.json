@@ -998,8 +998,8 @@
     "explainsl": "poki pi nimi kalama la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi nimi wan kepeken sitelen pi sike lili tu.",
     "explainsp": "poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi(nimi wan) kepeken sitelen pi(sike lili tu).",
 
-    "example-before": "ma 'cartouche-start' a meli 'colon' 'middle-dot' kala 'middle-dot' 'cartouche-end' seli",
-    "example-beforetok": "ma 'nimi-open' a meli 'sike-tu' 'sike-insa' kala 'sike-insa' 'nimi-pini' seli",
+    "example-before": "ma 'cartouche-start' a meli 'colon' kala 'middle-dot' 'cartouche-end' seli",
+    "example-beforetok": "ma 'nimi-open' a meli 'sike-tu' kala 'sike-insa' 'nimi-pini' seli",
 
     "example-after": "ma [a meli: kala.] seli"
    }
