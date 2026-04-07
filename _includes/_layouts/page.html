@@ -46,7 +46,7 @@
                 grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto
             }
 
-            header>div:has([src="/assets/sitelen/logo.svg"]) {
+            header>div {
                 grid-column: 2 / 5;
                 display: grid;
                 grid-template-columns: 3rem 1fr 2fr;
@@ -80,6 +80,7 @@
 
             #menu {
                 position: fixed;
+                z-index: 2;
                 width: 100%;
                 top: 1rem;
                 display: grid;
@@ -99,7 +100,6 @@
                 box-shadow: var(--kule-5) 0 0;
                 transition: box-shadow .25s cubic-bezier(.08, .82, .17, 1);
                 font-size: 1.25rem;
-                position: relative;
             }
 
             nav a {
@@ -262,12 +262,21 @@
                 line-height: 1.25rem
             }
 
-            #top-bar .theme-selector {
-                margin-top: 0.5rem;
-                z-index: 2;
+            #menu .theme-selector{
+                position: relative;
+            }
 
+            #menu .theme-selector button{
+                position: absolute;
+                top: -3.5rem;
+                left: 0;
+            }
+            #sidebar .theme-selector button{
+                position: absolute;
+                top: -4rem;
+                right: 0;
+                left: 0;
 
-                
             }
 
             .theme-selector button{
@@ -416,113 +425,46 @@
                     padding-left: 12.5rem;
                 }
             }
-
-            /*styling for focus indicators*/
-            header a:has([src="/assets/sitelen/logo.svg"]):is(:focus-visible)
-            {
-                outline: 0.25rem solid var(--pimeja);
-                border-radius: 0.75rem;
-                height: 3rem;
-            }
-            #menu details:has(summary:focus-visible){
-                outline: 0.25rem solid var(--pimeja);
-            }
-            .theme-selector button:focus-visible{
-                outline: 0.25rem solid var(--pimeja);
-                border-radius: 3rem;;
-                outline-offset: 0.3rem;
-            }
-            :is(#menu,#sidebar) ul a:focus-visible{
-                outline: 0.25rem solid var(--kule-5);
-                color: var(--pimeja);
-                font-weight: 600;
-            }
-            :is(#menu,#sidebar) select:focus-visible{
-                outline: 0.2rem solid var(--pimeja);
-            }
-            main .split a:focus-visible{
-                outline: 0.25rem solid var(--kule-5);
-                outline-offset: .25rem 0.1rem;
-                color: var(--pimeja);
-                font-weight: 800;
-            }
-            footer.split p:last-of-type a:focus-visible{
-                outline: 0.25rem solid var(--kule-5);
-                outline-offset: .25rem 0.1rem;
-                color: var(--pimeja);
-                font-weight: 800;
-            }
-            footer.split #links a:focus-visible, .breadcrumb a:focus-visible{
-                outline: 0.1em solid var(--pimeja);
-                outline-offset: .5em;
-                font-weight: 800;
-                width:fit-content;
-                background-color: var(--walo);
-                z-index: 2;
-            }
-            main .split .next-previous a:focus-visible {
-                outline: unset;
-                outline-offset: unset;
-                color: var(--lupa);
-            }
-            main .split .next-previous:focus-within {
-                color: var(--kule-8);
-                font-weight: 800;
-                border-bottom: 0.2rem solid var(--kule-5)
-
-
-            }
-
-
-
-
-
-
-
-
-
         </style>
         <div>
             <a href="/index.html" style="z-index: 99">
                 <img alt="association logo" src="/assets/sitelen/logo.svg">
             </a>
-            <p lang="tok" style="white-space: nowrap;"class="sp">kulupu pali pi sitelen pona</p>
+            <p lang="tok" class="sp">kulupu pali pi sitelen pona</p>
             <p lang="en">sitelen pona publishers &<br>typographers association</p>
         </div>
-
-        <div class="theme-selector">
-        <button>
-                <!-- svg for theme selector taken from Ui Oval Interface Icons available on svgrepo.com -->
-                <span class="start-light">
-                    <span class="visually-hidden">
-                    {% include "partials/ui-translate.liquid",
-                        enName: "Switch to Light mode",
-                        spName: "o kepeken kule suno walo",
-                        sLName: "o kepeken kule suno walo" %}
-                    </span>
-                    <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M12 2V4M12 20V22M4 12H2M6.31412 6.31412L4.8999 4.8999M17.6859 6.31412L19.1001 4.8999M6.31412 17.69L4.8999 19.1042M17.6859 17.69L19.1001 19.1042M22 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                </span>
-                <span class="start-dark">
-                    <span class="visually-hidden">
-                        {% include "partials/ui-translate.liquid",
-                        enName: "Switch to Dark mode",
-                        spName: "o kepeken kule mun pimeja",
-                        sLName: "o kepeken kule mun pimeja" %}
-                    </span>
-                    <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                </span>
-        </button>
-    </div>
-
+</body>
 </header>
 
 <div id="menu">
     <details>
         <summary><img alt="Menu" src="/assets/sitelen/menu.svg"></summary>
+        <div class="theme-selector">
+            <button>
+            <!-- svg for theme selector taken from Ui Oval Interface Icons available on svgrepo.com -->
+            <span class="start-light">
+                <span class="visually-hidden">
+                {% include "partials/ui-translate.liquid",
+                    enName: "Switch to Light mode",
+                    spName: "o kepeken kule suno walo",
+                    sLName: "o kepeken kule suno walo" %}
+                </span>
+                <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2V4M12 20V22M4 12H2M6.31412 6.31412L4.8999 4.8999M17.6859 6.31412L19.1001 4.8999M6.31412 17.69L4.8999 19.1042M17.6859 17.69L19.1001 19.1042M22 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </span>
+            <span class="start-dark">
+                <span class="visually-hidden">
+                    {% include "partials/ui-translate.liquid",
+                    enName: "Switch to Dark mode",
+                    spName: "o kepeken kule mun pimeja",
+                    sLName: "o kepeken kule mun pimeja" %}
+                </span>
+                <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+            </span></button>
+        </div>
 
 
 
@@ -555,7 +497,33 @@
 
 <div id="sidebar">
 
-    
+    <div class="theme-selector">
+        <button>
+                <!-- svg for theme selector taken from Ui Oval Interface Icons available on svgrepo.com -->
+                <span class="start-light">
+                    <span class="visually-hidden">
+                    {% include "partials/ui-translate.liquid",
+                        enName: "Switch to Light mode",
+                        spName: "o kepeken kule suno walo",
+                        sLName: "o kepeken kule suno walo" %}
+                    </span>
+                    <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2V4M12 20V22M4 12H2M6.31412 6.31412L4.8999 4.8999M17.6859 6.31412L19.1001 4.8999M6.31412 17.69L4.8999 19.1042M17.6859 17.69L19.1001 19.1042M22 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+                <span class="start-dark">
+                    <span class="visually-hidden">
+                        {% include "partials/ui-translate.liquid",
+                        enName: "Switch to Dark mode",
+                        spName: "o kepeken kule mun pimeja",
+                        sLName: "o kepeken kule mun pimeja" %}
+                    </span>
+                    <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </span>
+        </button>
+    </div>
 
     {% include "partials/navigation.liquid" %}
 

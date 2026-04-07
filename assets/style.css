@@ -352,12 +352,4 @@ h2:first-of-type{
 
 @media (width < 1070px) {
     #sidebar{display: none}
-    #top-bar .theme-selector{
-        position: relative;
-        right:4rem; 
-        z-index: 1;
-
-    }
 }
-
-
