@@ -425,6 +425,73 @@
                     padding-left: 12.5rem;
                 }
             }
+
+             /*styling for focus indicators*/
+            header a:has([src="/assets/sitelen/logo.svg"]):is(:focus-visible)
+            {
+                outline: 0.25rem solid var(--pimeja);
+                border-radius: 0.75rem;
+                height: 3rem;
+            }
+            #menu details:has(summary:focus-visible){
+                outline: 0.25rem solid var(--pimeja);
+            }
+            #menu .theme-selector button:focus-visible{
+                outline: 0.25rem solid var(--kule-5);
+                box-shadow: inset 0 0 0 0.25rem var(--pimeja);
+                border-radius: 3rem;;
+            }
+            #sidebar .theme-selector button:focus-visible{
+                outline: 0.25rem solid var(--pimeja);
+                background-color: var(--kule-5);
+                border-radius: 3rem;
+                --suno-mun: white;
+
+            }
+
+            :is(#menu,#sidebar) ul a:focus-visible{
+                outline: 0.25rem solid var(--kule-5);
+                color: var(--pimeja);
+                font-weight: 600;
+            }
+            :is(#menu,#sidebar) select:focus-visible{
+                outline: 0.2rem solid var(--pimeja);
+            }
+            main .split a:focus-visible{
+                outline: 0.25rem solid var(--kule-5);
+                outline-offset: .25rem 0.1rem;
+                color: var(--pimeja);
+                font-weight: 800;
+            }
+            footer.split p:last-of-type a:focus-visible{
+                outline: 0.25rem solid var(--kule-5);
+                outline-offset: .25rem 0.1rem;
+                color: var(--pimeja);
+                font-weight: 800;
+            }
+            footer.split #links a:focus-visible, .breadcrumb a:focus-visible{
+                outline: 0.1em solid var(--pimeja);
+                outline-offset: .5em;
+                font-weight: 800;
+                width:fit-content;
+                background-color: var(--walo);
+                z-index: 2;
+            }
+            main .split .next-previous a:focus-visible {
+                outline: unset;
+                outline-offset: unset;
+                color: var(--lupa);
+            }
+            main .split .next-previous:focus-within {
+                color: var(--kule-8);
+                font-weight: 800;
+                border-bottom: 0.2rem solid var(--kule-5)
+
+
+            }
+
+
+
         </style>
         <div>
             <a href="/index.html" style="z-index: 99">
