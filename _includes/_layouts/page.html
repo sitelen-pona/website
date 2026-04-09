@@ -562,6 +562,19 @@
     </details>
 </div>
 
+<script>
+    const menu = document.getElementById('menu');
+const details = menu.querySelector('details');
+
+menu.addEventListener('focusout', (event) => {
+  // Check if the element receiving focus is outside the #menu container
+  if (!menu.contains(event.relatedTarget)) {
+    closeTimeout = setTimeout(() => {
+      details.removeAttribute('open');}, 200); // 
+    }
+});
+</script>
+
 <div id="sidebar">
 
     <div class="theme-selector">
