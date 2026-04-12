@@ -111,7 +111,7 @@ main table svg{
     }
     .ascii-char tr{
         display: grid;
-        grid-template-columns: 0.5fr 12rem 0.5fr 1.2fr 3em; 
+        grid-template-columns: 0.5fr 12rem min-content  minmax(2em, 1fr)  3em; 
     }
     :is(td):has(.input){
         grid-column: 2 / 3;
@@ -167,7 +167,7 @@ main table svg{
 @media (max-width: 554px){
         .ascii-char tr{
         display: grid;
-        grid-template-columns: 0rem 12rem min-content 1.2fr 3em;
+        grid-template-columns: 0rem 12rem min-content minmax(2em, 1fr) 3em;
         }
 }
 
@@ -175,7 +175,7 @@ main table svg{
 
 
 </style>
-<div markdown="1" class="en" style="margin: auto">
+<div markdown="1" class="en" style="margin: auto; max-width: 100%;">
 
 # ASCII Input Standard  
 
@@ -260,7 +260,7 @@ For every glyph included in "Toki Pona: The Language of Good" (2014), `word01` p
 
 {% assign items = ascii %}
 
-<table class="ascii-char">
+<table class="ascii-char" style="max-width: 100%;">
 <caption></caption>
 <thead>
 <tr>
