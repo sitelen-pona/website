@@ -175,7 +175,7 @@ main table svg{
 
 
 </style>
-<div markdown="1" class="en" style="margin: auto; max-width: 100%;">
+<div markdown="1" class="en" style="margin: auto; width: 100%; max-width: 40rem;">
 
 # ASCII Input Standard  
 
