@@ -97,6 +97,13 @@ caption {
     text-align: left;
     padding-left: .5rem;
 }
+main table svg{
+        width: 2em;
+        height: 2em;
+        margin: 0 auto;
+        padding: 0;
+}
+
 
 @media (max-width: 39rem){
     .ascii-char {
@@ -104,9 +111,9 @@ caption {
     }
     .ascii-char tr{
         display: grid;
-        grid-template-columns: 0.5fr 12rem 0.5fr 1.2fr;
+        grid-template-columns: 0.5fr 12rem 0.5fr 1.2fr 3em; 
     }
-    :is(td):has(.input), thead th:nth-of-type(3){
+    :is(td):has(.input){
         grid-column: 2 / 3;
 
     }
@@ -119,18 +126,28 @@ caption {
     }
 
 
-    :is(td):first-of-type, thead th:nth-of-type(2){
+    td:first-of-type{
         grid-column: 3 / 4;
     }
-    :is(td, thead th):last-of-type{
+    td:nth-of-type(3){
         grid-column: 4/ 5; 
 
     }
+    td:nth-of-type(4){
+        grid-column: 5 / 6; 
+
+    }
+
     thead th{
         grid-row: 1 / 2;
+        opacity: 0;
+
     }
+
+
     thead th:first-of-type{
         position: absolute;
+
         opacity: 0;
     }
     tbody td{
@@ -138,7 +155,7 @@ caption {
     }
 
     .ascii-char tbody th{
-        grid-column: 1 / 5;
+        grid-column: 1 / 6;
         font-size: 1.2rem;
         padding-block: 1rem 0.5rem;
         justify-self: start;
@@ -150,7 +167,7 @@ caption {
 @media (max-width: 554px){
         .ascii-char tr{
         display: grid;
-        grid-template-columns: 0rem 12rem min-content 1.2fr;
+        grid-template-columns: 0rem 12rem min-content 1.2fr 3em;
         }
 }
 
@@ -251,6 +268,8 @@ For every glyph included in "Toki Pona: The Language of Good" (2014), `word01` p
     <th>#</th>
     <th>Input</th>
     <th>Description</th>
+     <th>Example</th>
+
 </tr>
 </thead>
 <tbody>
@@ -270,15 +289,27 @@ For every glyph included in "Toki Pona: The Language of Good" (2014), `word01` p
             <span class="or">or</span>
             {%- endif -%}
         {%- endfor -%}
+                    </td>
+            <td>{{var.description}} </td>
+                            <td>
+                                {% assign glyph_example = "./_includes/assets/ascii/" | append: var.glyph_names[0] |  append: ".svg" %}
+                                {% renderFile glyph_example, glyph_example, "liquid" %}
+
+                            </td>
     {%- else -%}
     <span class="input">{{ var.glyph_name }}</span>
         {%- if var.not_typo -%}            
         <span class="or">[sic]</span>
+            </td>
         {%- endif -%}
+            <td>{{var.description}} </td>
+                            <td>
+                                {% assign glyph_example = "./_includes/assets/ascii/" | append: var.glyph_name |  append: ".svg" %}
+                                {% renderFile glyph_example, glyph_example, "liquid" %}
 
+                            </td>
     {%- endif -%}
-    </td>
-    <td>{{var.description}} </td>
+
 </tr>
 {%- if var != item.glyphs[-1] -%}<tr class="{{current_class}}">{%- endif -%}
 {%- endfor -%}
