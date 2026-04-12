@@ -242,7 +242,7 @@
       { "glyph_names": ["ni05", "niv>", "ni>v"], "version": "05", "description": "down right ni" },
       { "glyph_names": ["ni06", "ni^>", "ni>^"], "version": "06", "description": "up right ni" },
       { "glyph_names": ["ni07", "ni^<", "ni<^"], "version": "07", "description": "up left ni" },
-      { "glyph_names": ["ni08", "niv<", "ni&ltv"], "version": "08", "description": "down left ni" }
+      { "glyph_names": ["ni08", "niv<", "ni<v"], "version": "08", "description": "down left ni" }
     ]
   },
   {
