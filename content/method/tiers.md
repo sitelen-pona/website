@@ -9,7 +9,7 @@ description:  "Tiers of Teachability provide a framework to understand exactly h
 alt: "gradient of four colors each have a symbol belonging to respective tiers: sona 'knowledge', leko 'cube', linluwi 'network', and lastly kokosila 'to not speak toki pona'."
 cover_image: true
 permalink: /method/tiers.html
-
+font: linja laso
 ---
 
 <style>

@@ -11,7 +11,7 @@ description:
     "View the process and conclusions from the SPPTA's exploration of differing semanticity between alt glyphs. " 
 cover_image: true
 permalink: /method/semantic-alts.html
-
+font: Fairfax Pona HD
 ---
 
 {% splith %}

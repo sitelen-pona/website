@@ -6,6 +6,7 @@ permalink: sitelen-pona.html
 description:  "Learn about a beloved pictographic writing system used by speakers of the minimalist constructed language, Toki Pona. "
 alt: "sitelen pona li seme, what is sitelen pona, as if painted by watercolour"
 cover_image: false
+font: linja lipamanka
 ---
 {% splith %}
     {% en %}What does Sitelen Pona look like?{% enden %}

@@ -10,7 +10,7 @@ description:
 alt: "collage of variously experimental sitelen pona punctuation features' "
 cover_image: true
 permalink: /method/features.html
-
+font: nasin nanpa
 ---
 
 {% splith %}

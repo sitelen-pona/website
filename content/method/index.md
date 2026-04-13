@@ -10,7 +10,7 @@ alt: "oko 'eyeball' gazes upon toki 'communication' arranged to look like kulupu
 description: 
     "This is how the SPPTA is uncovering universal and representative features of Sitelen Pona. " 
 cover_image: true
-
+font: linja laso
 ---
 
 {% split %}

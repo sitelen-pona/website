@@ -9,6 +9,7 @@ description:  "Discussing the technical rationale for merging or separating code
 alt:  "zero-width joiner and left bracket are colourfully contrasted against colon and stacking joiner."
 cover_image: true
 permalink: /method/codepoints.html
+font: nasin nanpa
 ---
 
 {% splith %}

@@ -9,7 +9,7 @@ description:  "Learn how survey input, corpus input, and input from the 'Officia
 alt: "cutely stylized jan 'people' gather to 'mu' or mutter together."
 cover_image: true
 permalink: /method/words.html
-
+font: sitelen seli kiwen
 ---
 
 <style>

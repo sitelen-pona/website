@@ -5,6 +5,7 @@ spTitle: todo
 description:  "This is a standard for typing Sitelen Pona using ASCII." 
 cover_image: false
 permalink: ascii.html
+font: Fairfax Pona HD
 ---
 
 <style>

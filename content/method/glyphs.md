@@ -10,7 +10,7 @@ description:
 alt: "collage of symbols and their variants. the representative versions are highlighted:  linluwi 'network', kiki 'spikey,' majuna 'old',  akesi 'reptile', and  meli 'woman' "
 cover_image: true
 permalink: /method/glyphs.html
-
+font: Fairfax Pona HD
 ---
 
 
