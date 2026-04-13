@@ -1,0 +1,31 @@
+nasin nanpa:
+  license: MIT License
+  sp: nasin nanpa 
+  nasin: https://github.com/ETBCOR/nasin-nanpa
+  sL: nasin nanpa
+Fairfax Pona HD: 
+  sp: nasin [FAIRFAXponaHD] 
+  nasin: https://www.kreativekorp.com/software/fonts/fairfaxponahd/
+  sL: nasin "Fairfax Pona HD" 
+  license: OFL
+linja lipamanka:
+  sp: linja lipamanka 
+  nasin: https://lipamanka.gay/linjamanka
+  sL: linja lipamanka 
+  license: OFL
+linja laso:
+  sp: linja laso 
+  nasin: https://github.com/muteante/linja-laso?tab=OFL-1.1-1-ov-file
+  sL: linja laso 
+  license: OFL
+sitelen seli kiwen: 
+  sp: sitelen seli kiwen 
+  nasin: https://www.kreativekorp.com/software/fonts/sitelenselikiwen/
+  sL: sitelen seli kiwen 
+  license: OFL
+Nunito Sans: 
+  sp: sitelen [NUNITO|SANS] 
+  nasin: https://fonts.google.com/specimen/Nunito+Sans
+  sL: sitelen "Nunito Sans" 
+  license: OFL
+

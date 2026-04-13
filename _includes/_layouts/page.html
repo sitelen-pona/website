@@ -20,11 +20,12 @@
     <meta property="og:title" content="{{ title }}" />
     <meta property="og:url" content="https://sitelenpona.net{{page.url}}" />
     <meta name="description" content="{{description}} {% if spTitle != 'todo' %}(kepeken toki pona kin.){% endif %}">
-    <meta property="og:description" 
-  content="{{description}} {% if spTitle != 'todo' %}(lipu li ken toki pona kin.){% endif %}" />
+    <meta property="og:description"
+        content="{{description}} {% if spTitle != 'todo' %}(lipu li ken toki pona kin.){% endif %}" />
     <meta property="og:site_name" content="Sitelen Pona Publishers and Typographers Association" />
     {% if alt %}
-    <meta property="og:image" content="{{baseUrl}}/assets/sitelen/og/{{ page.filePathStem | replace: '/content/','' }}.png" />
+    <meta property="og:image"
+        content="{{baseUrl}}/assets/sitelen/og/{{ page.filePathStem | replace: '/content/','' }}.png" />
     <meta property="og:image:type" content="image/png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
@@ -153,20 +154,24 @@
             #menu details[open] img {
                 transform: rotate(90deg)
             }
-            #menu label:first-of-type{
+
+            #menu label:first-of-type {
                 margin-top: 2rem;
             }
-            label:has(select){
+
+            label:has(select) {
                 font-family: Nunito, sans-serif;
                 display: flex;
                 flex-direction: column;
                 text-transform: uppercase;
                 font-size: 0.9rem;
             }
-            #menu label{
+
+            #menu label {
                 align-items: flex-end;
 
             }
+
             select {
                 margin-bottom: 8px;
                 border: 2px solid var(--kule-3);
@@ -176,18 +181,22 @@
                 width: 8.5rem;
                 border-radius: .5rem;
             }
+
             select:is(:hover, :focus-within) {
                 border-color: var(--kule-7);
             }
+
             .breadcrumb {
                 position: relative;
                 left: 12.5%;
                 width: fit-content;
             }
-            .breadcrumb a{
+
+            .breadcrumb a {
                 color: var(--kule-7);
 
             }
+
             footer {
                 color: var(--kule-8);
                 margin-bottom: 2rem;
@@ -211,6 +220,7 @@
                 text-decoration-color: transparent;
                 margin-bottom: .5rem;
             }
+
             img {
                 max-width: 100%;
             }
@@ -218,18 +228,21 @@
             footer a:hover,
             footer p#links a:hover,
             nav a:hover,
-            nav summary:hover, nav details[open] summary{
+            nav summary:hover,
+            nav details[open] summary {
                 color: var(--pimeja);
                 text-decoration-color: var(--pimeja)
             }
 
-            footer p#links a{margin-bottom: .5rem}
+            footer p#links a {
+                margin-bottom: .5rem
+            }
 
-            nav a{
+            nav a {
                 line-height: 1.5rem;
             }
 
-            nav details[open] summary{
+            nav details[open] summary {
                 padding-bottom: .5rem;
                 border-bottom: dotted 2px var(--kule-5);
                 margin-bottom: .5rem;
@@ -239,39 +252,42 @@
                 display: none
             }
 
-            #sidebar nav details a{
+            #sidebar nav details a {
                 margin-left: 1rem
             }
 
-            #sidebar nav summary{
+            #sidebar nav summary {
                 line-height: 1.25
             }
 
-            #menu details nav details a{
+            #menu details nav details a {
                 margin-right: 1rem
             }
-            nav ul{
+
+            nav ul {
                 list-style-type: none;
                 margin: .5rem 0 2rem;
                 padding-left: 1rem
             }
-            .nav-category{
+
+            .nav-category {
                 text-transform: uppercase;
                 font-size: 0.7em;
                 display: block;
                 line-height: 1.25rem
             }
 
-            #menu .theme-selector{
+            #menu .theme-selector {
                 position: relative;
             }
 
-            #menu .theme-selector button{
+            #menu .theme-selector button {
                 position: absolute;
                 top: -3.5rem;
                 left: 0;
             }
-            #sidebar .theme-selector button{
+
+            #sidebar .theme-selector button {
                 position: absolute;
                 top: -4rem;
                 right: 0;
@@ -279,26 +295,30 @@
 
             }
 
-            .theme-selector button{
+            .theme-selector button {
                 background-color: transparent;
                 border: none;
                 color: var(--pimeja);
             }
-            .theme-selector svg{
+
+            .theme-selector svg {
                 width: 2rem;
                 height: 2rem;
             }
+
             .theme-selector .start-light {
                 display: none;
             }
+
             :root[data-selected-theme="dark"] .theme-selector .start-dark {
                 display: none;
             }
+
             :root[data-selected-theme="dark"] .theme-selector .start-light {
                 display: inherit;
             }
 
-            .theme-selector:has(button:hover){
+            .theme-selector:has(button:hover) {
                 --suno-mun: var(--pimeja);
             }
 
@@ -310,6 +330,7 @@
                 :root:not([data-selected-theme="light"]) .theme-selector .start-dark {
                     display: none;
                 }
+
                 :root:not([data-selected-theme="light"]) .theme-selector .start-light {
                     display: inherit;
                 }
@@ -331,30 +352,33 @@
                     display: none
                 }
             }
-            @media (max-width: 1070px) and (max-height: 40rem){
-                #menu nav{
+
+            @media (max-width: 1070px) and (max-height: 40rem) {
+                #menu nav {
                     display: grid;
                     grid-template-columns: max-content max-content;
                     column-gap: 1em;
                     row-gap: 0.25em;
                     margin-left: 1rem;
                 }
-                #menu .nav-category:last-of-type{
+
+                #menu .nav-category:last-of-type {
                     grid-column: 1 / 2;
                     grid-row: 3 / 4
                 }
-                #menu ul:last-of-type{
+
+                #menu ul:last-of-type {
                     grid-column: 1 / 2;
                     grid-row: 4 / 5
                 }
-                
-                #menu .nav-category{
+
+                #menu .nav-category {
                     text-align: left;
                     max-width: 10rem;
                     display: flex;
                     max-height: 2.5rem
-
                 }
+
                 #menu nav ul {
                     margin: 0;
                     padding: 0;
@@ -365,27 +389,33 @@
 
 
                 }
-                #menu .nav-category:nth-of-type(2){
+
+                #menu .nav-category:nth-of-type(2) {
                     grid-column: 2 / 3;
                     grid-row: 1 / 2;
 
                 }
-                #menu ul:nth-of-type(2){
+
+                #menu ul:nth-of-type(2) {
                     grid-column: 2 / 3;
                     grid-row: 2 / 3
                 }
-                #menu{
+
+                #menu {
                     z-index: 100;
                 }
-                #menu label:first-of-type{
+
+                #menu label:first-of-type {
                     margin-top: 0.5rem;
                 }
-                #menu label{
+
+                #menu label {
                     position: relative;
                     top: -8rem;
                 }
             }
-            @media (width < 400px) and (max-height: 35rem){
+
+            @media (width < 400px) and (max-height: 35rem) {
                 #menu nav ul {
                     max-width: 10rem;
                     min-width: 8rem;
@@ -395,12 +425,14 @@
 
 
                 }
-                #menu .nav-category:nth-of-type(2){
+
+                #menu .nav-category:nth-of-type(2) {
                     max-width: 11rem;
 
                 }
-                #menu nav{
-                    column-gap: 0.5em;    
+
+                #menu nav {
+                    column-gap: 0.5em;
 
                 }
             }
@@ -426,22 +458,25 @@
                 }
             }
 
-             /*styling for focus indicators*/
-            header a:has([src="/assets/sitelen/logo.svg"]):is(:focus-visible)
-            {
+            /*styling for focus indicators*/
+            header a:has([src="/assets/sitelen/logo.svg"]):is(:focus-visible) {
                 outline: 0.25rem solid var(--pimeja);
                 border-radius: 0.75rem;
                 height: 3rem;
             }
-            #menu details:has(summary:focus-visible){
+
+            #menu details:has(summary:focus-visible) {
                 outline: 0.25rem solid var(--pimeja);
             }
-            #menu .theme-selector button:focus-visible{
+
+            #menu .theme-selector button:focus-visible {
                 outline: 0.25rem solid var(--kule-5);
                 box-shadow: inset 0 0 0 0.25rem var(--pimeja);
-                border-radius: 3rem;;
+                border-radius: 3rem;
+                ;
             }
-            #sidebar .theme-selector button:focus-visible{
+
+            #sidebar .theme-selector button:focus-visible {
                 outline: 0.25rem solid var(--pimeja);
                 background-color: var(--kule-5);
                 border-radius: 3rem;
@@ -449,49 +484,51 @@
 
             }
 
-            :is(#menu,#sidebar) ul a:focus-visible{
+            :is(#menu, #sidebar) ul a:focus-visible {
                 outline: 0.25rem solid var(--kule-5);
                 color: var(--pimeja);
                 font-weight: 600;
             }
-            :is(#menu,#sidebar) select:focus-visible{
+
+            :is(#menu, #sidebar) select:focus-visible {
                 outline: 0.2rem solid var(--pimeja);
             }
-            main .split a:focus-visible{
+
+            main .split a:focus-visible {
                 outline: 0.25rem solid var(--kule-5);
                 outline-offset: .25rem 0.1rem;
                 color: var(--pimeja);
                 font-weight: 800;
             }
-            footer.split p:last-of-type a:focus-visible{
+
+            footer.split p:last-of-type a:focus-visible {
                 outline: 0.25rem solid var(--kule-5);
                 outline-offset: .25rem 0.1rem;
                 color: var(--pimeja);
                 font-weight: 800;
             }
-            footer.split #links a:focus-visible, .breadcrumb a:focus-visible{
+
+            footer.split #links a:focus-visible,
+            .breadcrumb a:focus-visible {
                 outline: 0.1em solid var(--pimeja);
                 outline-offset: .5em;
                 font-weight: 800;
-                width:fit-content;
+                width: fit-content;
                 background-color: var(--walo);
                 z-index: 2;
             }
+
             main .split .next-previous a:focus-visible {
                 outline: unset;
                 outline-offset: unset;
                 color: var(--lupa);
             }
+
             main .split .next-previous:focus-within {
                 color: var(--kule-8);
                 font-weight: 800;
                 border-bottom: 0.2rem solid var(--kule-5)
-
-
             }
-
-
-
         </style>
         <div>
             <a href="/index.html" style="z-index: 99">
@@ -508,87 +545,18 @@
         <summary><img alt="Menu" src="/assets/sitelen/menu.svg"></summary>
         <div class="theme-selector">
             <button>
-            <!-- svg for theme selector taken from Ui Oval Interface Icons available on svgrepo.com -->
-            <span class="start-light">
-                <span class="visually-hidden">
-                {% include "partials/ui-translate.liquid",
-                    enName: "Switch to Light mode",
-                    spName: "o kepeken kule suno walo",
-                    sLName: "o kepeken kule suno walo" %}
-                </span>
-                <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M12 2V4M12 20V22M4 12H2M6.31412 6.31412L4.8999 4.8999M17.6859 6.31412L19.1001 4.8999M6.31412 17.69L4.8999 19.1042M17.6859 17.69L19.1001 19.1042M22 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
-            </span>
-            <span class="start-dark">
-                <span class="visually-hidden">
-                    {% include "partials/ui-translate.liquid",
-                    enName: "Switch to Dark mode",
-                    spName: "o kepeken kule mun pimeja",
-                    sLName: "o kepeken kule mun pimeja" %}
-                </span>
-                <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                </svg>
-            </span></button>
-        </div>
-
-
-
-       {% include "partials/navigation.liquid" %}
-        <label for="smalllang">
-            {% include "partials/ui-translate.liquid", 
-            enName: "Language", 
-            spName: "toki", 
-            sLName: "toki" %}
-        <select id="smalllang" name="language">
-            <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
-            <option data-language="en" value="en" lang="en">English only</option>
-            <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
-        </select>
-        </label>
-        <label for="smallscript">
-            {% include "partials/ui-translate.liquid", 
-            enName: "Script", 
-            spName: "nasin sitelen", 
-            sLName: "nasin sitelen" %}
-
-        <select id="smallscript" lang="tok" name="script">
-            <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
-            <option data-script="sl" value="sl" lang="tok">sitelen Lasina</option>
-        </select>
-        </label>
-
-    </details>
-</div>
-
-<script>
-    const menu = document.getElementById('menu');
-const details = menu.querySelector('details');
-
-menu.addEventListener('focusout', (event) => {
-  // Check if the element receiving focus is outside the #menu container
-  if (!menu.contains(event.relatedTarget)) {
-    closeTimeout = setTimeout(() => {
-      details.removeAttribute('open');}, 200); // 
-    }
-});
-</script>
-
-<div id="sidebar">
-
-    <div class="theme-selector">
-        <button>
                 <!-- svg for theme selector taken from Ui Oval Interface Icons available on svgrepo.com -->
                 <span class="start-light">
                     <span class="visually-hidden">
-                    {% include "partials/ui-translate.liquid",
+                        {% include "partials/ui-translate.liquid",
                         enName: "Switch to Light mode",
                         spName: "o kepeken kule suno walo",
                         sLName: "o kepeken kule suno walo" %}
                     </span>
                     <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M12 2V4M12 20V22M4 12H2M6.31412 6.31412L4.8999 4.8999M17.6859 6.31412L19.1001 4.8999M6.31412 17.69L4.8999 19.1042M17.6859 17.69L19.1001 19.1042M22 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path
+                            d="M12 2V4M12 20V22M4 12H2M6.31412 6.31412L4.8999 4.8999M17.6859 6.31412L19.1001 4.8999M6.31412 17.69L4.8999 19.1042M17.6859 17.69L19.1001 19.1042M22 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z"
+                            stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     </svg>
                 </span>
                 <span class="start-dark">
@@ -599,35 +567,113 @@ menu.addEventListener('focusout', (event) => {
                         sLName: "o kepeken kule mun pimeja" %}
                     </span>
                     <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z" stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path
+                            d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z"
+                            stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
                     </svg>
+                </span></button>
+        </div>
+
+
+
+        {% include "partials/navigation.liquid" %}
+        <label for="smalllang">
+            {% include "partials/ui-translate.liquid",
+            enName: "Language",
+            spName: "toki",
+            sLName: "toki" %}
+            <select id="smalllang" name="language">
+                <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
+                <option data-language="en" value="en" lang="en">English only</option>
+                <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
+            </select>
+        </label>
+        <label for="smallscript">
+            {% include "partials/ui-translate.liquid",
+            enName: "Script",
+            spName: "nasin sitelen",
+            sLName: "nasin sitelen" %}
+
+            <select id="smallscript" lang="tok" name="script">
+                <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
+                <option data-script="sl" value="sl" lang="tok">sitelen Lasina</option>
+            </select>
+        </label>
+
+    </details>
+</div>
+
+<script>
+    const menu = document.getElementById('menu');
+    const details = menu.querySelector('details');
+
+    menu.addEventListener('focusout', (event) => {
+        // Check if the element receiving focus is outside the #menu container
+        if (!menu.contains(event.relatedTarget)) {
+            closeTimeout = setTimeout(() => {
+                details.removeAttribute('open');
+            }, 200); // 
+        }
+    });
+</script>
+
+<div id="sidebar">
+
+    <div class="theme-selector">
+        <button>
+            <!-- svg for theme selector taken from Ui Oval Interface Icons available on svgrepo.com -->
+            <span class="start-light">
+                <span class="visually-hidden">
+                    {% include "partials/ui-translate.liquid",
+                    enName: "Switch to Light mode",
+                    spName: "o kepeken kule suno walo",
+                    sLName: "o kepeken kule suno walo" %}
                 </span>
+                <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M12 2V4M12 20V22M4 12H2M6.31412 6.31412L4.8999 4.8999M17.6859 6.31412L19.1001 4.8999M6.31412 17.69L4.8999 19.1042M17.6859 17.69L19.1001 19.1042M22 12H20M17 12C17 14.7614 14.7614 17 12 17C9.23858 17 7 14.7614 7 12C7 9.23858 9.23858 7 12 7C14.7614 7 17 9.23858 17 12Z"
+                        stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </span>
+            <span class="start-dark">
+                <span class="visually-hidden">
+                    {% include "partials/ui-translate.liquid",
+                    enName: "Switch to Dark mode",
+                    spName: "o kepeken kule mun pimeja",
+                    sLName: "o kepeken kule mun pimeja" %}
+                </span>
+                <svg role="presentation" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M21.9548 12.9564C20.5779 15.3717 17.9791 17.0001 15 17.0001C10.5817 17.0001 7 13.4184 7 9.00008C7 6.02072 8.62867 3.42175 11.0443 2.04492C5.96975 2.52607 2 6.79936 2 11.9998C2 17.5227 6.47715 21.9998 12 21.9998C17.2002 21.9998 21.4733 18.0305 21.9548 12.9564Z"
+                        stroke="var(--suno-mun)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </span>
         </button>
     </div>
 
     {% include "partials/navigation.liquid" %}
 
     <label for="biglang" style="margin-top: 2rem">
-        {% include "partials/ui-translate.liquid", 
-            enName: "Language", 
-            spName: "toki", 
-            sLName: "toki" %}
+        {% include "partials/ui-translate.liquid",
+        enName: "Language",
+        spName: "toki",
+        sLName: "toki" %}
 
-    <select id="biglang" name="language">
-        <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
-        <option data-language="en" value="en" lang="en">English only</option>
-        <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
-    </select>
+        <select id="biglang" name="language">
+            <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
+            <option data-language="en" value="en" lang="en">English only</option>
+            <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
+        </select>
     </label>
-    <label for="bigscript">  {% include "partials/ui-translate.liquid", 
-            enName: "Script", 
-            spName: "nasin sitelen", 
-            sLName: "nasin sitelen" %}
+    <label for="bigscript"> {% include "partials/ui-translate.liquid",
+        enName: "Script",
+        spName: "nasin sitelen",
+        sLName: "nasin sitelen" %}
 
-    <select id="bigscript" lang="tok" name="script">
-        <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
-        <option data-script="sl" value="sl" lang="tok">sitelen Lasina</option>
-    </select>
+        <select id="bigscript" lang="tok" name="script">
+            <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
+            <option data-script="sl" value="sl" lang="tok">sitelen Lasina</option>
+        </select>
     </label>
 </div>
 
@@ -635,39 +681,41 @@ menu.addEventListener('focusout', (event) => {
 
 <main>
 
-      {%- if breadcrumb -%}
-        <p class="breadcrumb">
-            {%- for item in breadcrumb -%}
-            <span><a href="{{ item.link }}">
-                {% include "partials/ui-translate.liquid", enName: item.enName, spName: item.spName, sLName: item.sLName %}</a>
-                {%- if item != breadcrumb[-1] -%}
-                &nbsp;>
-                {%- endif -%}
+    {%- if breadcrumb -%}
+    <p class="breadcrumb">
+        {%- for item in breadcrumb -%}
+        <span><a href="{{ item.link }}">
+                {% include "partials/ui-translate.liquid", enName: item.enName, spName: item.spName, sLName: item.sLName
+                %}</a>
+            {%- if item != breadcrumb[-1] -%}
+            &nbsp;>
+            {%- endif -%}
 
 
-            </span>
-            {%- endfor -%}
-        </p>
+        </span>
+        {%- endfor -%}
+    </p>
     {%- endif -%}
- 
+
     <h1 class="split">
         <div>
-            {% include "partials/ui-translate.liquid", 
-            enName: title, 
-            spName: spTitle, 
-            sLName: sLTitle 
+            {% include "partials/ui-translate.liquid",
+            enName: title,
+            spName: spTitle,
+            sLName: sLTitle
             %}
-        <div>
+            <div>
     </h1>
-    
+
     {% assign svg_alt = alt | svg_alt_data %}
 
     {% if alt and cover_image %}
-    {% assign svg_inline = "./_includes/assets/" | append: page.filePathStem | replace: '/content/','' | append: ".svg" %}
+    {% assign svg_inline = "./_includes/assets/" | append: page.filePathStem | replace: '/content/','' | append: ".svg"
+    %}
     {% renderFile svg_inline, svg_alt, "liquid" %}
     {% endif %}
 
-     
+
     {{ content }}
 
 </main>
@@ -675,49 +723,80 @@ menu.addEventListener('focusout', (event) => {
 
     <p lang="en" id="links">
         <a href="/sitemap">
-        {% include "partials/ui-translate.liquid", 
-            enName: "Sitemap", 
-            spName: "nasin pi lipu ale", 
+            {% include "partials/ui-translate.liquid",
+            enName: "Sitemap",
+            spName: "nasin pi lipu ale",
             sLName: "nasin pi lipu ale" %}
         </a>
 
         <a href="/contact">
-        {% include "partials/ui-translate.liquid", 
-            enName: "Contact", 
-            spName: "o toki tawa mi", 
+            {% include "partials/ui-translate.liquid",
+            enName: "Contact",
+            spName: "o toki tawa mi",
             sLName: "o toki tawa mi" %}
         </a>
-        <a href="https://bsky.app/profile/sitelenpona.net">        {% include "partials/ui-translate.liquid", 
-            enName: "Bluesky", 
-            spName: "ilo pi sewi laso", 
+        <a href="https://bsky.app/profile/sitelenpona.net"> {% include "partials/ui-translate.liquid",
+            enName: "Bluesky",
+            spName: "ilo pi sewi laso",
             sLName: "ilo pi sewi laso" %}
         </a>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScDf9cWNQqxCMI_rELpvw49C7XCAuGNzMMuDAXFlxZ6E270Kg/viewform">        {% include "partials/ui-translate.liquid", 
-            enName: "Join us!", 
-            spName: "o kama lon kulupu", 
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScDf9cWNQqxCMI_rELpvw49C7XCAuGNzMMuDAXFlxZ6E270Kg/viewform">
+            {% include "partials/ui-translate.liquid",
+            enName: "Join us!",
+            spName: "o kama lon kulupu",
             sLName: "o kama lon kulupu" %}
         </a>
-        
-</p>
+
+    </p>
     <p lang="en" style="grid-column: 4">
         <span class="ui-en">
-            This website uses <a href="https://github.com/googlefonts/NunitoSans">Nunito Sans</a>, <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a> (both
-            licensed under the OFL) and <a href="https://github.com/ETBCOR/nasin-nanpa">nasin-nanpa</a> (licensed under the
-            MIT License.)
+            This website uses <a href="{{fonts['Nunito Sans'].nasin}}">Nunito Sans</a> (licensed under the
+            <a href="{{licenses['OFL'].nasin}}">OFL</a>) and <a href="https://github.com/ETBCOR/nasin-nanpa">nasin-nanpa</a> (licensed under the
+            <a href="{{licenses['MIT License'].nasin}}">MIT License</a>.)
+
+            {% if font %}
+                Additionally, this particular page features <a href="{{fonts[font].nasin}}">{{ font | log }}</a> (licensed
+                under <a href="{{licenses[fonts[font].license].nasin}}">{{ fonts[font].license }}</a>)
+                {% if secondFont %}
+                and <a href="{{fonts[secondFont].nasin}}">{{ secondFont | log }}</a> (licensed under <a href="{{licenses[fonts[secondFont].license].nasin}}">{{ fonts[font].license }})</a>
+                {% endif %}
+                in images and/or embeds.
+            {% endif %}
         </span>
         <span class="ui-tok">
             <span class="ui-sp">
-                lipu ken <a href="https://openfontlicense.org/">te nasin sitelen open to</a> pi <a href="https://global.sil.org/">kulupu [SIL]</a> li lawa nasin e ken mi pi <a href="https://github.com/googlefonts/NunitoSans">nasin [nena uta nena ilo tomo o zz sama a nena]</a> e ken mi pi <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a>.kin la <a href="https://github.com/ETBCOR/nasin-nanpa">nasin nanpa</a> la lipu ona pi ken mi li tan <a href="https://en.wikipedia.org/wiki/MIT_License">tomo sona pi ma [ma.sama.suno.seli.]</a>.
+
+                selo sitelen pi(lipu mi) li kepeken te <a href="{{fonts['Nunito Sans'].nasin}}">{{fonts['Nunito Sans'].sp}}</a> to lon  <a href="{{licenses[fonts['Nunito Sans'].license].nasin}}">{{licenses[fonts['Nunito Sans'].license].sp}}</a> li kepeken te <a href="{{fonts['nasin nanpa'].nasin}}">{{fonts['nasin nanpa'].sp}}</a> to lon  <a href="{{licenses[fonts['nasin nanpa'].license].nasin}}">{{licenses[fonts['nasin nanpa'].license].sp}}</a>.
+
+
+            {% if font %}
+                kin la sitelen musi pi(lipu ni a) li kepeken te <a href="{{fonts[font].nasin}}">{{fonts[font].sp}}</a> to lon <a href="{{licenses[fonts[font].license].nasin}}">{{licenses[fonts[font].license].sp}}</a>
+                {% if secondFont %}
+                li kepeken te <a href="{{fonts[secondFont].nasin}}">{{ fonts[secondFont].sp }}</a> to lon <a href="{{licenses[fonts[secondFont].license].nasin}}">{{licenses[fonts[secondFont].license].sp}}</a>
+                {% endif %}
+                .
+            {% endif %}
+
+
             </span>
             <span class="ui-sl">
-                 lipu ken <a href="https://openfontlicense.org/">'nasin sitelen open'</a> pi <a href="https://global.sil.org/">kulupu SIL</a> li lawa nasin e ken mi pi <a href="https://github.com/googlefonts/NunitoSans">nasin "Nunito Sans"</a> e ken mi pi <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a>. kin la <a href="https://github.com/ETBCOR/nasin-nanpa">nasin nanpa</a> la lipu ona pi ken mi li tan <a href="https://en.wikipedia.org/wiki/MIT_License">tomo sona pi ma Masasuse</a>. 
+
+                selo sitelen pi lipu mi li kepeken <a href="{{fonts['Nunito Sans'].nasin}}">{{fonts['Nunito Sans'].sL}}</a> lon  <a href="{{licenses[fonts['Nunito Sans'].license].nasin}}">{{licenses[fonts['Nunito Sans'].license].sL}}</a> li kepeken <a href="{{fonts['nasin nanpa'].nasin}}">{{fonts['nasin nanpa'].sL}}</a> lon  <a href="{{licenses[fonts['nasin nanpa'].license].nasin}}">{{licenses[fonts['nasin nanpa'].license].sL}}</a>.
+
+
+            {% if font %}
+                kin la sitelen musi pi lipu ni a li kepeken <a href="{{fonts[font].nasin}}">{{fonts[font].sL}}</a> lon <a href="{{licenses[fonts[font].license].nasin}}">{{licenses[fonts[font].license].sL}}</a>
+                {% if secondFont %}
+                li kepeken te <a href="{{fonts[secondFont].nasin}}">{{ fonts[secondFont].sL }}</a> to lon <a href="{{licenses[fonts[secondFont].license].nasin}}">{{licenses[fonts[secondFont].license].sL}}</a>
+                {% endif %}
+                .
+            {% endif %}
             </span>
         </span>
     </p>
     </section>
 </footer>
-<script data-goatcounter="https://sitelenpona.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+<script data-goatcounter="https://sitelenpona.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 
 </html>
