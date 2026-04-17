@@ -15,6 +15,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("scripts/");
     eleventyConfig.addPassthroughCopy("content/common/");
     eleventyConfig.addPassthroughCopy("CNAME");
+    eleventyConfig.addPassthroughCopy("robots.txt");
     eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.addPlugin(sitemap, {sitemap: {hostname: DOMAIN}});
     eleventyConfig.amendLibrary("md", (md) => {
