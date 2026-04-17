@@ -1,10 +1,13 @@
 import { IdAttributePlugin, HtmlBasePlugin, RenderPlugin } from "@11ty/eleventy";
+import sitemap from "@quasibit/eleventy-plugin-sitemap";
 import markdownItContainer from 'markdown-it-container';
 import markdownItAttrs from 'markdown-it-attrs';
 import YAML from "yaml";
 
+const DOMAIN = "https://sitelenpona.net";
+
 export default async function (eleventyConfig) {
-    eleventyConfig.addGlobalData("baseUrl", "https://sitelenpona.net");
+    eleventyConfig.addGlobalData("baseUrl", DOMAIN);
 
 
     eleventyConfig.addPassthroughCopy("_includes/assets/");
@@ -13,6 +16,7 @@ export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("content/common/");
     eleventyConfig.addPassthroughCopy("CNAME");
     eleventyConfig.addPlugin(HtmlBasePlugin);
+    eleventyConfig.addPlugin(sitemap, {sitemap: {hostname: DOMAIN}});
     eleventyConfig.amendLibrary("md", (md) => {
         md.use(markdownItAttrs);
         md.use(markdownItContainer, 'attr', {
